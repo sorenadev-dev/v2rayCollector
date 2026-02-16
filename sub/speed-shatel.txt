@@ -1,12 +1,9 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-16T15:15:26Z
+# Generated: 2026-02-16T18:18:04Z
 # IP: 192.168.2.40
-# Total Working: 2
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 43.99 Mbps | Ping: 1128ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 8988
-
-# Speed: 2.90 Mbps | Ping: 702ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
+# Speed: 3.93 Mbps | Ping: 835ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316?note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 
