@@ -1,133 +1,109 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-02-16T09:11:34Z
-# Total Working: 43
+# Generated: 2026-02-16T12:15:16Z
+# Total Working: 35
 #
-# Ping: 91ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@v2rays_ha 8941
+# Ping: 90ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?security=tls&type=ws&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&host=mitivpn-2.nic3-1.workers.dev&alpn=http%2F1.1&sni=nic3-1.workers.dev&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_3%7C4.9MB%2Fs`
 
-# Ping: 114ms
+# Ping: 93ms
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&fp=chrome&type=ws&host=o00o.snip.qzz.io&path=%2FTel-%40V2rayAlpha#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
+
+# Ping: 103ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0196
+
+# Ping: 109ms
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/150.109.11.223=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#Telegram:@config_proxy 🔥
+
+# Ping: 116ms
+vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@172.67.166.185:443?type=ws&encryption=none&host=usa.correctcosette.workers.dev&path=/R8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&alpn=http/1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20609576
+
+# Ping: 119ms
+vmess://eyJhZGQiOiIxMDQuMTkuMTc0LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJlOGIxNTAwYi1lOWU4LTU0OTItODMxMi1mNGVhZGY3ZDA3NjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4W/77iPMTVAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+# Ping: 124ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0195
+
+# Ping: 131ms
+vmess://eyJhZGQiOiIxMDQuMTkuMTczLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJlOGIxNTAwYi1lOWU4LTU0OTItODMxMi1mNGVhZGY3ZDA3NjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiLimpnvuI8zQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+# Ping: 141ms
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.218:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#@chillguy_vpn
 
-# Ping: 118ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#👉🆔 @v2ray_configs_pool 📡 🇬🇧GB_2|3.2MB/s
+# Ping: 145ms
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
 
-# Ping: 128ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.231:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20707611
-
-# Ping: 138ms
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#@v2rays_ha 8944
-
-# Ping: 143ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.60-4585
-
-# Ping: 195ms
-vless://95f60f0d-b2c2-4826-9f65-a8091fc57fba@193.228.91.75:1645?security=none&encryption=none&headerType=none&type=tcp#@MxV2ray،@MxV2ray،@MxV2ray،@MxV2ray
-
-# Ping: 219ms
-vmess://eyJhZGQiOiAiMTA0LjI2LjE1Ljg1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCAiaWQiOiAibmFzbmV0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4/ZWQ9MjU2MCIsICJwb3J0IjogODA4MCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDMyMjM2NyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322367
-
-# Ping: 227ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#@ConfigV2RayNG
-
-# Ping: 239ms
-vless://621a845a-48ea-35f0-9b9a-ca499c647ade@104.21.224.5:443?encryption=none&security=tls&sni=dabaihk.webn.cc&alpn=h3,h2&fp=chrome&allowInsecure=1&type=ws&host=dabaihk.webn.cc&path=/db1024e9df2f990b#@chillguy_vpn
-
-# Ping: 280ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#@v2rays_ha 8945
-
-# Ping: 281ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#👉🆔 @v2ray_configs_pool 📡 🇧🇷BR_4|2.4MB/s
-
-# Ping: 289ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#@v2ray_configs_pools+🚀+کانفیگ+های+بیشتر+در+چنل
-
-# Ping: 292ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.80.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#@V2raysCollector 🌼
-
-# Ping: 297ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#v2ray_configs_pools::🏴‍☠️
-
-# Ping: 298ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-4638
-
-# Ping: 298ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20677359
-
-# Ping: 299ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?#👉🆔@v2ray_configs_pool📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:93ms 34 dailyv2ry
-
-# Ping: 311ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#@v2rays_ha 8942
-
-# Ping: 316ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#@@V2rayng_Fast کانال تلگرام 🕊️
-
-# Ping: 351ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.209:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#Telegram:@config_proxy 🔥
-
-# Ping: 351ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642/?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#@v2rays_ha 8925
-
-# Ping: 429ms
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#🌊 Tel : @ProxyVPN11 ⟵
-
-# Ping: 440ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=none&type=tcp#🇨🇭 TCP-None | @Express_alaki | src @v2ray_configs_pool
-
-# Ping: 479ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#@v2rays_ha 8943
-
-# Ping: 484ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0273
-
-# Ping: 487ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#@awlix_ir
-
-# Ping: 497ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.226:38388#👉🆔 @v2ray_configs_pool 📡 🇻🇳VN_1|1.2MB/s
-
-# Ping: 506ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#@awlix_ir
-
-# Ping: 510ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480/?security=none&type=tcp&headerType=&path=&host=#@v2rays_ha 9004
-
-# Ping: 539ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#@awlix_ir
-
-# Ping: 755ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0294
-
-# Ping: 978ms
+# Ping: 208ms
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#%F0%9F%87%AD%F0%9F%87%B0HK-216.250.97.82-0315
 
-# Ping: 1001ms
-vless://49af75d4-31d0-4322-b425-630be07030e1@199.232.192.193:80?type=ws&encryption=none&host=diarasup2.global.ssl.fastly.net&path=/download#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20126594
+# Ping: 241ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#@ConfigV2RayNG
 
-# Ping: 1057ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp&headerType=&path=/&host=&note=@FreeOnlineVPN#🇨🇭 - CH - @FreeOnlineVPN
+# Ping: 302ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#@filembad
 
-# Ping: 1159ms
-vmess://eyJhZGQiOiAiMTg4LjExNC45OC4wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCAiaWQiOiAibmFzbmV0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4/ZWQ9MjU2MC8/VEVMRUdSQU0tLUtBTkFMLS1KS1ZQTi0tSktWUE4tLUpLVlBOLS1KS1ZQTi0tSktWUE4tLUpLVlBOIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBtZWxpcHJveHl5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+# Ping: 303ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#@filembad
 
-# Ping: 1283ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.192:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
+# Ping: 317ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#🇰🇿 16@shadowsockskeys
 
-# Ping: 1401ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20353936
+# Ping: 317ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#@@V2rayng_Fast کانال تلگرام 🕊️
 
-# Ping: 1417ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=1&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=/#کانفیگ رایگان = t.me/arisping
+# Ping: 345ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-4638
 
-# Ping: 1438ms
+# Ping: 346ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0191
+
+# Ping: 395ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=&encryption=none&headerType=none&type=tcp#ConfigV2RayNG
+
+# Ping: 413ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=&encryption=none&headerType=none&type=tcp#🇨🇭 ConfigV2RayNG
+
+# Ping: 413ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20312003
+
+# Ping: 452ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.130:38388#Telegram:@config_proxy 💦
+
+# Ping: 489ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#@awlix_ir
+
+# Ping: 496ms
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.187:38388#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.187-5222
 
-# Ping: 1610ms
-vless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80?encryption=none&type=ws&host=moodaontw.global.ssl.fastly.net&path=/@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--/@HqV2RayNG--@HqV2RayNG?ed=2056&security=none#@HqV2rayNG 🇩🇪 3/3 - 15 February
+# Ping: 497ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#@awlix_ir
 
-# Ping: 2081ms
+# Ping: 508ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0273
+
+# Ping: 553ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.192:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
+
+# Ping: 660ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0294
+
+# Ping: 1299ms
+vmess://eyJhZGQiOiAiMTcyLjY3LjczLjE2MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtMTYyMTkxMDk5LnNoYXJnaGRhaWx5LmNvIiwgImlkIjogIm5hc25ldCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9uYXNuZXQvY2RuP2VkPTI1NjAiLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4+z77iPIFNoYXRha1ZQTiA3OTk4NTIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20799852
+
+# Ping: 1406ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313?note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 
-# Ping: 3149ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=%2F&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_3%7C2.7MB%2Fs`
+# Ping: 1450ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0287
+
+# Ping: 2286ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316?note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
+
+# Ping: 4000ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480/?security=none&type=tcp&headerType=&path=&host=#@v2rays_ha 9004
+
+# Ping: 4198ms
+vmess://eyJhZGQiOiIxMDQuMjQuMTY5LjE4MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5OTY2Ny5yYWhhdmFyZDM2NS5jbyIsImlkIjoibmFzbmV0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL05BU05FVC9jZG4jLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjE/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6IkBtZWxpcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Ping: 4405ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#@Golestan_VPN - ...ما ادامه داریم
 
