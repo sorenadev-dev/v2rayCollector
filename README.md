@@ -1,95 +1,150 @@
-# v2rayCollector
+# v2rayCollector – Free V2Ray, VMess, VLESS, Trojan & Shadowsocks Subscription Aggregator
 
-Automatically collects public **V2Ray-compatible proxies** from various web sources, combines them, tests them, and commits the results to this repository.
+**v2rayCollector** automatically collects public **V2Ray-compatible proxy configurations**, tests them using **[Sing-box](https://github.com/SagerNet/sing-box)**, and publishes continuously updated subscription links.
 
-Supported proxy types:
+This repository provides **free V2Ray subscription links** including:
 
-`VMess` • `VLess` • `Trojan` • `Shadowsocks` • `Hysteria2` • `Tuic` • `Socks` • `Http`
+* VMess
+* VLESS
+* Trojan
+* Shadowsocks (SS)
+* Hysteria2
+* TUIC
+* SOCKS
+* HTTP
 
-Subscriptions are automatically updated.
-
-Proxy testing is performed using **[Sing-box](https://github.com/SagerNet/sing-box)**.
-
----
-
-## 📌 How It Works
-
-1. Proxies are collected from multiple public web sources.
-2. They are merged and deduplicated.
-3. Each proxy is tested (TCP, URL, and speed tests).
-4. Working proxies are grouped by ISP.
-5. Results are committed automatically to this repository.
+Subscriptions are automatically refreshed, tested, filtered, and grouped by ISP.
 
 ---
 
-## 🚀 Usage
+## 🔍 What Is This Project?
 
-Simply import the subscription link corresponding to your ISP and test type into your preferred client (e.g., v2rayNG, V2RayN, Clash, Hiddify, Sing-box, etc.).
+v2rayCollector is a **V2Ray subscription aggregator and proxy tester** that:
+
+* Crawls public proxy sources
+* Merges and removes duplicate configs
+* Tests connectivity (TCP)
+* Tests real-world access (URL test)
+* Benchmarks speed performance
+* Groups working proxies by ISP / ASN
+* Commits updated subscription files automatically
+
+If you're looking for:
+
+* Free V2Ray subscription
+* VMess subscription link
+* VLESS subscription list
+* Trojan proxy list
+* Shadowsocks free servers
+* Hysteria2 or TUIC configs
+
+This repository provides continuously tested and updated lists.
 
 ---
 
-## 📡 Available Subscriptions
+## ⚙️ How It Works
 
-### ☁️ RouterHosting LLC  ·  cloudzy (AS14956)
+1. Public proxy configurations are collected from multiple sources.
+2. Configurations are deduplicated and normalized.
+3. Each proxy is tested using **Sing-box**:
 
-* **TCP Test**
+   * TCP connectivity test
+   * HTTP URL test
+   * Speed benchmark test
+4. Working proxies are grouped by ISP / ASN.
+5. Subscription files are automatically committed to GitHub.
+
+All lists are updated automatically.
+
+---
+
+## 🚀 How To Use
+
+1. Copy the subscription link matching your ISP.
+2. Import it into your preferred client:
+
+   * v2rayNG
+   * V2RayN
+   * Clash
+   * Hiddify
+   * Sing-box
+   * Any V2Ray-compatible client
+
+No setup required.
+
+---
+
+# 📡 Free V2Ray Subscription Links (By ISP / ASN)
+
+## ☁️ RouterHosting LLC – Cloudzy (AS14956)
+
+High-quality tested V2Ray subscription for Cloudzy network.
+
+* **TCP Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/tcp-cloudzy.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/tcp-cloudzy.txt)
 
-* **URL Test**
+* **URL Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/url-cloudzy.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/url-cloudzy.txt)
 
-* **Speed Test**
+* **Speed Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/speed-cloudzy.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/speed-cloudzy.txt)
 
 ---
 
-### 🌐 Aria Shatel PJSC (AS31549)
+## 🌐 Aria Shatel PJSC (AS31549)
 
-* **TCP Test**
+Tested free VMess, VLESS, Trojan, and SS configs for Shatel ISP.
+
+* **TCP Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/tcp-shatel.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/tcp-shatel.txt)
 
-* **URL Test**
+* **URL Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/url-shatel.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/url-shatel.txt)
 
-* **Speed Test**
+* **Speed Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/speed-shatel.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/speed-shatel.txt)
 
 ---
 
-### 🏢 ANDISHE SABZ KHAZAR CO. P.J.S. (AS39308)
+## 🏢 Andishe Sabz Khazar Co. P.J.S. (AS39308)
 
-* **TCP Test**
+Optimized V2Ray subscription list for Andishe ISP.
+
+* **TCP Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/tcp-andishe.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/tcp-andishe.txt)
 
-* **URL Test**
+* **URL Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/url-andishe.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/url-andishe.txt)
 
-* **Speed Test**
+* **Speed Test Subscription**
   [https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/speed-andishe.txt](https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/refs/heads/main/sub/speed-andishe.txt)
 
 ---
 
-## 🧪 Test Types Explained
+## 🧪 Proxy Test Types Explained
 
-* **TCP Test** – Checks basic connectivity to the proxy endpoint.
-* **URL Test** – Tests real HTTP access through the proxy.
-* **Speed Test** – Measures download throughput for performance ranking.
+* **TCP Test** – Verifies basic port connectivity to the proxy server.
+* **URL Test** – Tests real HTTP access through the proxy tunnel.
+* **Speed Test** – Measures download throughput and ranks proxies by performance.
+
+Use Speed Test subscriptions if you want the fastest available proxies.
+
+---
+
+## 🔄 Auto-Update System
+
+* Subscriptions are refreshed automatically.
+* Only working proxies are published.
+* Results are version-controlled via GitHub commits.
+* No manual intervention required.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository aggregates publicly available proxy configurations.
-Availability and performance may vary.
-Use at your own discretion and comply with local laws and regulations.
+This repository aggregates publicly available proxy configurations from open sources.
 
----
+* No guarantee of uptime or stability.
+* Performance may vary.
+* Use responsibly and in compliance with your local laws and regulations.
 
-If you want, I can also:
-
-* Add GitHub badges (auto-update, workflow status, last commit)
-* Add architecture diagram section
-* Add automation/workflow explanation (GitHub Actions)
-* Add contribution guidelines
-* Make it more SEO-friendly
-* Or rewrite it in a more minimal/clean hacker-style format
