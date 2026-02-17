@@ -1,21 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-16T21:27:05Z
+# Generated: 2026-02-17T00:31:07Z
 # IP: 192.168.2.45
-# Total Working: 5
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 18.23 Mbps | Ping: 94ms
+# Speed: 41.15 Mbps | Ping: 103ms
 vless://f92f1657-f560-466d-9b75-c784d5d52912@172.67.201.154:80?security=none&type=ws&host=voicesofiran.org&path=/vless-ntls#@V2raysCollector 🫵🫶
 
-# Speed: 17.82 Mbps | Ping: 167ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/#کانفیگ رایگان = t.me/arisping
+# Speed: 27.00 Mbps | Ping: 108ms
+vless://8960cdff-0f33-42f5-8b69-8157069542db@172.67.201.154:443?path=%2Fvless-tls&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=voicesofiran.org&fp=chrome&type=ws&allowInsecure=1&sni=voicesofiran.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610906
 
-# Speed: 11.74 Mbps | Ping: 393ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-4617
+# Speed: 19.97 Mbps | Ping: 259ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com#『♨️ 𝐹𝑟𝑒𝑒𝑊𝑜𝑟𝑙𝑑 ♨️』@Free_World2
 
-# Speed: 4.91 Mbps | Ping: 320ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313?note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
+# Speed: 16.83 Mbps | Ping: 345ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642/?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 
-# Speed: 4.70 Mbps | Ping: 266ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316?note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+# Speed: 9.25 Mbps | Ping: 132ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti
+
+# Speed: 5.05 Mbps | Ping: 279ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#@Golestan_VPN - ...ما ادامه داریم
 
