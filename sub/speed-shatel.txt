@@ -1,21 +1,12 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-17T09:32:38Z
+# Generated: 2026-02-17T12:35:05Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 2
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 38.77 Mbps | Ping: 207ms
-vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:10010?path=/&security=&encryption=none&host=myket.ir&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+# Speed: 41.72 Mbps | Ping: 122ms
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#☮️21@oneclickvpnkeys
 
-# Speed: 29.63 Mbps | Ping: 571ms
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B7IR_1%7C4.2MB%2Fs#کانفیگ_تست_شده
-
-# Speed: 28.63 Mbps | Ping: 91ms
-trojan://ASXMj5VuLY@4.182.25.119:28279/?type=tcp&security=none#@filembad
-
-# Speed: 21.49 Mbps | Ping: 566ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.0MB%2Fs#کانفیگ_تست_شده
-
-# Speed: 4.32 Mbps | Ping: 375ms
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+# Speed: 16.52 Mbps | Ping: 319ms
+trojan://BxceQaOe@58.152.53.45:443?security=tls&allowInsecure=1&type=tcp&headerType=none#@V2raysCollector 🌷
 
