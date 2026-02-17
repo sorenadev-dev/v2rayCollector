@@ -1,24 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-17T06:39:09Z
+# Generated: 2026-02-17T09:42:41Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 41.95 Mbps | Ping: 103ms
-vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@45.130.125.160:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20422011
+# Speed: 39.88 Mbps | Ping: 208ms
+vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:10010?path=/&security=&encryption=none&host=myket.ir&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 
-# Speed: 21.11 Mbps | Ping: 623ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=%2F&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_3%7C2.7MB%2Fs`
+# Speed: 27.87 Mbps | Ping: 758ms
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B7IR_1%7C4.2MB%2Fs#کانفیگ_تست_شده
 
-# Speed: 17.26 Mbps | Ping: 729ms
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#@V2raysCollector 🚀
-
-# Speed: 11.31 Mbps | Ping: 365ms
+# Speed: 11.71 Mbps | Ping: 378ms
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 
-# Speed: 7.66 Mbps | Ping: 573ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
-
-# Speed: 4.69 Mbps | Ping: 345ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319?note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+# Speed: 10.51 Mbps | Ping: 704ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%ADCH_2%7C2.0MB%2Fs#کانفیگ_تست_شده
 
