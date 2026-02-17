@@ -1,27 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-17T00:23:57Z
+# Generated: 2026-02-17T03:27:08Z
 # IP: 192.168.2.40
 # Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 24.76 Mbps | Ping: 101ms
+# Speed: 15.62 Mbps | Ping: 863ms
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&headerType=&security=&type=tcp#@V2raysCollector 🚀
+
+# Speed: 13.34 Mbps | Ping: 109ms
 vless://f92f1657-f560-466d-9b75-c784d5d52912@172.67.201.154:80?security=none&type=ws&host=voicesofiran.org&path=/vless-ntls#@V2raysCollector 🫵🫶
 
-# Speed: 21.19 Mbps | Ping: 239ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com#『♨️ 𝐹𝑟𝑒𝑒𝑊𝑜𝑟𝑙𝑑 ♨️』@Free_World2
+# Speed: 13.29 Mbps | Ping: 359ms
+vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
 
-# Speed: 16.47 Mbps | Ping: 341ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642/?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
+# Speed: 5.99 Mbps | Ping: 379ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
 
-# Speed: 15.69 Mbps | Ping: 110ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti
+# Speed: 4.74 Mbps | Ping: 409ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313?note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 
-# Speed: 6.49 Mbps | Ping: 117ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.44.45:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20137978
+# Speed: 4.46 Mbps | Ping: 227ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
 
-# Speed: 4.81 Mbps | Ping: 474ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-4617
-
-# Speed: 4.42 Mbps | Ping: 100ms
-vless://8960cdff-0f33-42f5-8b69-8157069542db@172.67.201.154:443?path=%2Fvless-tls&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=voicesofiran.org&fp=chrome&type=ws&allowInsecure=1&sni=voicesofiran.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610906
+# Speed: 4.23 Mbps | Ping: 228ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
 
