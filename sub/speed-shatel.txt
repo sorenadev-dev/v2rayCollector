@@ -1,12 +1,12 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-17T12:35:05Z
+# Generated: 2026-02-17T15:37:19Z
 # IP: 192.168.2.40
 # Total Working: 2
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 41.72 Mbps | Ping: 122ms
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#☮️21@oneclickvpnkeys
-
-# Speed: 16.52 Mbps | Ping: 319ms
+# Speed: 9.56 Mbps | Ping: 1165ms
 trojan://BxceQaOe@58.152.53.45:443?security=tls&allowInsecure=1&type=tcp&headerType=none#@V2raysCollector 🌷
+
+# Speed: 5.97 Mbps | Ping: 3429ms
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&encryption=none&headerType=none&type=tcp#🔥 Telegram: @wiki_tajrobe
 
