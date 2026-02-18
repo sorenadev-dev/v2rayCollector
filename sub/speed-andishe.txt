@@ -1,27 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-18T01:02:07Z
+# Generated: 2026-02-18T04:06:48Z
 # IP: 192.168.2.45
-# Total Working: 7
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 16.56 Mbps | Ping: 301ms
-vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@172.64.145.38:2053?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170949
+# Speed: 34.31 Mbps | Ping: 336ms
+vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@172.64.145.38:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496116
 
-# Speed: 15.83 Mbps | Ping: 249ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
+# Speed: 27.28 Mbps | Ping: 94ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_6%7C3.4MB%2Fs#کانفیگ_تست_شده
 
-# Speed: 11.14 Mbps | Ping: 103ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_5%7C540KB%2Fs#کانفیگ_تست_شده
+# Speed: 10.00 Mbps | Ping: 423ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0299
 
-# Speed: 10.77 Mbps | Ping: 235ms
-vless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp#MTMVPN
-
-# Speed: 6.12 Mbps | Ping: 185ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇨🇭 - CH - @FreeOnlineVPN
-
-# Speed: 4.50 Mbps | Ping: 375ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#@V2rayBaaz🩶
-
-# Speed: 3.15 Mbps | Ping: 677ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480/?type=tcp&encryption=none#همراه اول متصل@networld_vpn
+# Speed: 3.94 Mbps | Ping: 251ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#@meliproxyy
 
