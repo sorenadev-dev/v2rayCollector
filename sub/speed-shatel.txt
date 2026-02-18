@@ -1,18 +1,12 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-18T03:48:47Z
+# Generated: 2026-02-18T06:51:41Z
 # IP: 192.168.2.40
-# Total Working: 4
+# Total Working: 2
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 21.57 Mbps | Ping: 274ms
-vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
+# Speed: 22.20 Mbps | Ping: 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.204.185:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20260300
 
-# Speed: 19.64 Mbps | Ping: 99ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_7%7C1.1MB%2Fs#کانفیگ_تست_شده
-
-# Speed: 16.67 Mbps | Ping: 235ms
+# Speed: 22.06 Mbps | Ping: 240ms
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
-
-# Speed: 3.96 Mbps | Ping: 267ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#@Golestan_VPN - ...ما ادامه داریم
 
