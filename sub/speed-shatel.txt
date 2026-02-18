@@ -1,24 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-18T00:45:48Z
+# Generated: 2026-02-18T03:48:47Z
 # IP: 192.168.2.40
-# Total Working: 6
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 47.23 Mbps | Ping: 337ms
-vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@172.64.145.38:2053?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170949
+# Speed: 21.57 Mbps | Ping: 274ms
+vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
 
-# Speed: 31.22 Mbps | Ping: 99ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_5%7C540KB%2Fs#کانفیگ_تست_شده
+# Speed: 19.64 Mbps | Ping: 99ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_7%7C1.1MB%2Fs#کانفیگ_تست_شده
 
-# Speed: 13.37 Mbps | Ping: 395ms
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+# Speed: 16.67 Mbps | Ping: 235ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
 
-# Speed: 4.51 Mbps | Ping: 318ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319#@V2rayBaaz🩶
-
-# Speed: 3.30 Mbps | Ping: 142ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇨🇭 - CH - @FreeOnlineVPN
-
-# Speed: 3.10 Mbps | Ping: 170ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇨🇭 - CH - @FreeOnlineVPN
+# Speed: 3.96 Mbps | Ping: 267ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#@Golestan_VPN - ...ما ادامه داریم
 
