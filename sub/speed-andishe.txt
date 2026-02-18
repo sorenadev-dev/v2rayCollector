@@ -1,18 +1,9 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-18T04:06:48Z
+# Generated: 2026-02-18T07:11:19Z
 # IP: 192.168.2.45
-# Total Working: 4
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.31 Mbps | Ping: 336ms
-vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@172.64.145.38:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496116
-
-# Speed: 27.28 Mbps | Ping: 94ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_6%7C3.4MB%2Fs#کانفیگ_تست_شده
-
-# Speed: 10.00 Mbps | Ping: 423ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0299
-
-# Speed: 3.94 Mbps | Ping: 251ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#@meliproxyy
+# Speed: 7.20 Mbps | Ping: 191ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇨🇭 - CH - @FreeOnlineVPN
 
