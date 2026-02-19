@@ -1,18 +1,9 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-19T13:20:39Z
+# Generated: 2026-02-19T16:23:27Z
 # IP: 192.168.2.40
-# Total Working: 4
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 14.43 Mbps | Ping: 439ms
-trojan://BxceQaOe@58.152.53.45:443?type=tcp&security=tls&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
-
-# Speed: 4.24 Mbps | Ping: 2456ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.199:26480/?security=none&encryption=none&headerType=none&type=tcp#@v2rays_ha 9806
-
-# Speed: 4.07 Mbps | Ping: 1343ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725175
-
-# Speed: 3.83 Mbps | Ping: 629ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Ahmad
+# Speed: 3.65 Mbps | Ping: 1369ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20904751
 
