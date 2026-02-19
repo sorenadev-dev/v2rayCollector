@@ -1,21 +1,9 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-19T01:33:22Z
+# Generated: 2026-02-19T04:38:05Z
 # IP: 192.168.2.45
-# Total Working: 5
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 37.46 Mbps | Ping: 108ms
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?encryption=none&security=tls&sni=ir1.airpanel.top&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-
-# Speed: 17.97 Mbps | Ping: 348ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇷🇺ConfigV2RayNG
-
-# Speed: 8.64 Mbps | Ping: 393ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-4850
-
-# Speed: 2.83 Mbps | Ping: 695ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?security=none&encryption=none&headerType=none&type=tcp#@proxy_kafee
-
-# Speed: 2.68 Mbps | Ping: 941ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.206:26480?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840214
+# Speed: 12.65 Mbps | Ping: 188ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Ahmad
 
