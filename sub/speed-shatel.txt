@@ -1,15 +1,12 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-19T01:08:20Z
+# Generated: 2026-02-19T04:12:09Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 2
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 16.24 Mbps | Ping: 339ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇷🇺ConfigV2RayNG
+# Speed: 22.13 Mbps | Ping: 171ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Ahmad
 
-# Speed: 4.98 Mbps | Ping: 324ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#@V2rayBaaz
-
-# Speed: 4.11 Mbps | Ping: 1090ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?security=none&encryption=none&headerType=none&type=tcp#@proxy_kafee
+# Speed: 4.17 Mbps | Ping: 327ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.196:26480?security=none&encryption=none&headerType=none&type=tcp#@chillguy_vpn
 
