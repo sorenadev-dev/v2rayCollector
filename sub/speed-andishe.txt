@@ -1,12 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-19T07:41:58Z
+# Generated: 2026-02-19T10:45:54Z
 # IP: 192.168.2.45
-# Total Working: 2
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 33.73 Mbps | Ping: 94ms
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@81.225.121.149:50/?type=tcp&encryption=none&flow=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20191062
+# Speed: 25.92 Mbps | Ping: 127ms
+vless://b91ced3a-c8c4-45b7-8c92-71b11f8ce095@172.189.59.38:51520?security=none&encryption=none&headerType=none&type=tcp#@AliXTso
 
-# Speed: 7.45 Mbps | Ping: 502ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20155462
+# Speed: 18.92 Mbps | Ping: 314ms
+trojan://BxceQaOe@58.152.53.45:443?type=tcp&security=tls&fp=chrome&allowInsecure=1#⚡Telegram = @SOSkeyNET
+
+# Speed: 18.32 Mbps | Ping: 343ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇷🇺ConfigV2RayNG
+
+# Speed: 11.48 Mbps | Ping: 1551ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Ahmad
 
