@@ -1,178 +1,187 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-02-20T13:47:49Z
-# Total Working: 58
+# Generated: 2026-02-20T16:51:47Z
+# Total Working: 61
 #
-# Ping: 83ms
+# Ping: 89ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.238:2096/?type=ws&security=tls&sni=sni.jpmj.dev&host=sni.jpmj.dev&path=/#@v2rays_ha 10073
+
+# Ping: 96ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#[7070]+-+Telegram+:+@configraygan
 
-# Ping: 103ms
+# Ping: 97ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@Hddify
 
-# Ping: 108ms
+# Ping: 100ms
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=/64.181.218.67=443#🐒89@oneclickvpnkeys
+
+# Ping: 109ms
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
 
-# Ping: 129ms
+# Ping: 109ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?encryption=none&security=tls&sni=ir1.airpanel.top&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+# Ping: 112ms
+vmess://eyJhZGQiOiAiMTA0LjI0LjE2OS4xODMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmFzbmV0LTU3MTI5OTY2Ny5yYWhhdmFyZDM2NS5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvTkFTTkVUL2NkbiMvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMT9lZD0yNTYwIiwgInBvcnQiOiA4MDgwLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
+# Ping: 120ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#@Hddify
 
-# Ping: 141ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+# Ping: 151ms
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.18:9097#⚡Telegram = @SOSkeyNET
 
-# Ping: 149ms
+# Ping: 154ms
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@217.30.10.18:9042#⚡Telegram = @SOSkeyNET
+
+# Ping: 156ms
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.18:9046#⚡Telegram = @SOSkeyNET
 
-# Ping: 151ms
+# Ping: 156ms
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.18:9043#⚡Telegram = @SOSkeyNET
 
-# Ping: 152ms
-ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.18:9008#⚡Telegram = @SOSkeyNET
-
-# Ping: 153ms
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.18:9053#⚡Telegram = @SOSkeyNET
-
-# Ping: 158ms
+# Ping: 157ms
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.18:9064#⚡Telegram = @SOSkeyNET
 
 # Ping: 158ms
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@217.30.10.18:9042#⚡Telegram = @SOSkeyNET
-
-# Ping: 162ms
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.18:9000#⚡Telegram = @SOSkeyNET
-
-# Ping: 165ms
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@217.30.10.18:9098#⚡Telegram = @SOSkeyNET
-
-# Ping: 165ms
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.18:9093#⚡Telegram = @SOSkeyNET
-
-# Ping: 171ms
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
 
-# Ping: 173ms
+# Ping: 159ms
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.18:9093#⚡Telegram = @SOSkeyNET
+
+# Ping: 161ms
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@217.30.10.18:9098#⚡Telegram = @SOSkeyNET
+
+# Ping: 168ms
 ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@217.30.10.18:9032#⚡Telegram = @SOSkeyNET
 
-# Ping: 180ms
+# Ping: 168ms
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.18:9000#⚡Telegram = @SOSkeyNET
+
+# Ping: 169ms
+ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.18:9053#⚡Telegram = @SOSkeyNET
+
+# Ping: 171ms
 ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@217.30.10.18:9088#⚡Telegram = @SOSkeyNET
 
-# Ping: 183ms
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.70:9084#⚡Telegram = @SOSkeyNET
+# Ping: 175ms
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.18:9008#⚡Telegram = @SOSkeyNET
 
-# Ping: 217ms
+# Ping: 196ms
+vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDIwOTgwNSIsICJhZGQiOiAiMTcyLjY3LjE5NS4xMyIsICJwb3J0IjogODAsICJpZCI6ICI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJta2l1eS4xeDkuaW5kZXZzLmluIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInRscyI6ICIiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgMTkzIn0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20209805
+
+# Ping: 204ms
+vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDgyNTUwMSIsICJhZGQiOiAiMTcyLjY3LjIxNC4xMjIiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGU0NWMxYjQtOTEwNy00NWRkLTk5OTUtY2RmN2NiYjQ0ZDlkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAieXloanUuMXg2LmluZGV2cy5pbiIsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiL2lTUldTS1VKS051WHZWenNZSG1zTXJuTyIsICJ0bHMiOiAiIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIvCfh7rwn4e4IFVTIDE5OSJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20825501
+
+# Ping: 218ms
+vmess://eyJ2IjogbnVsbCwgInBzIjogIlRlbGVncmFtOkBjb25maWdfcHJveHkg8J+UpSIsICJhZGQiOiAiMTcyLjY0LjgwLjEiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGU0NWMxYjQtOTEwNy00NWRkLTk5OTUtY2RmN2NiYjQ0ZDlkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAidmZndHk2LjJubi5jY3d1LmNjIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInRscyI6ICIiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAiw7DCn8KHwrrDsMKfwofCuCBVUyAxODEifQ==
+
+# Ping: 225ms
+vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDM4ODcyNCIsICJhZGQiOiAiMTcyLjY3LjEzMC4yNiIsICJwb3J0IjogODAsICJpZCI6ICI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJnYm5oLjBubi5jY3d1LmNjIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInRscyI6ICIiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgMTc2In0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20388724
+
+# Ping: 233ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201
 
-# Ping: 254ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.107:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20517673
+# Ping: 240ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.107:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20889723
 
-# Ping: 277ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20975124
-
-# Ping: 278ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20739719
-
-# Ping: 281ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20691252
-
-# Ping: 282ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20767955
-
-# Ping: 284ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20640309
-
-# Ping: 306ms
+# Ping: 257ms
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#@chillguy_vpn
 
-# Ping: 315ms
-vless://0194f069-ebfd-49c2-b90f-bd9b1412c2b0@104.18.163.32:443?&security=tls&fp=chrome&alpn=h3&sni=pa-7oa.pages.dev&type=ws&headerType=none&host=pa-7oa.pages.dev&path=/?ed=2048#⚡Telegram = @SOSkeyNET
+# Ping: 268ms
+vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDYyMTc1OCIsICJhZGQiOiAiMTcyLjY3LjE5MC4xMjQiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGU0NWMxYjQtOTEwNy00NWRkLTk5OTUtY2RmN2NiYjQ0ZDlkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAibm1raXkuMXg4LmluZGV2cy5pbiIsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiL2lTUldTS1VKS051WHZWenNZSG1zTXJuTyIsICJ0bHMiOiAiIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIvCfh7rwn4e4IFVTIDk0In0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20621758
 
-# Ping: 325ms
-vless://0194f069-ebfd-49c2-b90f-bd9b1412c2b0@104.19.234.170:443?security=tls&fp=chrome&alpn=h3&sni=pa-7oa.pages.dev&type=ws&headerType=none&host=pa-7oa.pages.dev&path=/?ed=2048#@chillguy_vpn
+# Ping: 296ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322919
 
-# Ping: 327ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20SS%20%7C%20%40netfreedom0%20%231
+# Ping: 297ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20229490
 
-# Ping: 354ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0287
+# Ping: 302ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20852796
 
-# Ping: 398ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.40:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
-
-# Ping: 403ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#@awlix_ir
-
-# Ping: 408ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#@awlix_ir
-
-# Ping: 409ms
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096/?path=/&security=tls&encryption=none&host=ca.adobe-connect.top&type=ws&sni=ca.adobe-connect.top#@v2rays_ha 10048
-
-# Ping: 452ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.187:38388#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.187-5274
-
-# Ping: 485ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20657767
-
-# Ping: 561ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#@awlix_ir
-
-# Ping: 626ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-
-# Ping: 744ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.193:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20616143
-
-# Ping: 766ms
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDYzNzY1NCIsICJhZGQiOiAiMTA0LjIxLjg2LjM1IiwgInBvcnQiOiA4MCwgImlkIjogIjRlNDVjMWI0LTkxMDctNDVkZC05OTk1LWNkZjdjYmI0NGQ5ZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogInl5aGp1LjF4Ni5pbmRldnMuaW4iLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9pU1JXU0tVSktOdVh2VnpzWUhtc01ybk8iLCAidGxzIjogIiIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICLwn4e68J+HuCBVUyAxOTkifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20637654
-
-# Ping: 784ms
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDQ3NDczOSIsICJhZGQiOiAiMTcyLjY3LjE5NS4xMyIsICJwb3J0IjogODAsICJpZCI6ICI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJta2l1eS4xeDkuaW5kZXZzLmluIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInRscyI6ICIiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgMTkzIn0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20474739
-
-# Ping: 791ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.238:2096/?type=ws&security=tls&sni=sni.jpmj.dev&host=sni.jpmj.dev&path=/#@v2rays_ha 10073
-
-# Ping: 799ms
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDgxMDg4OSIsICJhZGQiOiAiMTcyLjY3LjE1OS41OCIsICJwb3J0IjogODAsICJpZCI6ICI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJiZ24uMWRkLmNjd3UuY2MiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9pU1JXU0tVSktOdVh2VnpzWUhtc01ybk8iLCAidGxzIjogIiIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICLwn4e68J+HuCBVUyAxMDAifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20810889
-
-# Ping: 869ms
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDU0MDIzNSIsICJhZGQiOiAiMTA0LjIxLjU0LjUxIiwgInBvcnQiOiA4MCwgImlkIjogIjRlNDVjMWI0LTkxMDctNDVkZC05OTk1LWNkZjdjYmI0NGQ5ZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogImpubS4xeDIuaW5kZXZzLmluIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInRscyI6ICIiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgMTQzIn0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540235
-
-# Ping: 908ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.196:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-
-# Ping: 1107ms
-vmess://eyJ2IjogbnVsbCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAiYWRkIjogIjEwNC4yMS43LjEwMSIsICJwb3J0IjogODAsICJpZCI6ICI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJnYm5oLjBubi5jY3d1LmNjIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInRscyI6ICIiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDE3NiJ9
-
-# Ping: 1148ms
-vless://003ef206-46b6-3701-ab77-b03debe7511f@104.21.224.5:443?path=%2Fdb1024143bf11354&security=tls&alpn=h3%2Ch2&encryption=none&host=dabaihk.webn.cc&fp=chrome&type=ws&sni=dabaihk.webn.cc#%F0%9F%86%94Telegram%20%3A%20%40planB_net
-
-# Ping: 1318ms
+# Ping: 302ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#@FarazV2ray
 
-# Ping: 1322ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116533
+# Ping: 306ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20627856
 
-# Ping: 1521ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#@Hddify
+# Ping: 308ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20166305
 
-# Ping: 1569ms
-vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071/?type=ws&encryption=none&host=shatel5.imstron.org&path=/=@mhsenivxx#@networld_vpn
+# Ping: 325ms
+vless://0194f069-ebfd-49c2-b90f-bd9b1412c2b0@104.18.163.32:443?&security=tls&fp=chrome&alpn=h3&sni=pa-7oa.pages.dev&type=ws&headerType=none&host=pa-7oa.pages.dev&path=/?ed=2048#⚡Telegram = @SOSkeyNET
 
-# Ping: 2168ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319#@VpnPinks 🎀 عضو باشید قطع نشید
+# Ping: 327ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0173
 
-# Ping: 2980ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0372
+# Ping: 341ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇷🇺ConfigV2RayNG
 
-# Ping: 3176ms
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.155.209:2052?path=/&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20711467
+# Ping: 352ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20103023
 
-# Ping: 3889ms
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.42.54:2052?type=ws&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=/&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20969921
+# Ping: 366ms
+vless://0194f069-ebfd-49c2-b90f-bd9b1412c2b0@104.19.234.170:443?security=tls&fp=chrome&alpn=h3&sni=pa-7oa.pages.dev&type=ws&headerType=none&host=pa-7oa.pages.dev&path=/?ed=2048#@chillguy_vpn
 
-# Ping: 3919ms
-vless://521a9ee4-b6a8-4097-a834-f09dd675677a@78.157.59.162:14350?path=/ALMAS5&security=none&encryption=none&host=KmM4D.divarcdn.com,J6x5j.snappfood.ir,rWWwx.yjc.ir,OWrrD.digikala.com,9elS2.tic.ir,pLaqx.&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20406109
+# Ping: 372ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#@awlix_ir
 
-# Ping: 4243ms
+# Ping: 403ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#@awlix_ir
+
+# Ping: 408ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0275
+
+# Ping: 412ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.40:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
+
+# Ping: 412ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#@awlix_ir
+
+# Ping: 428ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.251:38388#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.251-5274
+
+# Ping: 437ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.206:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+
+# Ping: 439ms
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InQxLjYyMDcyMC54eXoiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoiWzcwOTJdIC0gVGVsZWdyYW0gOiBAY29uZmlncmF5Z2FuIiwic2N5IjoiYXV0byIsInNuaSI6InQxLjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+# Ping: 454ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0279
+
+# Ping: 489ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20331264
+
+# Ping: 536ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#@FarazV2ray
+
+# Ping: 653ms
 vmess://eyJhZGQiOiAiMTkzLjE1MS4xNDYuMjMyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOTVjYjVhZS0xYjA2LTRhNTctYWJhMC0zMGFmZTEyZDIzZWQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxNzM1NiwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBjb25maWdWMnJheU5HOjpYWCJ9
 
-# Ping: 4624ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0375
+# Ping: 686ms
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiMTg4LjExNC45Ni4zIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInN5NC42MjA3MjAueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJzeTQuNjIwNzIwLnh5eiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAibmFtZSI6ICJWTS0xMTI5LTAxIn0=
+
+# Ping: 813ms
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.66.44.211:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=%2F&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759825
+
+# Ping: 975ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?encryption=none&security=none&type=tcp&headerType=none#@meliproxyy
+
+# Ping: 1260ms
+vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071/?type=ws&encryption=none&host=shatel5.imstron.org&path=/=@mhsenivxx#@networld_vpn
+
+# Ping: 1307ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+
+# Ping: 1397ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.199:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+
+# Ping: 1844ms
+vless://6e8535db-277c-4cb1-b578-efb4d874350f@193.111.236.87:2087?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
+
+# Ping: 2872ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.196:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+
+# Ping: 3684ms
+vless://003ef206-46b6-3701-ab77-b03debe7511f@104.21.224.5:443?path=%2Fdb1024143bf11354&security=tls&alpn=h3%2Ch2&encryption=none&host=dabaihk.webn.cc&fp=chrome&type=ws&sni=dabaihk.webn.cc#%F0%9F%86%94Telegram%20%3A%20%40planB_net
 
