@@ -1,12 +1,9 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-20T13:47:49Z
+# Generated: 2026-02-20T16:51:47Z
 # IP: 192.168.2.40
-# Total Working: 2
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 4.81 Mbps | Ping: 1322ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116533
-
-# Speed: 3.89 Mbps | Ping: 1521ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#@Hddify
+# Speed: 2.70 Mbps | Ping: 489ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20331264
 
