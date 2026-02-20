@@ -1,12 +1,15 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-20T02:05:09Z
+# Generated: 2026-02-20T05:09:49Z
 # IP: 192.168.2.45
-# Total Working: 2
+# Total Working: 3
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 22.26 Mbps | Ping: 150ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20215720
+# Speed: 39.59 Mbps | Ping: 207ms
+vless://4cf2e843-31b1-4ad7-ae33-0d092e12d396@85.9.96.221:41128?encryption=none&security=none&type=tcp&headerType=none#@freenettir
 
-# Speed: 7.34 Mbps | Ping: 1380ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.199:26480?security=none&encryption=none&headerType=none&type=tcp#🚩@ConfigV2RayNG
+# Speed: 4.89 Mbps | Ping: 319ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#telegram @MTMVPN 9
+
+# Speed: 2.72 Mbps | Ping: 180ms
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBNcl9FbWFhYWRcdTAwMkItXHUwMDJCXHUwMDJCXHUwNjM5XHUwNjUwXHUwNjQ1XHUwNjQwXHUwNjQwXHUwNjcwXHUwNjI3XHUwNjUzXHUwNjJGXHUwMDJCfFx1MDAyQkVtXHUwNjUzYWQiLA0KICAiYWRkIjogIjE5My4xNTEuMTQ2LjIzMiIsDQogICJwb3J0IjogIjE3MzU2IiwNCiAgImlkIjogImY5NWNiNWFlLTFiMDYtNGE1Ny1hYmEwLTMwYWZlMTJkMjNlZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 
