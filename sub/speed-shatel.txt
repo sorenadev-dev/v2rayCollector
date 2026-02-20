@@ -1,30 +1,9 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-20T04:36:44Z
+# Generated: 2026-02-20T07:40:06Z
 # IP: 192.168.2.40
-# Total Working: 8
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 20.54 Mbps | Ping: 280ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@108.162.193.249:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20205194
-
-# Speed: 13.40 Mbps | Ping: 198ms
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBNcl9FbWFhYWRcdTAwMkItXHUwMDJCXHUwMDJCXHUwNjM5XHUwNjUwXHUwNjQ1XHUwNjQwXHUwNjQwXHUwNjcwXHUwNjI3XHUwNjUzXHUwNjJGXHUwMDJCfFx1MDAyQkVtXHUwNjUzYWQiLA0KICAiYWRkIjogIjE5My4xNTEuMTQ2LjIzMiIsDQogICJwb3J0IjogIjE3MzU2IiwNCiAgImlkIjogImY5NWNiNWFlLTFiMDYtNGE1Ny1hYmEwLTMwYWZlMTJkMjNlZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-# Speed: 10.63 Mbps | Ping: 1086ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#Ahmad
-
-# Speed: 5.30 Mbps | Ping: 1991ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.199:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-
-# Speed: 5.02 Mbps | Ping: 279ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-4870
-
-# Speed: 3.93 Mbps | Ping: 400ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.206:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-
-# Speed: 3.88 Mbps | Ping: 559ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.196:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-
-# Speed: 3.66 Mbps | Ping: 742ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?encryption=none&security=none&type=tcp&headerType=none#@freenettir
+# Speed: 4.48 Mbps | Ping: 4601ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 
