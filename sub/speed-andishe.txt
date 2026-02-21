@@ -1,12 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-21T11:52:37Z
+# Generated: 2026-02-21T14:56:32Z
 # IP: 192.168.2.45
-# Total Working: 2
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 16.53 Mbps | Ping: 345ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇷🇺ConfigV2RayNG
+# Speed: 36.17 Mbps | Ping: 82ms
+vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=/v2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#🇩🇪 - کانال ما : V2rayNG_SPDNet
 
-# Speed: 2.91 Mbps | Ping: 444ms
+# Speed: 11.01 Mbps | Ping: 576ms
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Ps++4jyBTaGF0YWtWUE4gOTEyMDgxIiwgImFkZCI6ICIxNzIuNjcuMTc1LjIzNyIsICJwb3J0IjogNDQzLCAiaWQiOiAiM2NjZGQyYWYtMzdlYS00NDM5LWEzNWMtNzA0MTZmZjM0MjExIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJmcmMudGVhbXYuaXIiLCAicGF0aCI6ICIvNk1CeVVvNk1ZdW9zQUdPQ2ZzdjRXIiwgInRscyI6ICJ0bHMiLCAic25pIjogImZyYy50ZWFtdi5pciIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAibmFtZSI6ICJWTS0xMjAyLTAxIn0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20912081
+
+# Speed: 8.88 Mbps | Ping: 467ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+
+# Speed: 8.44 Mbps | Ping: 866ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446#telegram @mtmvpn 20
 
