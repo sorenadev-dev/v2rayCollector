@@ -1,15 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-21T11:09:43Z
+# Generated: 2026-02-21T14:13:43Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 46.67 Mbps | Ping: 134ms
-vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?security=none&type=ws&path=%2Fv1%2Fstream%2Ftrk&host=anten.ir&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%7C3.4MB%2Fs`
+# Speed: 39.69 Mbps | Ping: 84ms
+vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=/v2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#🇩🇪 - کانال ما : V2rayNG_SPDNet
 
-# Speed: 9.83 Mbps | Ping: 203ms
+# Speed: 35.45 Mbps | Ping: 159ms
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Ps++4jyBTaGF0YWtWUE4gMjAzMTg3IiwgImFkZCI6ICIxMDQuMjEuNjQuNDEiLCAicG9ydCI6IDQ0MywgImlkIjogIjNjY2RkMmFmLTM3ZWEtNDQzOS1hMzVjLTcwNDE2ZmYzNDIxMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZnJjLnRlYW12LmlyIiwgInBhdGgiOiAiLzZNQnlVbzZNWXVvc0FHT0Nmc3Y0VyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJmcmMudGVhbXYuaXIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgIm5hbWUiOiAiVk0tMTIwMi0wMSJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20203187
+
+# Speed: 8.54 Mbps | Ping: 1379ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+
+# Speed: 8.42 Mbps | Ping: 603ms
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 
-# Speed: 7.44 Mbps | Ping: 1624ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446#telegram @mtmvpn 20
+# Speed: 4.96 Mbps | Ping: 736ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319
+
+# Speed: 4.65 Mbps | Ping: 2040ms
+vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=&encryption=none&headerType=none&type=tcp#@filembad
 
