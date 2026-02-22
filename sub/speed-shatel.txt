@@ -1,18 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-22T11:41:17Z
+# Generated: 2026-02-22T14:44:42Z
 # IP: 192.168.2.40
-# Total Working: 4
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 33.85 Mbps | Ping: 99ms
+# Speed: 40.21 Mbps | Ping: 277ms
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Ps++4jyBTaGF0YWtWUE4gODEyNjU1IiwgImFkZCI6ICIxNzIuNjcuMTc1LjIzNyIsICJwb3J0IjogNDQzLCAiaWQiOiAiM2NjZGQyYWYtMzdlYS00NDM5LWEzNWMtNzA0MTZmZjM0MjExIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJmcmMudGVhbXYuaXIiLCAicGF0aCI6ICIvNk1CeVVvNk1ZdW9zQUdPQ2ZzdjRXIiwgInRscyI6ICJ0bHMiLCAic25pIjogImZyYy50ZWFtdi5pciIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAibmFtZSI6ICJWTS0xMjAyLTAxIn0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20812655
+
+# Speed: 39.93 Mbps | Ping: 620ms
+vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052/?type=ws&encryption=none&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn?ed=1024#🇹🇷TR_1|1.1MB/s
+
+# Speed: 25.83 Mbps | Ping: 103ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20623442
+
+# Speed: 17.71 Mbps | Ping: 402ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&host=TEL@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇲 - کانال ما : V2rayNG_SPDNet
+
+# Speed: 6.93 Mbps | Ping: 996ms
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.126.92.224:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 18
 
-# Speed: 23.46 Mbps | Ping: 117ms
-vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.70.204.200:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 19
+# Speed: 5.55 Mbps | Ping: 286ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 
-# Speed: 16.02 Mbps | Ping: 145ms
-vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@18.156.128.77:15948?security=&encryption=none&headerType=&type=tcp#@VpnMaan 16
-
-# Speed: 3.10 Mbps | Ping: 4195ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.199:26480?encryption=none&security=none&type=tcp&headerType=none#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+# Speed: 4.59 Mbps | Ping: 1477ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#@FarazV2ray
 
