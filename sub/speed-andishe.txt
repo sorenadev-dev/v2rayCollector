@@ -1,12 +1,9 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-23T03:49:12Z
+# Generated: 2026-02-23T06:54:16Z
 # IP: 192.168.2.45
-# Total Working: 2
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 27.28 Mbps | Ping: 111ms
-vless://ef14978e-33e8-43a4-a2e4-a7b6dc1e5f1c@185.124.175.36:9090/?type=tcp&encryption=none&flow=#Telegram:@config_proxy 🔥
-
-# Speed: 12.34 Mbps | Ping: 230ms
-vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
+# Speed: 3.30 Mbps | Ping: 237ms
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20773566
 
