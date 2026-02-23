@@ -1,12 +1,15 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-23T19:11:29Z
+# Generated: 2026-02-23T22:15:07Z
 # IP: 192.168.2.45
-# Total Working: 2
+# Total Working: 3
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.17 Mbps | Ping: 186ms
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#⚡︎ 🇩🇪 ڪـــانـال مــا ☞ 𝗩𝟮𝗿𝗮𝘆𝗡𝗚_𝗦𝗣𝗗𝗡𝗲𝘁
+# Speed: 9.78 Mbps | Ping: 1845ms
+vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?encryption=none&security=none&type=tcp&headerType=none#hope of freedom - @anotherme_night
 
-# Speed: 5.01 Mbps | Ping: 617ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.16.80.144:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20357081
+# Speed: 8.37 Mbps | Ping: 833ms
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.16.80.144:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801838
+
+# Speed: 4.20 Mbps | Ping: 247ms
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170024
 
