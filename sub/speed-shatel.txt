@@ -1,27 +1,9 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-23T02:58:42Z
+# Generated: 2026-02-23T06:03:10Z
 # IP: 192.168.2.40
-# Total Working: 7
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 32.20 Mbps | Ping: 99ms
-vless://ef14978e-33e8-43a4-a2e4-a7b6dc1e5f1c@185.124.175.36:9090/?type=tcp&encryption=none&flow=#Telegram:@config_proxy 🔥
-
-# Speed: 12.16 Mbps | Ping: 170ms
-vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
-
-# Speed: 8.41 Mbps | Ping: 428ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&host=TEL@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇺🇲 - کانال ما : V2rayNG_SPDNet
-
-# Speed: 5.06 Mbps | Ping: 2191ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#@Hddify
-
-# Speed: 4.92 Mbps | Ping: 331ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
-
-# Speed: 4.78 Mbps | Ping: 306ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319#@FarazV2ray
-
-# Speed: 4.76 Mbps | Ping: 315ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
+# Speed: 3.83 Mbps | Ping: 247ms
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164767
 
