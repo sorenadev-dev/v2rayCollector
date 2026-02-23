@@ -1,15 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-23T18:17:09Z
+# Generated: 2026-02-23T21:20:30Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 39.32 Mbps | Ping: 520ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.16.80.144:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20156988
-
-# Speed: 36.16 Mbps | Ping: 186ms
+# Speed: 9.09 Mbps | Ping: 946ms
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#⚡︎ 🇩🇪 ڪـــانـال مــا ☞ 𝗩𝟮𝗿𝗮𝘆𝗡𝗚_𝗦𝗣𝗗𝗡𝗲𝘁
 
-# Speed: 23.84 Mbps | Ping: 235ms
-vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@104.18.166.203:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=ws&security=tls&encryption=none&path=/pa&host=hs-4dfc2225.ndkwiut2718.ir&sni=ndkwiut2718.ir&fp=chrome#🇺🇸[Telegram:NetifyVPN]
+# Speed: 8.69 Mbps | Ping: 417ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-4894
+
+# Speed: 7.13 Mbps | Ping: 1501ms
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.16.80.144:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20706595
+
+# Speed: 3.76 Mbps | Ping: 259ms
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20802684
+
+# Speed: 3.55 Mbps | Ping: 2517ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446#@FarazV2ray
 
