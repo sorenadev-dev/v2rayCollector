@@ -1,21 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-24T06:32:34Z
+# Generated: 2026-02-24T09:35:26Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 21.24 Mbps | Ping: 1347ms
+# Speed: 15.84 Mbps | Ping: 614ms
+vless://05b4b2a2-d9f1-46f1-848b-79f61585cf27@94.183.175.172:1313?security=&encryption=none&headerType=none&type=tcp#@canfingV2rayNG
+
+# Speed: 13.21 Mbps | Ping: 326ms
 trojan://BxceQaOe@43.198.227.190:15363?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 
-# Speed: 13.33 Mbps | Ping: 1606ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446#@FarazV2ray
+# Speed: 8.21 Mbps | Ping: 302ms
+trojan://BxceQaOe@54.250.16.92:2595?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
-# Speed: 13.20 Mbps | Ping: 408ms
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#🇷🇺ConfigV2RayNG
-
-# Speed: 12.97 Mbps | Ping: 1043ms
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=/&security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno#configraygan_3
-
-# Speed: 4.95 Mbps | Ping: 250ms
-trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20440081
+# Speed: 4.61 Mbps | Ping: 254ms
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20511211
 
