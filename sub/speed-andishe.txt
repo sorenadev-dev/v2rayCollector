@@ -1,18 +1,15 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-25T20:16:04Z
+# Generated: 2026-02-25T23:20:25Z
 # IP: 192.168.2.45
-# Total Working: 4
+# Total Working: 3
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 20.43 Mbps | Ping: 912ms
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053/?type=ws&security=tls&sni=kaja.thisiswe.uno&host=kaja.thisiswe.uno&path=/&fp=chrome#@v2rays_ha 11255
+# Speed: 48.03 Mbps | Ping: 326ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/?ed=2560#کانفیگ رایگان = t.me/arisping
 
-# Speed: 7.39 Mbps | Ping: 420ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#✅@AR14N24b
+# Speed: 20.02 Mbps | Ping: 257ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
 
-# Speed: 4.94 Mbps | Ping: 1392ms
-vless://0202580c-7393-4c99-8f6a-7f58ac25b14a@95.38.38.238:8082?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none&headerType=none#🇩🇪[Telegram:NetifyVpn]
-
-# Speed: 3.82 Mbps | Ping: 270ms
+# Speed: 6.15 Mbps | Ping: 104ms
 vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱-@vpnserverrr-100.00GB📊-29D,23H⏳
 
