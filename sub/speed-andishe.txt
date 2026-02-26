@@ -1,15 +1,21 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-25T23:20:25Z
+# Generated: 2026-02-26T02:24:28Z
 # IP: 192.168.2.45
-# Total Working: 3
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 48.03 Mbps | Ping: 326ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/?ed=2560#کانفیگ رایگان = t.me/arisping
+# Speed: 23.87 Mbps | Ping: 901ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053/?type=ws&security=tls&sni=kaja.thisiswe.uno&host=kaja.thisiswe.uno&path=/&fp=chrome#@v2rays_ha 11255
 
-# Speed: 20.02 Mbps | Ping: 257ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+# Speed: 20.49 Mbps | Ping: 133ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@40.120.43.72:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273516
 
-# Speed: 6.15 Mbps | Ping: 104ms
-vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?security=none&encryption=none&headerType=none&type=tcp#🇳🇱-@vpnserverrr-100.00GB📊-29D,23H⏳
+# Speed: 18.84 Mbps | Ping: 898ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@104.19.57.10:2053?path=/&security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno# telegram @mtmvpn
+
+# Speed: 16.00 Mbps | Ping: 306ms
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#⚡Telegram = @SOSkeyNET
+
+# Speed: 14.82 Mbps | Ping: 243ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446# telegram @mtmvpn
 
