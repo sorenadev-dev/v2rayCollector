@@ -1,12 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-25T22:13:23Z
+# Generated: 2026-02-26T01:16:27Z
 # IP: 192.168.2.40
-# Total Working: 2
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 38.46 Mbps | Ping: 577ms
+# Speed: 43.01 Mbps | Ping: 318ms
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/?ed=2560#کانفیگ رایگان = t.me/arisping
 
-# Speed: 20.40 Mbps | Ping: 171ms
+# Speed: 25.06 Mbps | Ping: 240ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446# telegram @mtmvpn
+
+# Speed: 18.04 Mbps | Ping: 136ms
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+
+# Speed: 14.77 Mbps | Ping: 135ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053/?type=ws&security=tls&sni=kaja.thisiswe.uno&host=kaja.thisiswe.uno&path=/&fp=chrome#@v2rays_ha 11255
+
+# Speed: 10.72 Mbps | Ping: 145ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@104.19.57.10:2053?path=/&security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno# telegram @mtmvpn
+
+# Speed: 6.40 Mbps | Ping: 241ms
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBDb25maWdWMlJheU5HIiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
