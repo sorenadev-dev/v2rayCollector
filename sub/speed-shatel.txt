@@ -1,15 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-02-26T19:34:16Z
+# Generated: 2026-02-26T22:37:03Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 14.10 Mbps | Ping: 747ms
+# Speed: 20.59 Mbps | Ping: 672ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#کانفیگ رایگان = t.me/arisping
+
+# Speed: 14.18 Mbps | Ping: 549ms
 trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 
-# Speed: 8.25 Mbps | Ping: 273ms
+# Speed: 10.61 Mbps | Ping: 328ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#%F0%9F%87%AD%F0%9F%87%B0HK-112.213.102.188-4778
 
-# Speed: 2.79 Mbps | Ping: 387ms
-vless://6af92797-a21f-4585-af82-5532babd22ac@194.36.174.154:9092?security=none&encryption=none&headerType=none&type=tcp#@filembad
+# Speed: 6.64 Mbps | Ping: 453ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446# telegram @mtmvpn
+
+# Speed: 3.08 Mbps | Ping: 3170ms
+vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?encryption=none&security=none&type=tcp&headerType=none#@filembad
 
