@@ -1,9 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-26T20:45:51Z
+# Generated: 2026-02-26T23:49:57Z
 # IP: 192.168.2.45
-# Total Working: 1
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 19.44 Mbps | Ping: 322ms
+# Speed: 15.61 Mbps | Ping: 705ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#کانفیگ رایگان = t.me/arisping
+
+# Speed: 11.46 Mbps | Ping: 350ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#%F0%9F%87%AD%F0%9F%87%B0HK-112.213.102.188-4778
+
+# Speed: 10.93 Mbps | Ping: 122ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633# telegram @mtmvpn
+
+# Speed: 10.69 Mbps | Ping: 301ms
 trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+
+# Speed: 7.87 Mbps | Ping: 420ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446# telegram @mtmvpn
+
+# Speed: 2.76 Mbps | Ping: 1226ms
+vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@94.184.10.119:1010?encryption=none&security=none&type=tcp&headerType=none#@filembad
 
