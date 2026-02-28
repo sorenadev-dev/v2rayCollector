@@ -1,21 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-02-28T00:21:44Z
+# Generated: 2026-02-28T03:26:16Z
 # IP: 192.168.2.45
-# Total Working: 5
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 43.73 Mbps | Ping: 117ms
+# Speed: 32.92 Mbps | Ping: 109ms
+vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none#@filembad
+
+# Speed: 29.92 Mbps | Ping: 200ms
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633# telegram @mtmvpn
 
-# Speed: 23.21 Mbps | Ping: 246ms
+# Speed: 29.66 Mbps | Ping: 118ms
+vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2087?security=tls&type=ws&headerType=&path=&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1#Telegram: @proxyiranip کانادا کلودفلر 🌐☁️🔶 834
+
+# Speed: 29.05 Mbps | Ping: 113ms
+vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=chrome#Telegram: @proxyiranip کانادا کلودفلر 🌐☁️🔶 836
+
+# Speed: 27.51 Mbps | Ping: 111ms
+vless://213426db-afb7-48d1-ae51-5093317212df@104.18.26.90:2087?security=tls&type=ws&headerType=&path=&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1#Telegram: @proxyiranip کانادا کلودفلر 🌐☁️🔶 837
+
+# Speed: 17.17 Mbps | Ping: 389ms
+trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#@AkbarConfig👈کانفیگ روزانه در
+
+# Speed: 10.91 Mbps | Ping: 459ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ=@78.38.246.150:8446# telegram @mtmvpn
-
-# Speed: 16.84 Mbps | Ping: 363ms
-trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1#🍪61@oneclickvpnkeys
-
-# Speed: 15.52 Mbps | Ping: 187ms
-vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=none&encryption=none&type=ws#@ConfigV2RayNG
-
-# Speed: 11.82 Mbps | Ping: 345ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#%F0%9F%87%AD%F0%9F%87%B0HK-112.213.102.188-4778
 
