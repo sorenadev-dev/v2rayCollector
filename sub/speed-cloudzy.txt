@@ -1,978 +1,1038 @@
 # VPN Checker - Speed Tested Configs (cloudzy)
-# Generated: 2026-03-02T20:35:53Z
+# Generated: 2026-03-02T23:46:03Z
 # IP: 0.0.0.0
-# Total Working: 324
+# Total Working: 344
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 607.89 Mbps | Ping: 15ms
-vmess://eyJhZGQiOiAiNDYuMjI1Ljg0LjEzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0MTc4OWMtZGJhMC00OThiLTk3YTAtZWYzNDliYTIxZjhhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MTgxIiwgInBzIjogIuKaoe+4j1RlbGVncmFtID0gQFNPU2tleU5FVCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-# Speed: 568.11 Mbps | Ping: 20ms
-vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_Extractor
-
-# Speed: 520.04 Mbps | Ping: 89ms
+# Speed: 641.09 Mbps | Ping: 89ms
 vless://20d26c16-df0d-48b3-bd7a-fe4490110aea@178.22.31.68:8443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=at17.fastlanehosting.ru#🇦🇹
 
-# Speed: 518.09 Mbps | Ping: 15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080?#کانفیگ رایگان = t.me/arisping
+# Speed: 593.46 Mbps | Ping: 16ms
+vmess://eyJhZGQiOiAiNDYuMjI1Ljg0LjEzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0MTc4OWMtZGJhMC00OThiLTk3YTAtZWYzNDliYTIxZjhhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MTgxIiwgInBzIjogIuKaoe+4j1RlbGVncmFtID0gQFNPU2tleU5FVCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-# Speed: 491.06 Mbps | Ping: 23ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#@CUSTOMVPNSERVER
-
-# Speed: 480.98 Mbps | Ping: 18ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.58.75:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#@chillguy_vpn
-
-# Speed: 476.67 Mbps | Ping: 14ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
-
-# Speed: 467.96 Mbps | Ping: 14ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#@AkbarConfig👈کانفیگ روزانه در
-
-# Speed: 460.28 Mbps | Ping: 14ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20%40easy_free_vpn%20%231
-
-# Speed: 453.45 Mbps | Ping: 17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
-
-# Speed: 452.67 Mbps | Ping: 15ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.18.32.47:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#@v2rays_ha 11315
-
-# Speed: 447.94 Mbps | Ping: 20ms
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&host=apii.onlineshoppingez.ir&type=ws&sni=apii.onlineshoppingez.ir#%40V2ray_confiig`
-
-# Speed: 447.49 Mbps | Ping: 13ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#@Golestan_VPN - 🍷
-
-# Speed: 445.95 Mbps | Ping: 20ms
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@198.62.62.127:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp#@en_vpn/کانفیگ های بیشتر
-
-# Speed: 443.95 Mbps | Ping: 16ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@Rayan_Config-82.38.31.187-@beepassvpn_bot
-
-# Speed: 439.97 Mbps | Ping: 26ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com# vpnsal
-
-# Speed: 438.94 Mbps | Ping: 21ms
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.16.250.22:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&fp=chrome#🇩🇪@FREE2CONFIG  (5)
-
-# Speed: 434.21 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#@Rayan_Config-82.38.31.217-@beepassvpn_bot
-
-# Speed: 433.18 Mbps | Ping: 17ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.34.99:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#@chillguy_vpn
-
-# Speed: 432.74 Mbps | Ping: 11ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0166
-
-# Speed: 430.02 Mbps | Ping: 13ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#@AkbarConfig👈کانفیگ روزانه در
-
-# Speed: 429.82 Mbps | Ping: 34ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20512701
-
-# Speed: 425.70 Mbps | Ping: 21ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#@Rayan_Config-82.38.31.218-@beepassvpn_bot
-
-# Speed: 424.69 Mbps | Ping: 17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0170
-
-# Speed: 424.51 Mbps | Ping: 18ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#t.me/entryNET/config=1858533228119215
-
-# Speed: 423.34 Mbps | Ping: 25ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#🐒20@oneclickvpnkeys
-
-# Speed: 421.07 Mbps | Ping: 17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#@Rayan_Config-82.38.31.202-@beepassvpn_bot
-
-# Speed: 420.11 Mbps | Ping: 14ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.99-0167
-
-# Speed: 418.10 Mbps | Ping: 15ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#@v2rayland02🌐
-
-# Speed: 417.72 Mbps | Ping: 15ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.99:2096?encryption=none&security=tls&sni=hetz.x-smm.com&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-
-# Speed: 416.64 Mbps | Ping: 14ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.251-0176
-
-# Speed: 416.17 Mbps | Ping: 17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱The Netherlands -> 🇳🇱The Netherlands ⚡@DeamNet_Proxy (14)
-
-# Speed: 413.33 Mbps | Ping: 21ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-
-# Speed: 413.32 Mbps | Ping: 19ms
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.17.25.173:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir#💞31@oneclickvpnkeys
-
-# Speed: 405.72 Mbps | Ping: 17ms
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@173.245.59.217:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20872760
-
-# Speed: 398.90 Mbps | Ping: 17ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.217:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🛡 V 50 @Outline_Vpn
-
-# Speed: 397.65 Mbps | Ping: 17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.82-0178
-
-# Speed: 396.17 Mbps | Ping: 19ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_Vpn
-
-# Speed: 393.70 Mbps | Ping: 23ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
-
-# Speed: 392.20 Mbps | Ping: 23ms
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80/?type=ws&encryption=none&flow=&path=%2FgetWorkerUpdates#%3E%3E%40oneclickvpnkeys%3A%3ANL
-
-# Speed: 391.59 Mbps | Ping: 20ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_Vpn```
-
-# Speed: 391.51 Mbps | Ping: 31ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0183
-
-# Speed: 390.18 Mbps | Ping: 21ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@V2rayNG3
-
-# Speed: 388.95 Mbps | Ping: 35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@Rayan_Config-82.38.31.190-@beepassvpn_bot
-
-# Speed: 388.18 Mbps | Ping: 16ms
+# Speed: 519.22 Mbps | Ping: 44ms
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#@chillguy_vpn
 
-# Speed: 383.63 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#@Rayan_Config-82.38.31.194-@beepassvpn_bot
+# Speed: 512.67 Mbps | Ping: 34ms
+vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_Extractor
 
-# Speed: 378.04 Mbps | Ping: 14ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&fp=chrome#🇨🇦Canada -> 🇩🇪Germany ⚡@DeamNet_Proxy (84)
+# Speed: 510.78 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#@AkbarConfig👈کانفیگ روزانه در
 
-# Speed: 369.38 Mbps | Ping: 410ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20657300
-
-# Speed: 364.26 Mbps | Ping: 17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.206-0184
-
-# Speed: 360.72 Mbps | Ping: 18ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#🌐 WS-TLS 📁 @Outline_ir
-
-# Speed: 359.40 Mbps | Ping: 16ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.32.75:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#@chillguy_vpn
-
-# Speed: 358.94 Mbps | Ping: 35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0182
-
-# Speed: 356.38 Mbps | Ping: 33ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#t.me/entryNET/config=1858201539118897
-
-# Speed: 348.68 Mbps | Ping: 17ms
+# Speed: 506.15 Mbps | Ping: 15ms
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.34.176:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#🐒19@oneclickvpnkeys
 
-# Speed: 345.41 Mbps | Ping: 34ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#@Rayan_Config-82.38.31.208-@beepassvpn_bot
-
-# Speed: 345.26 Mbps | Ping: 22ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🛡 V 51 @Outline_Vpn
-
-# Speed: 342.31 Mbps | Ping: 30ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.124-0188
-
-# Speed: 339.58 Mbps | Ping: 20ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#@Rayan_Config-82.38.31.205-@beepassvpn_bot
-
-# Speed: 338.13 Mbps | Ping: 15ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%E2%9A%A1Telegram%20%3D%20%40KIA_NET```
-
-# Speed: 328.98 Mbps | Ping: 23ms
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
-
-# Speed: 321.39 Mbps | Ping: 34ms
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REYxMCBUQ1AtTm9uZSB8IEBleHByZXNzX2FsYWtpIiwNCiAgImFkZCI6ICI5NC4yMzIuMjQ3LjE2NSIsDQogICJwb3J0IjogIjQ1NjUzIiwNCiAgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
-# Speed: 307.87 Mbps | Ping: 20ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0181
-
-# Speed: 307.09 Mbps | Ping: 17ms
-vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMmMzOTZhMy05NWRhLTRiZTgtYmVlZi04MzRkMTdkNzU3ODQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MDMwIiwicHMiOiJmZXZvbXJ5OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# Speed: 294.19 Mbps | Ping: 58ms
-vmess://eyJhZGQiOiAiMTYyLjE5LjI0OC4yMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImVkZTI3YTc5LWIwMzktNDkwYi05MzJjLTQ5NWRlNGI2ODg4MCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDU1MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBjb25maWdWMnJheU5HOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFIn0=
-
-# Speed: 286.12 Mbps | Ping: 23ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20867055
-
-# Speed: 265.77 Mbps | Ping: 29ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0160
-
-# Speed: 265.63 Mbps | Ping: 35ms
+# Speed: 504.14 Mbps | Ping: 13ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080?#🔥 Telegram: @wiki_tajrobe
 
-# Speed: 256.50 Mbps | Ping: 23ms
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80/?type=ws&encryption=none&flow=&path=/vless/#@chillguy_vpn
+# Speed: 500.20 Mbps | Ping: 18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱The Netherlands -> 🇳🇱The Netherlands ⚡@DeamNet_Proxy (14)
 
-# Speed: 256.22 Mbps | Ping: 24ms
-vless://e2b6d6d6-b598-4711-95e9-ca9671d87a91@104.21.11.130:2083?path=/er=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=tala.sap-lotmarx.ir&fp=chrome&type=ws&allowInsecure=0&sni=tala.sap-lotmarx.ir#@Proxyiranip
+# Speed: 499.94 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20%40easy_free_vpn%20%231
 
-# Speed: 244.60 Mbps | Ping: 18ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.91:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&fp=chrome#@chillguy_vpn
-
-# Speed: 244.27 Mbps | Ping: 8ms
-vless://aec0d3be-77ba-4372-a011-1e073df0dd7e@104.21.22.135:443/?type=ws&encryption=none&flow=&host=royal-dream-1ee7.i-r-tunl.workers.dev&path=/eyJqdW5rIjoiQjZ4Q0g4SVFnUFEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0&security=tls&sni=rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV&alpn=http/1.1&allowInsecure=1#@chillguy_vpn
-
-# Speed: 221.42 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@Rayan_Config-82.38.31.191-@beepassvpn_bot
-
-# Speed: 211.41 Mbps | Ping: 8ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#@V2rayNG3
-
-# Speed: 209.63 Mbps | Ping: 29ms
-vless://184aae9f-795f-a18c-ff65-177b90e4c7f0@95.216.182.123:2086?encryption=none&type=tcp&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20986230
-
-# Speed: 208.43 Mbps | Ping: 5ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#%3E%3E%40OutlineVpnOfficial%3A%3AXX
-
-# Speed: 201.75 Mbps | Ping: 16ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.106.175:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.106.175-0172
-
-# Speed: 189.17 Mbps | Ping: 58ms
-vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.244:443?encryption=none&security=tls&sni=uk.dlaparat.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=uk.dlaparat.ir&path=/#کانفیگ رایگان = t.me/arisping
-
-# Speed: 181.83 Mbps | Ping: 11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@V2rayNG3
-
-# Speed: 178.49 Mbps | Ping: 68ms
-vless://HKc24Oz46YVenGrwhITGoh@213.109.147.82:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=nl97.alice#@meliproxyy
-
-# Speed: 178.46 Mbps | Ping: 387ms
-vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.176:443?allowInsecure=1&encryption=none&host=uk.dlaparat.ir&path=%2F&security=tls&sni=uk.dlaparat.ir&type=ws#%F0%9F%90%BB81@oneclickvpnkeys
-
-# Speed: 172.60 Mbps | Ping: 73ms
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
-
-# Speed: 169.07 Mbps | Ping: 31ms
-vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-
-# Speed: 164.93 Mbps | Ping: 43ms
-vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.139.37:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#@WedBaZtel
-
-# Speed: 148.84 Mbps | Ping: 297ms
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596607
-
-# Speed: 145.08 Mbps | Ping: 33ms
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80/?type=ws&encryption=none&flow=&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2Fvless%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
-
-# Speed: 144.56 Mbps | Ping: 16ms
-vless://10f11182-a46e-42fc-9fec-f81baa39fa3a@140.248.165.204:80?encryption=none&host=wellcome-losangles.global.ssl.fastly.net&path=/containers/fi&security=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
-
-# Speed: 137.20 Mbps | Ping: 33ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸 Join+Telegram:@Farah_VPN 🇪🇸
-
-# Speed: 124.94 Mbps | Ping: 78ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiNDUuODkuNTIuMjA3IiwgInBvcnQiOiAzOTY1MSwgImlkIjogImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
-
-# Speed: 123.43 Mbps | Ping: 44ms
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443/?type=ws&encryption=none&flow=&host=bank.alaska-tigr.info&path=%2Flove&security=tls&sni=bank.alaska-tigr.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
-
-# Speed: 119.88 Mbps | Ping: 541ms
-vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@212.193.153.187:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=lk-cdn.deploy-assure.ru&path=//#کانفیگ رایگان = t.me/arisping
-
-# Speed: 115.25 Mbps | Ping: 22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0177
-
-# Speed: 109.45 Mbps | Ping: 621ms
-vmess://eyJhZGQiOiI1MS4xNTguMTUxLjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQwZTMwNmE2LTdjYWItNDBhYy1hMDg1LWE5NjE4OTVlYjExYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwicG9ydCI6IjIwMTA0IiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6Ok5MOjpOTCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
-
-# Speed: 108.23 Mbps | Ping: 62ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#%F0%9F%87%B1%F0%9F%87%BBLV-46.183.217.204-0200
-
-# Speed: 104.75 Mbps | Ping: 64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTVjNzVjMzVkN2VlOTI5@163.171.213.47:19702#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20877788
-
-# Speed: 96.91 Mbps | Ping: 32ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#[18161] - Telegram : @V2All
-
-# Speed: 94.37 Mbps | Ping: 145ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NDdjZWU3MjI4ZWIw@91.106.109.17:41022#%3E%3E%40OutlineVpnOfficial%3A%3AJO
-
-# Speed: 93.89 Mbps | Ping: 137ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.5.253-0203
-
-# Speed: 92.36 Mbps | Ping: 65ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20585656
-
-# Speed: 92.07 Mbps | Ping: 62ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20265601
-
-# Speed: 86.38 Mbps | Ping: 67ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20745774
-
-# Speed: 83.99 Mbps | Ping: 142ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48211#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20424583
-
-# Speed: 83.54 Mbps | Ping: 87ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0152
-
-# Speed: 81.65 Mbps | Ping: 76ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46282#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20350907
-
-# Speed: 80.85 Mbps | Ping: 22ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@Rayan_Config-82.38.31.214-@beepassvpn_bot
-
-# Speed: 80.55 Mbps | Ping: 72ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#%40V2ray_confiig`
-
-# Speed: 79.94 Mbps | Ping: 177ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night```
-
-# Speed: 79.09 Mbps | Ping: 172ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#%E2%9C%85%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%93%B6%F0%9D%99%B0%F0%9D%9A%82%F0%9D%99%B8%F0%9D%99%B0%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B2%F0%9D%99%B7
-
-# Speed: 78.34 Mbps | Ping: 88ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#%F0%9F%87%BA%F0%9F%87%B8US-38.135.24.131-0206
-
-# Speed: 76.23 Mbps | Ping: 72ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20366219
-
-# Speed: 74.46 Mbps | Ping: 149ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48212#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20524331
-
-# Speed: 74.24 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#@CUSTOMVPNSERVER
-
-# Speed: 73.82 Mbps | Ping: 146ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48213#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204109
-
-# Speed: 73.18 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201#%3E%3E%40v2rayng_fast%3A%3ADE
-
-# Speed: 72.66 Mbps | Ping: 21ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909512
-
-# Speed: 72.27 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#@V2rayNG3
-
-# Speed: 69.73 Mbps | Ping: 89ms
-vmess://eyJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0MTAyLCAiaWQiOiAiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-
-# Speed: 69.33 Mbps | Ping: 51ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#@Proxyiranip
-
-# Speed: 68.71 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#%40V2ray_confiig`
-
-# Speed: 68.50 Mbps | Ping: 19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#@AkbarConfig👈کانفیگ روزانه در
-
-# Speed: 67.92 Mbps | Ping: 30ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#@Golestan_VPN - ...ما ادامه داریم
-
-# Speed: 66.00 Mbps | Ping: 127ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#👉🆔@freenettir📡🇰🇼®️Kuwait©️Al Jahra🅿️ping:111.74ms
-
-# Speed: 64.07 Mbps | Ping: 112ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#%3E%3E%40vmess_iran%3A%3ATR
-
-# Speed: 63.76 Mbps | Ping: 154ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20330706
-
-# Speed: 63.74 Mbps | Ping: 130ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0149
-
-# Speed: 61.21 Mbps | Ping: 267ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmM4MDFhN2NhYzVmMTM0@93.174.164.89:11201#%3E%3E%40OutlineVpnOfficial%3A%3AUZ
-
-# Speed: 60.44 Mbps | Ping: 143ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48210#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20486768
-
-# Speed: 59.47 Mbps | Ping: 20ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0252
-
-# Speed: 59.22 Mbps | Ping: 227ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29463#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20289205
-
-# Speed: 58.38 Mbps | Ping: 97ms
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443/?type=ws&encryption=none&flow=&host=tar.alabama-tigr.info&path=%2Flove&security=tls&sni=tar.alabama-tigr.info&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
-
-# Speed: 58.37 Mbps | Ping: 112ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#%F0%9F%87%BA%F0%9F%87%B8US-173.234.29.2-0151
-
-# Speed: 58.19 Mbps | Ping: 102ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.200.169-0146
-
-# Speed: 56.46 Mbps | Ping: 27ms
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@217.212.217.225:50?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20641400
-
-# Speed: 55.39 Mbps | Ping: 129ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0145
-
-# Speed: 55.39 Mbps | Ping: 128ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0147
-
-# Speed: 54.77 Mbps | Ping: 124ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0148
-
-# Speed: 54.16 Mbps | Ping: 148ms
-vless://c88811ea-fead-4e2d-b34d-7d8725896304@62.60.176.237:2052/?type=ws&encryption=none&flow=&path=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-#%3E%3E%40oneclickvpnkeys%3A%3AXX
-
-# Speed: 53.39 Mbps | Ping: 203ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTFlYWZkZmZkOWE4MWUw@154.205.134.155:11651#⚡Telegram = @SOSkeyNET
-
-# Speed: 52.95 Mbps | Ping: 191ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20862663
-
-# Speed: 52.87 Mbps | Ping: 170ms
-vmess://eyJhZGQiOiI4LjYuMTEyLjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhndHJvamFuLnphYmMubmV0IiwiaWQiOiJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTYzOTVjMjAiLCJwb3J0IjoiMjA4MyIsInBzIjoiQHYycmF5bmd6ZW5kZWdpbWFtYWTwn5WK77iPIiwic2N5IjoiYXV0byIsInNuaSI6ImhndHJvamFuLnphYmMubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# Speed: 51.64 Mbps | Ping: 136ms
-vmess://eyJhZGQiOiAiMTkyLjIyNy4yNDkuMjI3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzYjEzNDI1Mi1lN2MyLTQzZGYtOThiNy1kYTIwNDEwNGFhNzkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI3NjQxIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2MnJheV9FeHRyYWN0b3IiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-
-# Speed: 50.95 Mbps | Ping: 187ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20736193
-
-# Speed: 50.23 Mbps | Ping: 197ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24851#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20SS%20%7C%20%40v_2rayng0%20%231
-
-# Speed: 48.53 Mbps | Ping: 178ms
-vmess://eyJhZGQiOiAiMTA0LjE4LjE2Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImhndHJvamFuLnphYmMubmV0IiwgImlkIjogImU2Mzk1YzIwLTQ1NzEtNGIzNC1kNmIxLTU1YTVkMzZlNDllYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZTYzOTVjMjAiLCAicG9ydCI6IDIwODMsICJwcyI6ICJAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJoZ3Ryb2phbi56YWJjLm5ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QG9uZWNsaWNrdnBua2V5czo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFgifQ==
-
-# Speed: 48.16 Mbps | Ping: 92ms
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%3E%3E%40oneclickvpnkeys%3A%3AXX
-
-# Speed: 47.58 Mbps | Ping: 135ms
-vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
-
-# Speed: 46.50 Mbps | Ping: 112ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607678
-
-# Speed: 45.97 Mbps | Ping: 200ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29461#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763313
-
-# Speed: 45.90 Mbps | Ping: 113ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.147:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607437
-
-# Speed: 45.69 Mbps | Ping: 2766ms
-vmess://eyJhZGQiOiI5Mi4yNDYuODcuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhZjkyMWM3LWFjNjMtNDBiYy1mYWExLWNkYTA5N2ZkN2U0MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgzNTUiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6Tkw6Ok5MOjpOTDo6TkwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-
-# Speed: 44.23 Mbps | Ping: 284ms
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgOiBARnJlZUNvbmZpZ0ZvcllvdfCfj7Twn4+zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-# Speed: 43.97 Mbps | Ping: 68ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#فیلترشکن رایگان👈vpnowl@
-
-# Speed: 43.60 Mbps | Ping: 196ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20226689
-
-# Speed: 43.49 Mbps | Ping: 144ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#🇲🇽 - MX - @FreeOnlineVPN
-
-# Speed: 42.99 Mbps | Ping: 103ms
-vmess://eyJhZGQiOiAiNTEuNzkuMTAzLjc2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImdvb2dsZS5jb20iLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiA4MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBvbmVjbGlja3ZwbmtleXM6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQSJ9
-
-# Speed: 41.73 Mbps | Ping: 144ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-0154
-
-# Speed: 41.50 Mbps | Ping: 135ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AAAE-147.78.0.182-0209
-
-# Speed: 41.27 Mbps | Ping: 317ms
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#🇬🇧 WS-TLS 📁 @configraygan
-
-# Speed: 40.96 Mbps | Ping: 146ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjE5NWQ5MTZjYjg0MDA3@185.163.1.90:11201#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-# Speed: 40.83 Mbps | Ping: 155ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0198
-
-# Speed: 40.30 Mbps | Ping: 178ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#%40Filter_breaker
-
-# Speed: 39.91 Mbps | Ping: 36ms
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20US%20%F0%9F%91%BB
-
-# Speed: 39.54 Mbps | Ping: 130ms
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-
-# Speed: 38.76 Mbps | Ping: 159ms
-vmess://eyJhZGQiOiAiOTMuMTc5Ljk3LjEyNiIsICJ2IjogIjIiLCAicHMiOiAi8J+Ps++4jyBTaGF0YWtWUE4gNjAyODI4IiwgInBvcnQiOiAzMTM1MCwgImlkIjogIjVmN2U0YTA4LTc1N2EtNDhmYS04ZWQ4LTM4NTk5YzY4NDg1MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602828
-
-# Speed: 38.64 Mbps | Ping: 35ms
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#🇬🇧 WS-TLS 📁 @configraygan (3)
-
-# Speed: 38.56 Mbps | Ping: 76ms
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80/?type=ws&encryption=none&flow=&host=pq-bosniaandherzegovina1.09vpn.com&path=%2Fvless%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
-
-# Speed: 38.55 Mbps | Ping: 190ms
-vless://65e542e0-0690-4787-b7e3-a4706013097d@188.166.244.29:80/?type=ws&encryption=none&flow=&host=vps.jentago.web.id&path=%2Fvless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20776281
-
-# Speed: 38.19 Mbps | Ping: 157ms
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
-
-# Speed: 38.12 Mbps | Ping: 121ms
-vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiA4MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QGNvbmZpZ3NodWIyOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0EifQ==
-
-# Speed: 37.93 Mbps | Ping: 130ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42933#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801985
-
-# Speed: 37.82 Mbps | Ping: 351ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.81-0180
-
-# Speed: 37.72 Mbps | Ping: 98ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20308513
-
-# Speed: 37.00 Mbps | Ping: 246ms
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@128.199.252.180:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619131
-
-# Speed: 36.82 Mbps | Ping: 326ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.80-0190
-
-# Speed: 36.78 Mbps | Ping: 159ms
-vless://ca73d911-29f4-42d8-ada5-81dee679e96a@206.189.147.22:80/?type=ws&encryption=none&flow=&host=vps.zakir.web.id&path=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20405229
-
-# Speed: 36.76 Mbps | Ping: 124ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20949310
-
-# Speed: 36.47 Mbps | Ping: 183ms
-vmess://eyJhZGQiOiAiMTcyLjIzNi4yNTEuMjI0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInVzYWFwcDEuamlzdXl1bi50b3AiLCAiaWQiOiAiNGI4MGFhODYtNDM1NC00MGJiLWQyYTMtNDcxMjZjZmYwYmVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi91c2F2bSIsICJwb3J0IjogMjA1MywgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDM3MDU4OCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20370588
-
-# Speed: 36.38 Mbps | Ping: 105ms
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgVk1FU1Mt5Yqg5ou/5aSnLU5G6Kej6ZSB5Yqg5ou/5aSn5Zyw5Yy66Z2e6Ieq5Yi25YmnLUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtMTUuMjM1LjQxLjIwMDo4MCIsImFkZCI6IjE1LjIzNS40MS4yMDAiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwiaG9zdCI6IiIsInRscyI6IiJ9
-
-# Speed: 35.91 Mbps | Ping: 785ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#%F0%9F%87%B5%F0%9F%87%B0PK-156.59.243.6-0205
-
-# Speed: 35.42 Mbps | Ping: 131ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#%3E%3E%40OutlineVpnOfficial%3A%3AXX
-
-# Speed: 34.89 Mbps | Ping: 112ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20239723
-
-# Speed: 34.19 Mbps | Ping: 198ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18425#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20605215
-
-# Speed: 33.90 Mbps | Ping: 198ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18424#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20537330
-
-# Speed: 33.74 Mbps | Ping: 184ms
-vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443/?type=ws&encryption=none&flow=&host=chunantong.cc.cd&path=/ray&security=tls&sni=chunantong.cc.cd&allowInsecure=1#Telegram:@config_proxy 🔥
-
-# Speed: 33.72 Mbps | Ping: 558ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#@awlix_ir
-
-# Speed: 33.49 Mbps | Ping: 169ms
-vless://4f4a8022-0a8e-4f55-9883-777b6830802e@152.42.167.58:443?security=tls&encryption=none&sni=a.monohob.eu.org&type=ws&host=a.monohob.eu.org&path=/vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243218
-
-# Speed: 32.99 Mbps | Ping: 183ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#%F0%9F%87%BF%F0%9F%87%A6ZA-156.38.168.58-0204
-
-# Speed: 32.67 Mbps | Ping: 187ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmY2ZDJmMDU2Mzg5MWE0@38.54.85.242:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20628102
-
-# Speed: 32.16 Mbps | Ping: 184ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDZhN2YxODc2NDcyNTUy@38.60.203.155:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840589
-
-# Speed: 32.06 Mbps | Ping: 216ms
-trojan://BxceQaOe@58.152.25.208:443?allowInsecure=1&sni=58.152.25.208&note=@FreeOnlineVPN#🇭🇰 - HK - @FreeOnlineVPN
-
-# Speed: 31.83 Mbps | Ping: 157ms
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg==@154.53.63.32:80#%F0%9F%8C%8E%20%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%9F%A2%20%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B3
-
-# Speed: 31.38 Mbps | Ping: 77ms
-vless://fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658@63.251.122.139:443?encryption=none&host=es2.vpnbyvinarsky.ru&fp=chrome&path=/chat&security=tls&sni=es2.vpnbyvinarsky.ru&type=ws#⚡Telegram = @SOSkeyNET
-
-# Speed: 31.25 Mbps | Ping: 195ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20310083
-
-# Speed: 31.23 Mbps | Ping: 195ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18427#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20501926
-
-# Speed: 31.12 Mbps | Ping: 304ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26738#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20525942
-
-# Speed: 31.09 Mbps | Ping: 228ms
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#🇨🇴@FreakConfig
-
-# Speed: 31.08 Mbps | Ping: 196ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#%3E%3E%40OutlineVpnOfficial%3A%3AXX
-
-# Speed: 31.07 Mbps | Ping: 599ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@119.59.127.129:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20728511
-
-# Speed: 30.91 Mbps | Ping: 155ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26736#%40Filter_breaker
-
-# Speed: 30.89 Mbps | Ping: 241ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#%F0%9F%87%AA%F0%9F%87%A8EC-38.165.231.25-0162
-
-# Speed: 30.23 Mbps | Ping: 169ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24853#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20405547
-
-# Speed: 30.18 Mbps | Ping: 197ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24854#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20488630
-
-# Speed: 29.90 Mbps | Ping: 61ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#@Free_World2
-
-# Speed: 29.51 Mbps | Ping: 194ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24852#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20667504
-
-# Speed: 29.29 Mbps | Ping: 205ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MzU1ODJlNTEzMjhhZjk5@163.171.206.24:28028#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196187
-
-# Speed: 29.23 Mbps | Ping: 304ms
-vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80?encryption=none&type=ws&security=none&path=/vless&host=www.ptnk.sry-vpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20633936
-
-# Speed: 29.19 Mbps | Ping: 206ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44235#%F0%9F%86%94Telegram%20%3A%20%40planB_net
-
-# Speed: 28.91 Mbps | Ping: 212ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#%3E%3E%40OutlineVpnOfficial%3A%3AXX
-
-# Speed: 28.87 Mbps | Ping: 211ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44234#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20651606
-
-# Speed: 28.62 Mbps | Ping: 212ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#%3E%3E%40configV2rayNG%3A%3AXX
-
-# Speed: 28.51 Mbps | Ping: 211ms
-ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:443#%40filembad
-
-# Speed: 28.49 Mbps | Ping: 130ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787526
-
-# Speed: 28.47 Mbps | Ping: 301ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@chillguy_vpn
-
-# Speed: 28.25 Mbps | Ping: 291ms
-vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443/?type=ws&encryption=none&flow=&host=g.sandesh.qzz.io&path=/vless&security=tls&sni=g.sandesh.qzz.io&allowInsecure=1#@chillguy_vpn
-
-# Speed: 27.52 Mbps | Ping: 272ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49696#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956480
-
-# Speed: 27.34 Mbps | Ping: 167ms
-ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ%3D%3D@154.12.240.141:80#%E2%9E%A4%20%40netshekan99
-
-# Speed: 27.33 Mbps | Ping: 48ms
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.44.45:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#⚙️78@oneclickvpnkeys
-
-# Speed: 26.91 Mbps | Ping: 245ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47388#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20390913
-
-# Speed: 26.74 Mbps | Ping: 104ms
-vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none#🇨🇦 TCP-None 📁 @FreakConfig
-
-# Speed: 26.03 Mbps | Ping: 309ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20617657
-
-# Speed: 25.95 Mbps | Ping: 255ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0192
-
-# Speed: 25.70 Mbps | Ping: 163ms
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#@Trick_mobil
-
-# Speed: 25.58 Mbps | Ping: 322ms
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%9F%A2%20%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B3```
-
-# Speed: 25.48 Mbps | Ping: 250ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20105056
-
-# Speed: 25.29 Mbps | Ping: 182ms
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw==@194.233.75.190:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20760694
-
-# Speed: 25.20 Mbps | Ping: 227ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#[14330] - Telegram : @V2All
-
-# Speed: 25.16 Mbps | Ping: 57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#@FooTNooD
-
-# Speed: 24.89 Mbps | Ping: 248ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540502
-
-# Speed: 24.57 Mbps | Ping: 164ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42935#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781721
-
-# Speed: 24.50 Mbps | Ping: 248ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkNjNkYzdhNjIwM2Fm@46.250.241.55:45720#@v2raybaaz 🧸
-
-# Speed: 24.35 Mbps | Ping: 114ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#🇲🇩 Join+Telegram:@Farah_VPN 🇲🇩
-
-# Speed: 24.33 Mbps | Ping: 250ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20272786
-
-# Speed: 24.07 Mbps | Ping: 95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%3E%3E%40OutlineVpnOfficial%3A%3AXX
-
-# Speed: 23.95 Mbps | Ping: 269ms
-trojan://BxceQaOe@58.152.53.45:443?security=tls&sni=58.152.53.45&insecure=1&allowInsecure=1&type=tcp&headerType=none#@en_vpn/کانفیگ های بیشتر
-
-# Speed: 23.77 Mbps | Ping: 257ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20865310
-
-# Speed: 23.64 Mbps | Ping: 132ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42936#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771918
-
-# Speed: 23.52 Mbps | Ping: 171ms
-vless://684e779f-03cf-4a12-ad4d-e923cce20131@152.42.164.192:443/?type=ws&encryption=none&flow=&host=ai.darkvpn.site&path=%2Fvless&security=tls&sni=ai.darkvpn.site&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20304807
-
-# Speed: 23.47 Mbps | Ping: 251ms
-ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA==@154.26.155.172:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251531
-
-# Speed: 23.09 Mbps | Ping: 194ms
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
-# Speed: 22.73 Mbps | Ping: 167ms
-ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20954226
-
-# Speed: 22.69 Mbps | Ping: 255ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20162293
-
-# Speed: 22.46 Mbps | Ping: 240ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0196
-
-# Speed: 22.09 Mbps | Ping: 216ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20818919
-
-# Speed: 21.92 Mbps | Ping: 959ms
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6%20SS-%E5%8A%A0%E6%8B%BF%E5%A4%A7%3E%E8%8B%B1%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%8B%B1%E5%9B%BD%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-144.217.164.29%3A12000
-
-# Speed: 21.67 Mbps | Ping: 401ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0276
-
-# Speed: 21.37 Mbps | Ping: 79ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0233
-
-# Speed: 21.27 Mbps | Ping: 315ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🐯104@oneclickvpnkeys
-
-# Speed: 21.21 Mbps | Ping: 199ms
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDM3NTM5OCIsICJhZGQiOiAiNDcuMjM4LjE1OC4yMDkiLCAicG9ydCI6IDQ0MywgImlkIjogIjU2OGEzZTdhLWMxM2UtNDIwNS1hZjMwLWU3NWVjM2U1Yzc3OCIsICJhaWQiOiAiMCIsICJzY3kiOiBudWxsLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJuMTc1MzEwMTI3Mi5saWU1ZC5jeW91IiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogIm4xNzUzMTAxMjcyLmxpZTVkLmN5b3UiLCAiZnAiOiBudWxsLCAibmFtZSI6ICLwn4et8J+HsCBISyAxNyJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375398
-
-# Speed: 21.08 Mbps | Ping: 306ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45311#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB40
-
-# Speed: 21.06 Mbps | Ping: 131ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920857
-
-# Speed: 19.51 Mbps | Ping: 295ms
-vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?path=/&security=none&encryption=none&type=ws#@Golestan_VPN - 🦁☀️
-
-# Speed: 19.51 Mbps | Ping: 212ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44236#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218449
-
-# Speed: 19.28 Mbps | Ping: 169ms
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#%F0%9F%87%AE%F0%9F%87%B3IN-82.180.146.173-0215
-
-# Speed: 18.82 Mbps | Ping: 247ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.72.205:2001?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-
-# Speed: 18.80 Mbps | Ping: 321ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-4895
-
-# Speed: 18.17 Mbps | Ping: 153ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26739#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20482827
-
-# Speed: 17.87 Mbps | Ping: 30ms
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-4605
-
-# Speed: 17.81 Mbps | Ping: 159ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#%3E%3E%40OutlineVpnOfficial%3A%3AXX
-
-# Speed: 17.64 Mbps | Ping: 68ms
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.18:9053#[🇵🇱]t.me/ConfigsHub
-
-# Speed: 17.43 Mbps | Ping: 162ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26737#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20700123
-
-# Speed: 17.12 Mbps | Ping: 137ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575938
-
-# Speed: 17.02 Mbps | Ping: 82ms
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
-
-# Speed: 16.64 Mbps | Ping: 130ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20990779
-
-# Speed: 16.22 Mbps | Ping: 130ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714704
-
-# Speed: 16.11 Mbps | Ping: 310ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45313#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB36
-
-# Speed: 15.83 Mbps | Ping: 18ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#@Rayan_Config-82.38.31.179-@beepassvpn_bot
-
-# Speed: 15.42 Mbps | Ping: 3590ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509367
-
-# Speed: 15.38 Mbps | Ping: 54ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20139109
-
-# Speed: 14.79 Mbps | Ping: 166ms
-ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ%3D%3D@154.12.240.141:443#%E2%9E%A4%20%40netshekan99`
-
-# Speed: 14.78 Mbps | Ping: 173ms
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-
-# Speed: 14.70 Mbps | Ping: 59ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20200296
-
-# Speed: 14.42 Mbps | Ping: 300ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB38
-
-# Speed: 14.41 Mbps | Ping: 251ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#%F0%9F%87%AD%F0%9F%87%B0HK-112.213.102.188-0240
-
-# Speed: 14.37 Mbps | Ping: 304ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45310#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB39
-
-# Speed: 14.26 Mbps | Ping: 91ms
-vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443?type=ws&security=tls&sni=lk-cdn.deploy-assure.ru&host=lk-cdn.deploy-assure.ru&path=%2F%2F&fp=chrome#%3E%3E%40configshub2%3A%3ARU
-
-# Speed: 13.49 Mbps | Ping: 4157ms
-ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#%F0%9F%87%BA%F0%9F%87%B8US-167.160.90.51-4926
-
-# Speed: 13.24 Mbps | Ping: 55ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839815
-
-# Speed: 13.21 Mbps | Ping: 365ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20SS%20%7C%20%40netfreedom0%20%231
-
-# Speed: 11.80 Mbps | Ping: 213ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593573
-
-# Speed: 11.47 Mbps | Ping: 217ms
-vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6VVM6OlVTOjpVUzo6VVM6OlVTOjpYWDo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIiwiYWRkIjoiMTA0LjE3Ljc3Ljc3IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-
-# Speed: 11.38 Mbps | Ping: 2990ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%F0%9F%87%B8%F0%9F%87%ACSG-38.89.142.56-0218
-
-# Speed: 11.28 Mbps | Ping: 214ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20984674
-
-# Speed: 11.15 Mbps | Ping: 211ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20123540
-
-# Speed: 11.14 Mbps | Ping: 250ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47387#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243356
-
-# Speed: 11.10 Mbps | Ping: 210ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20705003
-
-# Speed: 9.99 Mbps | Ping: 124ms
-vmess://eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-
-# Speed: 9.37 Mbps | Ping: 138ms
-vmess://eyJhZGQiOiAiMTYyLjE1OS4xNTIuNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJ2MnJheS5jb2RlZnlpbmMuY29tIiwgImlkIjogIjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzc3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ2MnJheS5jb2RlZnlpbmMuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgIm5hbWUiOiAiPj5AcHJyb2ZpbGVfcHVycGxlOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWCJ9
-
-# Speed: 9.36 Mbps | Ping: 71ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367776
-
-# Speed: 9.23 Mbps | Ping: 363ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.105-0210
-
-# Speed: 8.88 Mbps | Ping: 83ms
+# Speed: 494.81 Mbps | Ping: 15ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 
-# Speed: 8.75 Mbps | Ping: 4376ms
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#@MARAMBASHI 🇩🇪
+# Speed: 491.66 Mbps | Ping: 19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#@Rayan_Config-82.38.31.194-@beepassvpn_bot
 
-# Speed: 8.73 Mbps | Ping: 275ms
+# Speed: 489.58 Mbps | Ping: 14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.206-0184
+
+# Speed: 488.96 Mbps | Ping: 11ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0166
+
+# Speed: 487.31 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
+
+# Speed: 485.35 Mbps | Ping: 26ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.91:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&fp=chrome#@chillguy_vpn
+
+# Speed: 484.11 Mbps | Ping: 23ms
+vmess://eyJhZGQiOiI5Mi4yNDYuODcuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhZjkyMWM3LWFjNjMtNDBiYy1mYWExLWNkYTA5N2ZkN2U0MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgzNTUiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6Tkw6Ok5MOjpOTDo6TkwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+
+# Speed: 482.91 Mbps | Ping: 17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#@Rayan_Config-82.38.31.202-@beepassvpn_bot
+
+# Speed: 477.55 Mbps | Ping: 15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864060
+
+# Speed: 476.75 Mbps | Ping: 18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#@Rayan_Config-82.38.31.191-@beepassvpn_bot
+
+# Speed: 476.67 Mbps | Ping: 15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0252
+
+# Speed: 474.88 Mbps | Ping: 19ms
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@198.62.62.127:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp#@en_vpn/کانفیگ های بیشتر
+
+# Speed: 471.36 Mbps | Ping: 19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#@Rayan_Config-82.38.31.205-@beepassvpn_bot
+
+# Speed: 470.81 Mbps | Ping: 6ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053?path=/&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#سرور های پرسرعت بیشتر در چنل🌋@vmesc
+
+# Speed: 468.88 Mbps | Ping: 15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#@CUSTOMVPNSERVER
+
+# Speed: 467.96 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.251-0176
+
+# Speed: 466.48 Mbps | Ping: 16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#@Rayan_Config-82.38.31.217-@beepassvpn_bot
+
+# Speed: 465.66 Mbps | Ping: 20ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@V2rayNG3
+
+# Speed: 465.55 Mbps | Ping: 12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#@v2rayland02🌐
+
+# Speed: 464.78 Mbps | Ping: 14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#t.me/entryNET/config=1858533228119215
+
+# Speed: 463.98 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#@AkbarConfig👈کانفیگ روزانه در
+
+# Speed: 459.23 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
+
+# Speed: 456.65 Mbps | Ping: 14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#@Golestan_VPN - 🍷
+
+# Speed: 456.03 Mbps | Ping: 14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0177
+
+# Speed: 456.00 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080?#کانفیگ رایگان = t.me/arisping
+
+# Speed: 455.38 Mbps | Ping: 21ms
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.5:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
+
+# Speed: 455.19 Mbps | Ping: 15ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.18.32.47:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#@v2rays_ha 11315
+
+# Speed: 453.36 Mbps | Ping: 13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#t.me/entryNET/config=1858201539118897
+
+# Speed: 449.89 Mbps | Ping: 21ms
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&host=apii.onlineshoppingez.ir&type=ws&sni=apii.onlineshoppingez.ir#%40V2ray_confiig`
+
+# Speed: 448.59 Mbps | Ping: 15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0181
+
+# Speed: 448.01 Mbps | Ping: 14ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%E2%9A%A1Telegram%20%3D%20%40KIA_NET```
+
+# Speed: 442.61 Mbps | Ping: 79ms
+vmess://eyJhZGQiOiAiMTYyLjE5LjI0OC4yMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImVkZTI3YTc5LWIwMzktNDkwYi05MzJjLTQ5NWRlNGI2ODg4MCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDU1MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBjb25maWdWMnJheU5HOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFIn0=
+
+# Speed: 441.35 Mbps | Ping: 17ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_Vpn
+
+# Speed: 438.81 Mbps | Ping: 15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.82-0178
+
+# Speed: 438.81 Mbps | Ping: 15ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.32.75:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#@chillguy_vpn
+
+# Speed: 437.59 Mbps | Ping: 20ms
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.16.250.22:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&fp=chrome#🇩🇪@FREE2CONFIG  (5)
+
+# Speed: 435.92 Mbps | Ping: 18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0183
+
+# Speed: 434.50 Mbps | Ping: 15ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#🌐 WS-TLS 📁 @Outline_ir
+
+# Speed: 432.52 Mbps | Ping: 16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#@Rayan_Config-82.38.31.218-@beepassvpn_bot
+
+# Speed: 432.25 Mbps | Ping: 15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0170
+
+# Speed: 430.09 Mbps | Ping: 15ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.58.75:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#@chillguy_vpn
+
+# Speed: 426.80 Mbps | Ping: 19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+
+# Speed: 423.81 Mbps | Ping: 17ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_Vpn```
+
+# Speed: 423.77 Mbps | Ping: 14ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.34.99:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#@chillguy_vpn
+
+# Speed: 419.65 Mbps | Ping: 15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@Rayan_Config-82.38.31.187-@beepassvpn_bot
+
+# Speed: 415.83 Mbps | Ping: 12ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.185.26:2053?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=1&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=/#کانفیگ رایگان = t.me/arisping
+
+# Speed: 414.02 Mbps | Ping: 14ms
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20726469
+
+# Speed: 411.42 Mbps | Ping: 20ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com# vpnsal
+
+# Speed: 410.33 Mbps | Ping: 19ms
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.17.25.173:443/?type=ws&encryption=none&host=apii.onlineshoppingez.ir&path=/O1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir#💞31@oneclickvpnkeys
+
+# Speed: 406.38 Mbps | Ping: 24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@Rayan_Config-82.38.31.214-@beepassvpn_bot
+
+# Speed: 395.76 Mbps | Ping: 16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#@Rayan_Config-82.38.31.179-@beepassvpn_bot
+
+# Speed: 391.96 Mbps | Ping: 37ms
+vless://HKc24Oz46YVenGrwhITGoh@213.109.147.82:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=nl97.alice#@meliproxyy
+
+# Speed: 390.57 Mbps | Ping: 14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.124-0188
+
+# Speed: 387.02 Mbps | Ping: 32ms
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REYxMCBUQ1AtTm9uZSB8IEBleHByZXNzX2FsYWtpIiwNCiAgImFkZCI6ICI5NC4yMzIuMjQ3LjE2NSIsDQogICJwb3J0IjogIjQ1NjUzIiwNCiAgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
+# Speed: 383.65 Mbps | Ping: 15ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&fp=chrome#🇨🇦Canada -> 🇩🇪Germany ⚡@DeamNet_Proxy (84)
+
+# Speed: 380.43 Mbps | Ping: 17ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?encryption=none&security=tls&sni=ir1.airpanel.top&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+# Speed: 379.95 Mbps | Ping: 18ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🛡 V 51 @Outline_Vpn
+
+# Speed: 368.68 Mbps | Ping: 17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#@Rayan_Config-82.38.31.208-@beepassvpn_bot
+
+# Speed: 367.96 Mbps | Ping: 22ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.99:2096?encryption=none&security=tls&sni=hetz.x-smm.com&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
+
+# Speed: 365.54 Mbps | Ping: 14ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#🐒20@oneclickvpnkeys
+
+# Speed: 358.71 Mbps | Ping: 15ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.135.42:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763289
+
+# Speed: 356.36 Mbps | Ping: 21ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@Rayan_Config-82.38.31.190-@beepassvpn_bot
+
+# Speed: 345.07 Mbps | Ping: 27ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0160
+
+# Speed: 337.88 Mbps | Ping: 12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.99-0167
+
+# Speed: 331.57 Mbps | Ping: 28ms
+vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMmMzOTZhMy05NWRhLTRiZTgtYmVlZi04MzRkMTdkNzU3ODQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MDMwIiwicHMiOiJmZXZvbXJ5OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# Speed: 330.30 Mbps | Ping: 14ms
+vmess://eyJhZGQiOiI1MS4xNTguMTUxLjI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQwZTMwNmE2LTdjYWItNDBhYy1hMDg1LWE5NjE4OTVlYjExYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwicG9ydCI6IjIwMTA0IiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6Ok5MOjpOTCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+
+# Speed: 316.38 Mbps | Ping: 22ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.143.161.111:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246325
+
+# Speed: 314.76 Mbps | Ping: 14ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.217:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🛡 V 50 @Outline_Vpn
+
+# Speed: 298.20 Mbps | Ping: 23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20511565
+
+# Speed: 291.86 Mbps | Ping: 288ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@chillguy_vpn
+
+# Speed: 287.33 Mbps | Ping: 30ms
+vless://5be777c2-38f7-44cd-b653-c93b19967887@194.76.18.222:443?encryption=none&security=tls&sni=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&insecure=1&type=ws&host=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&path=/eyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#@chillguy_vpn
+
+# Speed: 279.56 Mbps | Ping: 20ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#@V2rayNG3
+
+# Speed: 275.09 Mbps | Ping: 4723ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20798526
+
+# Speed: 269.19 Mbps | Ping: 10ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@V2rayNG3
+
+# Speed: 264.42 Mbps | Ping: 5ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+
+# Speed: 262.83 Mbps | Ping: 18ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
+
+# Speed: 261.38 Mbps | Ping: 17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0182
+
+# Speed: 257.77 Mbps | Ping: 13ms
+vless://10f11182-a46e-42fc-9fec-f81baa39fa3a@140.248.165.204:80?encryption=none&host=wellcome-losangles.global.ssl.fastly.net&path=/containers/fi&security=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
+
+# Speed: 255.67 Mbps | Ping: 8ms
+vless://aec0d3be-77ba-4372-a011-1e073df0dd7e@104.21.22.135:443/?type=ws&encryption=none&flow=&host=royal-dream-1ee7.i-r-tunl.workers.dev&path=/eyJqdW5rIjoiQjZ4Q0g4SVFnUFEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0&security=tls&sni=rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV&alpn=http/1.1&allowInsecure=1#@chillguy_vpn
+
+# Speed: 251.05 Mbps | Ping: 36ms
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@172.64.33.217:443?allowInsecure=1&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&security=tls&sni=vangoghhh.info&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513311
+
+# Speed: 244.90 Mbps | Ping: 30ms
+vless://cb57b920-cd95-4bbf-bd8c-9e58833fcc5c@37.156.45.227:36261?encryption=none&host=GitHub.com&path=%2F%2Fconnect&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACH
+
+# Speed: 240.54 Mbps | Ping: 41ms
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.44.45:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#⚙️78@oneclickvpnkeys
+
+# Speed: 232.20 Mbps | Ping: 41ms
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443/?type=ws&encryption=none&flow=&host=bank.alaska-tigr.info&path=%2Flove&security=tls&sni=bank.alaska-tigr.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
+
+# Speed: 217.67 Mbps | Ping: 26ms
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@217.212.217.225:50?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20851496
+
+# Speed: 211.26 Mbps | Ping: 553ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.106.175:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.106.175-0172
+
+# Speed: 196.00 Mbps | Ping: 54ms
+vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.244:443?encryption=none&security=tls&sni=uk.dlaparat.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=uk.dlaparat.ir&path=/#کانفیگ رایگان = t.me/arisping
+
+# Speed: 188.04 Mbps | Ping: 345ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#@meli_proxyy
+
+# Speed: 184.72 Mbps | Ping: 39ms
+vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+
+# Speed: 170.11 Mbps | Ping: 75ms
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&security=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
+
+# Speed: 161.44 Mbps | Ping: 43ms
+vmess://eyJ2IjoiMiIsInBzIjoiPj5ARGFpbHlWMlJZOjpHQjo6R0I6OlhYOjpHQjo6R0I6OlhYOjpHQjo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFgiLCJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsInBvcnQiOiI4MCIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
+
+# Speed: 130.03 Mbps | Ping: 70ms
+vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJUTSAoQEFaQVJCQVlKQUIxKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Speed: 125.66 Mbps | Ping: 53ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0229
+
+# Speed: 120.65 Mbps | Ping: 58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#%F0%9F%87%B1%F0%9F%87%BBLV-46.183.217.204-0200
+
+# Speed: 120.31 Mbps | Ping: 36ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸 Join+Telegram:@Farah_VPN 🇪🇸
+
+# Speed: 103.61 Mbps | Ping: 136ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%F0%9F%87%B2%F0%9F%87%A9MD-176.123.5.253-0203
+
+# Speed: 96.23 Mbps | Ping: 66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20742776
+
+# Speed: 94.31 Mbps | Ping: 142ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NDdjZWU3MjI4ZWIw@91.106.109.17:41022#%3E%3E%40OutlineVpnOfficial%3A%3AJO
+
+# Speed: 87.82 Mbps | Ping: 92ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+
+# Speed: 84.08 Mbps | Ping: 419ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+# Speed: 83.30 Mbps | Ping: 145ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48213#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20941532
+
+# Speed: 79.46 Mbps | Ping: 180ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+# Speed: 78.48 Mbps | Ping: 70ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20224943
+
+# Speed: 78.30 Mbps | Ping: 75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#%40V2ray_confiig`
+
+# Speed: 78.27 Mbps | Ping: 144ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48210#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20432991
+
+# Speed: 78.17 Mbps | Ping: 183ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night```
+
+# Speed: 77.79 Mbps | Ping: 144ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48212#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372104
+
+# Speed: 77.79 Mbps | Ping: 192ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#%E2%9C%85%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%93%B6%F0%9D%99%B0%F0%9D%9A%82%F0%9D%99%B8%F0%9D%99%B0%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B2%F0%9D%99%B7
+
+# Speed: 77.18 Mbps | Ping: 142ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48211#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528439
+
+# Speed: 75.87 Mbps | Ping: 63ms
+vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.176:443?allowInsecure=1&encryption=none&host=uk.dlaparat.ir&path=%2F&security=tls&sni=uk.dlaparat.ir&type=ws#%F0%9F%90%BB81@oneclickvpnkeys
+
+# Speed: 75.82 Mbps | Ping: 19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20138671
+
+# Speed: 75.46 Mbps | Ping: 99ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#%F0%9F%87%BA%F0%9F%87%B8US-38.135.24.131-0206
+
+# Speed: 74.40 Mbps | Ping: 68ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20402606
+
+# Speed: 73.81 Mbps | Ping: 87ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0152
+
+# Speed: 73.64 Mbps | Ping: 62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20281892
+
+# Speed: 73.02 Mbps | Ping: 63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTVjNzVjMzVkN2VlOTI5@163.171.213.47:19702#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147188
+
+# Speed: 72.68 Mbps | Ping: 17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#@V2rayNG3
+
+# Speed: 72.43 Mbps | Ping: 18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#@AkbarConfig👈کانفیگ روزانه در
+
+# Speed: 72.08 Mbps | Ping: 66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46282#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20944512
+
+# Speed: 72.07 Mbps | Ping: 19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201#%3E%3E%40v2rayng_fast%3A%3ADE
+
+# Speed: 71.06 Mbps | Ping: 19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#%40V2ray_confiig`
+
+# Speed: 68.95 Mbps | Ping: 215ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.195:8880/?type=grpc&encryption=none#🇺🇸@FREE2CONFIG  (2)
+
+# Speed: 68.07 Mbps | Ping: 92ms
+vmess://eyJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0MTAyLCAiaWQiOiAiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+
+# Speed: 66.79 Mbps | Ping: 30ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#@Golestan_VPN - ...ما ادامه داریم
+
+# Speed: 65.59 Mbps | Ping: 130ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20626281
+
+# Speed: 65.44 Mbps | Ping: 20ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#@CUSTOMVPNSERVER
+
+# Speed: 65.28 Mbps | Ping: 29ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#[18161] - Telegram : @V2All
+
+# Speed: 65.20 Mbps | Ping: 24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#@Proxyiranip
+
+# Speed: 63.74 Mbps | Ping: 202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20343928
+
+# Speed: 62.70 Mbps | Ping: 98ms
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443/?type=ws&encryption=none&flow=&host=tar.alabama-tigr.info&path=%2Flove&security=tls&sni=tar.alabama-tigr.info&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+
+# Speed: 61.42 Mbps | Ping: 281ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmM4MDFhN2NhYzVmMTM0@93.174.164.89:11201#%3E%3E%40OutlineVpnOfficial%3A%3AUZ
+
+# Speed: 60.63 Mbps | Ping: 37ms
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=%2F&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%F0%9F%9B%A1%20V%20105%20%40Outline_Vpn
+
+# Speed: 57.93 Mbps | Ping: 273ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Join+Telegram:@Farah_VPN 🇰🇿
 
-# Speed: 8.17 Mbps | Ping: 101ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9MT-171.22.254.17-0244
+# Speed: 57.84 Mbps | Ping: 120ms
+vless://c88811ea-fead-4e2d-b34d-7d8725896304@62.60.176.237:2052/?type=ws&encryption=none&flow=&path=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-#%3E%3E%40oneclickvpnkeys%3A%3AXX
 
-# Speed: 7.58 Mbps | Ping: 257ms
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDE1MzgwNyIsICJhZGQiOiAiMTA0LjIxLjc2LjE1OCIsICJwb3J0IjogODQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJzY3kiOiBudWxsLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJ0MS42MjA3MjAueHl6IiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJmcCI6IG51bGwsICJuYW1lIjogIvCfh7rwn4e4IFVTIDQ5MiJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20153807
+# Speed: 57.84 Mbps | Ping: 174ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29461#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20320026
 
-# Speed: 7.36 Mbps | Ping: 156ms
+# Speed: 56.67 Mbps | Ping: 192ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24854#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439878
+
+# Speed: 56.53 Mbps | Ping: 98ms
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#%3E%3E%40oneclickvpnkeys%3A%3AXX
+
+# Speed: 56.12 Mbps | Ping: 128ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0149
+
+# Speed: 55.45 Mbps | Ping: 127ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0145
+
+# Speed: 54.61 Mbps | Ping: 169ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTFlYWZkZmZkOWE4MWUw@154.205.134.155:11651#⚡Telegram = @SOSkeyNET
+
+# Speed: 53.93 Mbps | Ping: 2323ms
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?encryption=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20679071
+
+# Speed: 53.61 Mbps | Ping: 161ms
+vmess://eyJhZGQiOiAiMTA0LjE4LjE2Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImhndHJvamFuLnphYmMubmV0IiwgImlkIjogImU2Mzk1YzIwLTQ1NzEtNGIzNC1kNmIxLTU1YTVkMzZlNDllYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZTYzOTVjMjAiLCAicG9ydCI6IDIwODMsICJwcyI6ICJAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJoZ3Ryb2phbi56YWJjLm5ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QG9uZWNsaWNrdnBua2V5czo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFgifQ==
+
+# Speed: 53.56 Mbps | Ping: 216ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24853#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204466
+
+# Speed: 52.69 Mbps | Ping: 263ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#@v2rayngzendegimamad🕊️
+
+# Speed: 52.65 Mbps | Ping: 129ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AAAE-147.78.0.182-0209
+
+# Speed: 51.85 Mbps | Ping: 111ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.200.169-0146
+
+# Speed: 50.61 Mbps | Ping: 202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVj@163.171.207.11:19688#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20169496
+
+# Speed: 50.58 Mbps | Ping: 181ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24851#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20SS%20%7C%20%40v_2rayng0%20%231
+
+# Speed: 50.30 Mbps | Ping: 180ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643253
+
+# Speed: 50.24 Mbps | Ping: 790ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#%F0%9F%87%B5%F0%9F%87%B0PK-156.59.243.6-0205
+
+# Speed: 50.14 Mbps | Ping: 155ms
+vmess://eyJhZGQiOiI4LjYuMTEyLjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhndHJvamFuLnphYmMubmV0IiwiaWQiOiJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZTYzOTVjMjAiLCJwb3J0IjoiMjA4MyIsInBzIjoiQHYycmF5bmd6ZW5kZWdpbWFtYWTwn5WK77iPIiwic2N5IjoiYXV0byIsInNuaSI6ImhndHJvamFuLnphYmMubmV0IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Speed: 50.12 Mbps | Ping: 89ms
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiNDUuODkuNTIuMjA3IiwgInBvcnQiOiAzOTY1MSwgImlkIjogImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
+
+# Speed: 49.85 Mbps | Ping: 125ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0147
+
+# Speed: 49.26 Mbps | Ping: 127ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0148
+
+# Speed: 47.51 Mbps | Ping: 181ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29463#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255128
+
+# Speed: 47.20 Mbps | Ping: 154ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.6-0154
+
+# Speed: 46.93 Mbps | Ping: 303ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#azadiiivpn 🎀
+
+# Speed: 44.99 Mbps | Ping: 112ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#%3E%3E%40vmess_iran%3A%3ATR
+
+# Speed: 44.45 Mbps | Ping: 148ms
+vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+
+# Speed: 43.36 Mbps | Ping: 43ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%20%40netfreedom0%20%231
+
+# Speed: 43.35 Mbps | Ping: 55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318293
+
+# Speed: 43.14 Mbps | Ping: 78ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#فیلترشکن رایگان👈vpnowl@
+
+# Speed: 42.99 Mbps | Ping: 291ms
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgOiBARnJlZUNvbmZpZ0ZvcllvdfCfj7Twn4+zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# Speed: 42.50 Mbps | Ping: 145ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#🇲🇽 - MX - @FreeOnlineVPN
+
+# Speed: 42.40 Mbps | Ping: 627ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.147:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20605159
+
+# Speed: 41.78 Mbps | Ping: 194ms
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?encryption=none&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20245016
+
+# Speed: 41.36 Mbps | Ping: 134ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42933#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439726
+
+# Speed: 40.65 Mbps | Ping: 44ms
+vless://fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658@63.251.122.139:443?encryption=none&host=es2.vpnbyvinarsky.ru&fp=chrome&path=/chat&security=tls&sni=es2.vpnbyvinarsky.ru&type=ws#⚡Telegram = @SOSkeyNET
+
+# Speed: 40.59 Mbps | Ping: 198ms
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#فیلترشکن رایگان👈vpnowl@
+
+# Speed: 40.48 Mbps | Ping: 154ms
 ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw==@154.53.60.197:80#%F0%9F%8C%8E%20%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%9F%A2%20%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B3
 
-# Speed: 6.57 Mbps | Ping: 387ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0223
+# Speed: 40.47 Mbps | Ping: 179ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#%40Filter_breaker
 
-# Speed: 6.51 Mbps | Ping: 35ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#@v2rayngzendegimamad🕊️
+# Speed: 40.30 Mbps | Ping: 82ms
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4883
 
-# Speed: 6.44 Mbps | Ping: 317ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48804#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966943
+# Speed: 40.28 Mbps | Ping: 60ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#@FooTNooD
 
-# Speed: 6.44 Mbps | Ping: 159ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#%F0%9F%87%B2%F0%9F%87%A6MA-154.70.207.97-0232
+# Speed: 40.28 Mbps | Ping: 306ms
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#🇬🇧 WS-TLS 📁 @configraygan (3)
 
-# Speed: 6.35 Mbps | Ping: 519ms
+# Speed: 40.17 Mbps | Ping: 323ms
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#🇬🇧 WS-TLS 📁 @configraygan
+
+# Speed: 40.16 Mbps | Ping: 55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#@Free_World2
+
+# Speed: 40.12 Mbps | Ping: 315ms
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20US%20%F0%9F%91%BB
+
+# Speed: 40.02 Mbps | Ping: 58ms
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.70:9024#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4872
+
+# Speed: 39.28 Mbps | Ping: 141ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjE5NWQ5MTZjYjg0MDA3@185.163.1.90:11201#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+
+# Speed: 39.15 Mbps | Ping: 155ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+
+# Speed: 39.06 Mbps | Ping: 104ms
+vmess://eyJhZGQiOiAiNTEuNzkuMTAzLjc2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImdvb2dsZS5jb20iLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiA4MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBvbmVjbGlja3ZwbmtleXM6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQSJ9
+
+# Speed: 39.01 Mbps | Ping: 111ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20703088
+
+# Speed: 38.81 Mbps | Ping: 155ms
+ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg==@154.53.63.32:80#%F0%9F%8C%8E%20%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%9F%A2%20%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B3
+
+# Speed: 38.26 Mbps | Ping: 117ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#🇲🇩 Join+Telegram:@Farah_VPN 🇲🇩
+
+# Speed: 37.96 Mbps | Ping: 54ms
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4885
+
+# Speed: 37.85 Mbps | Ping: 211ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24852#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20557856
+
+# Speed: 37.84 Mbps | Ping: 151ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+
+# Speed: 37.82 Mbps | Ping: 160ms
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@66.42.54.48:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+
+# Speed: 37.36 Mbps | Ping: 241ms
+vless://ca73d911-29f4-42d8-ada5-81dee679e96a@206.189.147.22:80/?type=ws&encryption=none&flow=&host=vps.zakir.web.id&path=vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20680129
+
+# Speed: 37.29 Mbps | Ping: 95ms
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0284
+
+# Speed: 37.20 Mbps | Ping: 160ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0198
+
+# Speed: 37.05 Mbps | Ping: 73ms
+ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@217.30.10.70:9032#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4875
+
+# Speed: 36.96 Mbps | Ping: 160ms
+vmess://eyJhZGQiOiAiMTcyLjIzNi4yNTEuMjI0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInVzYWFwcDEuamlzdXl1bi50b3AiLCAiaWQiOiAiNGI4MGFhODYtNDM1NC00MGJiLWQyYTMtNDcxMjZjZmYwYmVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi91c2F2bSIsICJwb3J0IjogMjA1MywgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDk3NDI4MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974283
+
+# Speed: 36.92 Mbps | Ping: 99ms
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4873
+
+# Speed: 36.64 Mbps | Ping: 127ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20548313
+
+# Speed: 36.26 Mbps | Ping: 187ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDZhN2YxODc2NDcyNTUy@38.60.203.155:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374122
+
+# Speed: 35.93 Mbps | Ping: 81ms
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4878
+
+# Speed: 35.64 Mbps | Ping: 249ms
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@128.199.252.180:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20525946
+
+# Speed: 35.60 Mbps | Ping: 128ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20275966
+
+# Speed: 34.94 Mbps | Ping: 111ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20559386
+
+# Speed: 34.94 Mbps | Ping: 82ms
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.70:9006#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4877
+
+# Speed: 34.92 Mbps | Ping: 92ms
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@217.30.10.70:9097#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4881
+
+# Speed: 34.83 Mbps | Ping: 167ms
+ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20183717
+
+# Speed: 34.72 Mbps | Ping: 156ms
+ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ==@45.77.253.107:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20614283
+
+# Speed: 34.72 Mbps | Ping: 344ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.80-0190
+
+# Speed: 34.69 Mbps | Ping: 56ms
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4876
+
+# Speed: 34.55 Mbps | Ping: 171ms
+vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:9443/?type=ws&encryption=none&flow=&host=chunantong.cc.cd&path=/ray&security=tls&sni=chunantong.cc.cd&allowInsecure=1#Telegram:@config_proxy 🔥
+
+# Speed: 34.37 Mbps | Ping: 179ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#%F0%9F%87%BF%F0%9F%87%A6ZA-156.38.168.58-0204
+
+# Speed: 34.01 Mbps | Ping: 193ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18425#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20689314
+
+# Speed: 33.89 Mbps | Ping: 170ms
+vless://4f4a8022-0a8e-4f55-9883-777b6830802e@152.42.167.58:443/?type=ws&encryption=none&flow=&host=a.monohob.eu.org&path=%2Fvless&security=tls&sni=a.monohob.eu.org&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20303320
+
+# Speed: 33.78 Mbps | Ping: 111ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20192330
+
+# Speed: 33.59 Mbps | Ping: 186ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmY2ZDJmMDU2Mzg5MWE0@38.54.85.242:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20857931
+
+# Speed: 32.96 Mbps | Ping: 131ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20899806
+
+# Speed: 32.81 Mbps | Ping: 80ms
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.70:9043#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4880
+
+# Speed: 32.53 Mbps | Ping: 178ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#@awlix_ir
+
+# Speed: 32.45 Mbps | Ping: 150ms
+ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:443#%40filembad
+
+# Speed: 32.40 Mbps | Ping: 82ms
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.70:9008#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4879
+
+# Speed: 32.35 Mbps | Ping: 349ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.81-0180
+
+# Speed: 32.00 Mbps | Ping: 130ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20287760
+
+# Speed: 31.82 Mbps | Ping: 197ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18424#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184441
+
+# Speed: 31.80 Mbps | Ping: 199ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18427#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20284277
+
+# Speed: 31.48 Mbps | Ping: 282ms
+vless://684e779f-03cf-4a12-ad4d-e923cce20131@152.42.164.192:443/?type=ws&encryption=none&flow=&host=ai.darkvpn.site&path=%2Fvless&security=tls&sni=ai.darkvpn.site&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20376704
+
+# Speed: 31.37 Mbps | Ping: 194ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+
+# Speed: 31.11 Mbps | Ping: 213ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#%3E%3E%40configV2rayNG%3A%3AXX
+
+# Speed: 31.00 Mbps | Ping: 192ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20906448
+
+# Speed: 30.19 Mbps | Ping: 56ms
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.70:9040#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4884
+
+# Speed: 29.91 Mbps | Ping: 301ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49696#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20212709
+
+# Speed: 29.78 Mbps | Ping: 218ms
+trojan://BxceQaOe@58.152.25.208:443?allowInsecure=1&sni=58.152.25.208&note=@FreeOnlineVPN#🇭🇰 - HK - @FreeOnlineVPN
+
+# Speed: 29.32 Mbps | Ping: 244ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#%F0%9F%87%AA%F0%9F%87%A8EC-38.165.231.25-0162
+
+# Speed: 29.14 Mbps | Ping: 334ms
+ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%9F%A2%20%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B3```
+
+# Speed: 29.05 Mbps | Ping: 130ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20654290
+
+# Speed: 29.04 Mbps | Ping: 676ms
+vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@168.222.16.102:80/?type=ws&encryption=none&flow=&host=www.ptnk.sry-vpn.com&path=%2Fvless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20192441
+
+# Speed: 28.72 Mbps | Ping: 231ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44236#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20891803
+
+# Speed: 28.66 Mbps | Ping: 404ms
+ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ%3D%3D@154.12.240.141:443#%E2%9E%A4%20%40netshekan99`
+
+# Speed: 28.35 Mbps | Ping: 216ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MzU1ODJlNTEzMjhhZjk5@163.171.206.24:28028#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20792963
+
+# Speed: 28.20 Mbps | Ping: 303ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26736#%40Filter_breaker
+
+# Speed: 27.12 Mbps | Ping: 252ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0196
+
+# Speed: 26.83 Mbps | Ping: 187ms
+vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443/?type=ws&encryption=none&flow=&host=g.sandesh.qzz.io&path=/vless&security=tls&sni=g.sandesh.qzz.io&allowInsecure=1#@chillguy_vpn
+
+# Speed: 26.69 Mbps | Ping: 257ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20748967
+
+# Speed: 26.34 Mbps | Ping: 113ms
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgVk1FU1Mt5Yqg5ou/5aSnLU5G6Kej6ZSB5Yqg5ou/5aSn5Zyw5Yy66Z2e6Ieq5Yi25YmnLUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtMTUuMjM1LjQxLjIwMDo4MCIsImFkZCI6IjE1LjIzNS40MS4yMDAiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwiaG9zdCI6IiIsInRscyI6IiJ9
+
+# Speed: 26.16 Mbps | Ping: 207ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44235#%F0%9F%86%94Telegram%20%3A%20%40planB_net
+
+# Speed: 26.06 Mbps | Ping: 98ms
+vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none#🇨🇦 TCP-None 📁 @FreakConfig
+
+# Speed: 25.90 Mbps | Ping: 132ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#👉🆔@freenettir📡🇰🇼®️Kuwait©️Al Jahra🅿️ping:111.74ms
+
+# Speed: 25.73 Mbps | Ping: 236ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#%3E%3E%40OutlineVpnOfficial%3A%3AXX
+
+# Speed: 25.68 Mbps | Ping: 280ms
+vless://65e542e0-0690-4787-b7e3-a4706013097d@188.166.244.29:80/?type=ws&encryption=none&flow=&host=vps.jentago.web.id&path=%2Fvless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20539528
+
+# Speed: 25.67 Mbps | Ping: 314ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.105-0210
+
+# Speed: 25.66 Mbps | Ping: 251ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47387#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20899717
+
+# Speed: 25.59 Mbps | Ping: 308ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168630
+
+# Speed: 25.46 Mbps | Ping: 162ms
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#🇨🇴@FreakConfig
+
+# Speed: 25.09 Mbps | Ping: 2229ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@119.59.127.129:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124971
+
+# Speed: 24.91 Mbps | Ping: 218ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44234#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20963727
+
+# Speed: 24.81 Mbps | Ping: 80ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0233
+
+# Speed: 24.62 Mbps | Ping: 245ms
+ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA==@154.26.155.172:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20279440
+
+# Speed: 24.11 Mbps | Ping: 247ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47388#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20988883
+
+# Speed: 24.03 Mbps | Ping: 270ms
+trojan://BxceQaOe@58.152.53.45:443?security=tls&sni=58.152.53.45&insecure=1&allowInsecure=1&type=tcp&headerType=none#@en_vpn/کانفیگ های بیشتر
+
+# Speed: 23.90 Mbps | Ping: 248ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkNjNkYzdhNjIwM2Fm@46.250.241.55:45720#@v2raybaaz 🧸
+
+# Speed: 23.89 Mbps | Ping: 255ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20309342
+
+# Speed: 23.74 Mbps | Ping: 241ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11201#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204658
+
+# Speed: 23.48 Mbps | Ping: 317ms
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🐯104@oneclickvpnkeys
+
+# Speed: 23.38 Mbps | Ping: 261ms
+ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw==@194.233.75.190:80#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20101107
+
+# Speed: 23.03 Mbps | Ping: 151ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+
+# Speed: 22.84 Mbps | Ping: 312ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45310#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB39
+
+# Speed: 22.83 Mbps | Ping: 227ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#[14330] - Telegram : @V2All
+
+# Speed: 22.58 Mbps | Ping: 256ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861169
+
+# Speed: 22.56 Mbps | Ping: 280ms
+vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?path=/&security=none&encryption=none&type=ws#@Golestan_VPN - 🦁☀️
+
+# Speed: 22.50 Mbps | Ping: 107ms
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8185
+
+# Speed: 22.43 Mbps | Ping: 164ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26738#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20950539
+
+# Speed: 22.08 Mbps | Ping: 417ms
+ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ%3D%3D@154.12.240.141:80#%E2%9E%A4%20%40netshekan99
+
+# Speed: 22.04 Mbps | Ping: 159ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42935#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20801297
+
+# Speed: 21.96 Mbps | Ping: 57ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20471728
+
+# Speed: 21.63 Mbps | Ping: 130ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42936#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20572099
+
+# Speed: 21.59 Mbps | Ping: 212ms
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+# Speed: 21.51 Mbps | Ping: 63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349949
+
+# Speed: 21.09 Mbps | Ping: 403ms
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.21-0216
+
+# Speed: 21.07 Mbps | Ping: 251ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20732891
+
+# Speed: 19.76 Mbps | Ping: 138ms
+vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiA4MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QGNvbmZpZ3NodWIyOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0EifQ==
+
+# Speed: 19.73 Mbps | Ping: 316ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45311#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB40
+
+# Speed: 19.61 Mbps | Ping: 233ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0192
+
+# Speed: 19.08 Mbps | Ping: 238ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇨🇿 Join+Telegram:@Farah_VPN 🇨🇿
 
-# Speed: 6.14 Mbps | Ping: 199ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27883#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561744
+# Speed: 18.22 Mbps | Ping: 396ms
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.72.33:4920?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0214
 
-# Speed: 5.79 Mbps | Ping: 215ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.255.22:989#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.22-0234
+# Speed: 17.78 Mbps | Ping: 395ms
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-0219
 
-# Speed: 5.50 Mbps | Ping: 277ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0242
+# Speed: 17.77 Mbps | Ping: 294ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB38
 
-# Speed: 5.35 Mbps | Ping: 282ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0243
+# Speed: 17.51 Mbps | Ping: 323ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45313#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB36
 
-# Speed: 5.25 Mbps | Ping: 201ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiMTQ5Ljg4Ljk1LjIxNyIsICJwb3J0IjogMzU3NjAsICJpZCI6ICIxN2U5Njc5Mi1kOGMzLTQ3NDEtOWMzNC1lNWQxYzExZDc1NGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+# Speed: 17.36 Mbps | Ping: 180ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#%F0%9F%87%AE%F0%9F%87%B3IN-82.180.146.173-0215
 
-# Speed: 5.11 Mbps | Ping: 202ms
-trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=us08.oportal.cc&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20414019
+# Speed: 16.65 Mbps | Ping: 265ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211944
 
-# Speed: 5.09 Mbps | Ping: 292ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46578#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20133059
+# Speed: 16.64 Mbps | Ping: 211ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20426428
 
-# Speed: 5.05 Mbps | Ping: 192ms
-vmess://eyJhZGQiOiI4LjIxMC43OS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWEzYzMwMTgtMjg4Yi00NmYzLWFmMWMtOTA0NGUxOGQ2ZTViIiwibmV0Ijoid3MiLCJwYXRoIjoiL05vdGlmX0NoYXQiLCJwb3J0IjoiNTUxODUiLCJwcyI6IkBHb2xlc3Rhbl9WUE4gLSDwn423Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# Speed: 16.57 Mbps | Ping: 252ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47385#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20524847
 
-# Speed: 4.99 Mbps | Ping: 297ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46576#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20532600
+# Speed: 16.45 Mbps | Ping: 510ms
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%A8%F0%9F%87%A6%20SS-%E5%8A%A0%E6%8B%BF%E5%A4%A7%3E%E8%8B%B1%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%8B%B1%E5%9B%BD%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-144.217.164.29%3A12000
 
-# Speed: 4.95 Mbps | Ping: 188ms
-vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6IDU1MTg1LCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgIm5hbWUiOiAiPj5AZmx5djJyYXk6OkhLOjpISzo6SEs6OkhLOjpISyJ9
+# Speed: 14.98 Mbps | Ping: 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20926056
 
-# Speed: 4.45 Mbps | Ping: 299ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20583446
+# Speed: 14.62 Mbps | Ping: 299ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26737#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20157977
 
-# Speed: 4.44 Mbps | Ping: 295ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46575#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20830393
+# Speed: 13.68 Mbps | Ping: 4149ms
+ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#%F0%9F%87%BA%F0%9F%87%B8US-167.160.90.51-4926
 
-# Speed: 4.37 Mbps | Ping: 243ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#%F0%9F%87%B2%F0%9F%87%BDMX-147.78.1.230-0238
+# Speed: 13.48 Mbps | Ping: 328ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL-213.109.147.242-0227
 
-# Speed: 4.35 Mbps | Ping: 246ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47385#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630164
+# Speed: 12.80 Mbps | Ping: 141ms
+vmess://eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 
-# Speed: 4.31 Mbps | Ping: 247ms
+# Speed: 12.72 Mbps | Ping: 218ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26739#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20584786
+
+# Speed: 12.33 Mbps | Ping: 304ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20589893
+
+# Speed: 12.12 Mbps | Ping: 290ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46575#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20598007
+
+# Speed: 12.11 Mbps | Ping: 144ms
+vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6VVM6OlVTOjpVUzo6VVM6OlVTOjpYWDo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIiwiYWRkIjoiMTA0LjE3Ljc3Ljc3IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+
+# Speed: 11.84 Mbps | Ping: 245ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#%F0%9F%87%B2%F0%9F%87%BDMX-147.78.1.230-0239
 
-# Speed: 4.29 Mbps | Ping: 299ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODkyYjJjY2NjYzAxMmY2@154.90.62.145:16672#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20201340
+# Speed: 11.53 Mbps | Ping: 243ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#%F0%9F%87%B2%F0%9F%87%BDMX-147.78.1.230-0238
 
-# Speed: 4.29 Mbps | Ping: 785ms
+# Speed: 11.40 Mbps | Ping: 352ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0223
+
+# Speed: 10.61 Mbps | Ping: 211ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20866777
+
+# Speed: 10.46 Mbps | Ping: 102ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#%F0%9F%87%B9%F0%9F%87%B7TR-203.202.232.78-0194
 
-# Speed: 4.18 Mbps | Ping: 256ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20302424
+# Speed: 9.76 Mbps | Ping: 72ms
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20%40outlinereleasedkey%20%231
 
-# Speed: 4.07 Mbps | Ping: 598ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20994176
+# Speed: 9.69 Mbps | Ping: 161ms
+vmess://eyJhZGQiOiAiMTYyLjE1OS4xNTIuNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJ2MnJheS5jb2RlZnlpbmMuY29tIiwgImlkIjogIjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzc3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ2MnJheS5jb2RlZnlpbmMuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgIm5hbWUiOiAiPj5AcHJyb2ZpbGVfcHVycGxlOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWCJ9
 
-# Speed: 4.02 Mbps | Ping: 228ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#%F0%9F%87%A7%F0%9F%87%ACBG-38.60.247.151-0245
+# Speed: 9.66 Mbps | Ping: 252ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20448479
 
-# Speed: 4.00 Mbps | Ping: 219ms
-vmess://eyJhZGQiOiAiMTAzLjEyNi4yMjYuMTk0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5ldmEuYXpsYW4uYml6LmlkIiwgImlkIjogIjgwNzIyOThmLWNkMjgtNGE2MS04ZTA1LTU4NzljODRiOTEwMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6IDQ0MywgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDY0Mzg3NiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibmV2YS5hemxhbi5iaXouaWQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643876
+# Speed: 9.59 Mbps | Ping: 20ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#@v2rayngzendegimamad🕊️
 
-# Speed: 3.69 Mbps | Ping: 280ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27885#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20403146
+# Speed: 8.81 Mbps | Ping: 203ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.188:41632#%F0%9F%87%AD%F0%9F%87%B0HK-112.213.102.188-0240
 
-# Speed: 3.52 Mbps | Ping: 193ms
+# Speed: 8.39 Mbps | Ping: 401ms
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+
+# Speed: 8.08 Mbps | Ping: 78ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#💀NΞTISHIΣLD🔥 | @netishield ⚡️🛡️👾🌍
+
+# Speed: 8.02 Mbps | Ping: 190ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@203.23.128.33:989#%F0%9F%87%AD%F0%9F%87%B0HK-203.23.128.33-0241
 
-# Speed: 3.30 Mbps | Ping: 646ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725516
+# Speed: 7.51 Mbps | Ping: 327ms
+vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDM0NDkxOSIsICJhZGQiOiAiMTA0LjIxLjc2LjE1OCIsICJwb3J0IjogODQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJzY3kiOiBudWxsLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJjNy42MjA3MjAueHl6IiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgNDY2In0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20344919
 
-# Speed: 3.27 Mbps | Ping: 187ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.148.135.31:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20955199
+# Speed: 6.85 Mbps | Ping: 320ms
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#⚡Telegram = @SOSkeyNET
+
+# Speed: 6.12 Mbps | Ping: 79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20934741
+
+# Speed: 6.07 Mbps | Ping: 305ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46576#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20757129
+
+# Speed: 5.93 Mbps | Ping: 1314ms
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#@MARAMBASHI 🇩🇪
+
+# Speed: 5.83 Mbps | Ping: 329ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#%F0%9F%87%B2%F0%9F%87%A6MA-154.70.207.97-0232
+
+# Speed: 5.71 Mbps | Ping: 217ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.255.22:989#%F0%9F%87%B5%F0%9F%87%B7PR-185.47.255.22-0234
+
+# Speed: 5.26 Mbps | Ping: 247ms
+vmess://eyJhZGQiOiI4LjIxMC43OS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWEzYzMwMTgtMjg4Yi00NmYzLWFmMWMtOTA0NGUxOGQ2ZTViIiwibmV0Ijoid3MiLCJwYXRoIjoiL05vdGlmX0NoYXQiLCJwb3J0IjoiNTUxODUiLCJwcyI6IkBHb2xlc3Rhbl9WUE4gLSDwn423Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Speed: 5.10 Mbps | Ping: 3073ms
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-0208
+
+# Speed: 4.93 Mbps | Ping: 289ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608951
+
+# Speed: 4.78 Mbps | Ping: 292ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODkyYjJjY2NjYzAxMmY2@154.90.62.145:16672#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20348108
+
+# Speed: 4.60 Mbps | Ping: 346ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46578#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20426030
+
+# Speed: 4.52 Mbps | Ping: 210ms
+vmess://eyJhZGQiOiAiMTAzLjEyNi4yMjYuMTk0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5ldmEuYXpsYW4uYml6LmlkIiwgImlkIjogIjgwNzIyOThmLWNkMjgtNGE2MS04ZTA1LTU4NzljODRiOTEwMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6IDQ0MywgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDYyOTUzMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibmV2YS5hemxhbi5iaXouaWQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20629530
+
+# Speed: 4.33 Mbps | Ping: 406ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0243
+
+# Speed: 4.30 Mbps | Ping: 184ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.148.135.31:990#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20529297
+
+# Speed: 4.27 Mbps | Ping: 164ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-4777
+
+# Speed: 4.16 Mbps | Ping: 676ms
+ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ==@94.72.127.55:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
+
+# Speed: 4.12 Mbps | Ping: 173ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#@Trick_mobil
+
+# Speed: 3.89 Mbps | Ping: 409ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0242
+
+# Speed: 3.86 Mbps | Ping: 352ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-4895
+
+# Speed: 3.77 Mbps | Ping: 280ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#%F0%9F%87%A7%F0%9F%87%ACBG-38.60.247.151-0245
+
+# Speed: 3.53 Mbps | Ping: 251ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20203156
+
+# Speed: 3.06 Mbps | Ping: 31ms
+vless://421a5536-c3c8-45ab-aa36-2ff032c6d44e@104.21.6.124:443?path=/vless-tls&security=tls&encryption=none&insecure=1&host=nnet.online&type=ws&allowInsecure=1&sni=vpn.nnet.online#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974382
+
+# Speed: 3.04 Mbps | Ping: 41ms
+vless://421a5536-c3c8-45ab-aa36-2ff032c6d44e@172.67.134.216:80?path=/vless-ntls&security=none&encryption=none&host=nnet.online&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20734128
+
+# Speed: 2.85 Mbps | Ping: 83ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMFp5MThuSG1qY1Vmb21lMWZZUGhB@147.45.135.39:4205#azadiiivpn 🎀
+
+# Speed: 2.69 Mbps | Ping: 462ms
+vless://621a845a-48ea-35f0-9b9a-ca499c647ade@104.21.227.134:443?path=%2Fdb1024e9df2f990b&security=tls&alpn=h3%2Ch2&encryption=none&host=dabaihk.webn.cc&fp=chrome&type=ws&sni=dabaihk.webn.cc#%F0%9F%86%94Telegram%20%3A%20%40planB_net
 
