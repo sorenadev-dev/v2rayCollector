@@ -1,6 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-03T11:27:16+03:30
-# IP: 192.168.2.49
-# Total Working: 0
+# Generated: 2026-08-03T08:25:49Z
+# IP: 192.168.2.40
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
+# Speed: 32.71 Mbps | Ping: 110ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 28.78 Mbps | Ping: 99ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?#EPODONIOS
+
+# Speed: 14.65 Mbps | Ping: 620ms
+trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+
+# Speed: 8.86 Mbps | Ping: 461ms
+vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?allowInsecure=1&sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.neT&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#EPODONIOS
+
