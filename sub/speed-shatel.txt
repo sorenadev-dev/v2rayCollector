@@ -1,21 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-03T14:32:56Z
+# Generated: 2026-08-03T17:36:35Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 10.37 Mbps | Ping: 349ms
-vless://e08122b0-a627-4b29-91df-ea819bf91d71@104.16.72.41:2096?encryption=none&security=tls&sni=email-page3.iranvatanam.com&type=ws&host=email-page3.iranvatanam.com&path=/?ed=2048#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20971476
+# Speed: 40.62 Mbps | Ping: 83ms
+vless://8c3578fe-cbaa-46eb-a20f-c834d65d9663@194.87.30.92:16739?encryption=none&security=none&type=ws&path=/#EPODONIOS
 
-# Speed: 8.12 Mbps | Ping: 317ms
-trojan://BxceQaOe@119.246.1.143:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#EPODONIOS
+# Speed: 20.03 Mbps | Ping: 385ms
+vless://1677c228-186d-4bf0-a0a7-9d4fb9b7efb4@69.46.46.100:443?encryption=none&security=tls&type=ws&host=web-production-d44e1.up.railway.app&path=/ws/vless/1677c228-186d-4bf0-a0a7-9d4fb9b7efb4?ed=2048&sni=web-production-d44e1.up.railway.app&fp=chrome&alpn=h3,h2,http/1.1#EPODONIOS
 
-# Speed: 7.31 Mbps | Ping: 597ms
+# Speed: 19.97 Mbps | Ping: 101ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#EPODONIOS
+
+# Speed: 11.33 Mbps | Ping: 460ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
+
+# Speed: 10.48 Mbps | Ping: 388ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 6.97 Mbps | Ping: 268ms
-trojan://BxceQaOe@16.162.22.218:9149/?type=tcp&security=tls&allowInsecure=1#EPODONIOS
-
-# Speed: 2.89 Mbps | Ping: 1133ms
-vmess://eyJhZGQiOiAiMTcyLjY3LjE2MS4xNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidjJyYXkxLmRvemFwcC54eXoiLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xNbnNaVU40LyIsICJwb3J0IjogODQ0MywgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDI3NTc0NyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20275747
+# Speed: 5.24 Mbps | Ping: 638ms
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@35.90.117.50:27775?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 
