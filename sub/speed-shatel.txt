@@ -1,12 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-04T02:50:12Z
+# Generated: 2026-08-04T05:54:59Z
 # IP: 192.168.2.40
-# Total Working: 2
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 13.52 Mbps | Ping: 261ms
+# Speed: 37.05 Mbps | Ping: 118ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 12.05 Mbps | Ping: 273ms
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.172:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 11.41 Mbps | Ping: 301ms
+# Speed: 10.47 Mbps | Ping: 276ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.223.179:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186453
+
+# Speed: 7.87 Mbps | Ping: 294ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
