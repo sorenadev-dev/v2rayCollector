@@ -1,24 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-04T12:02:45Z
+# Generated: 2026-08-04T15:06:38Z
 # IP: 192.168.2.40
-# Total Working: 6
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 35.48 Mbps | Ping: 117ms
-vless://vpn_kurdnet@144.225.65.214:369?encryption=none&host=play.google.com&path=/&security=none&type=ws#EPODONIOS
+# Speed: 36.64 Mbps | Ping: 111ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 14.74 Mbps | Ping: 288ms
+# Speed: 29.16 Mbps | Ping: 100ms
+vless://8f4cb9dc-adf2-4246-b5b8-45b850c0b49d@91.107.178.22:2087?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# Speed: 14.36 Mbps | Ping: 285ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 14.51 Mbps | Ping: 113ms
-vless://vpn_kurdnet@144.225.65.214:963?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Speed: 11.58 Mbps | Ping: 444ms
-vless://20d21fbc-0965-4f8e-9d21-ed31fac8ade9@45.144.16.24:443?security=none&encryption=none&type=ws#EPODONIOS
-
-# Speed: 11.55 Mbps | Ping: 126ms
-vless://vpn_kurdnet@144.225.65.214:666?encryption=none&host=play.google.com&path=/&security=none&type=ws#EPODONIOS
-
-# Speed: 7.49 Mbps | Ping: 96ms
-vless://20d21fbc-0965-4f8e-9d21-ed31fac8ade9@45.74.178.108:2053?type=ws&encryption=none&security=none#EPODONIOS
+# Speed: 13.74 Mbps | Ping: 250ms
+vmess://eyJhZGQiOiAiMzguMjQ2LjIyNi4yNDAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjdkNGJkOTYxLTIzMGMtNGIzNC1hYjVkLTA1Y2YwZGZiNGVhNSIsICJuZXQiOiAiaHR0cCIsICJwYXRoIjogIiIsICJwb3J0IjogNTIwODAsICJwcyI6ICJFUE9ET05JT1MiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
