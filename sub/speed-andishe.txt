@@ -1,15 +1,36 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-04T15:08:30Z
+# Generated: 2026-08-04T18:12:46Z
 # IP: 192.168.2.45
-# Total Working: 3
+# Total Working: 10
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 39.55 Mbps | Ping: 108ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+# Speed: 41.72 Mbps | Ping: 92ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.207:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305781
 
-# Speed: 16.82 Mbps | Ping: 242ms
-vmess://eyJhZGQiOiAiMzguMjQ2LjIyNi4yNDAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjdkNGJkOTYxLTIzMGMtNGIzNC1hYjVkLTA1Y2YwZGZiNGVhNSIsICJuZXQiOiAiaHR0cCIsICJwYXRoIjogIiIsICJwb3J0IjogNTIwODAsICJwcyI6ICJFUE9ET05JT1MiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+# Speed: 29.37 Mbps | Ping: 151ms
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=/#🇵🇹 Join+Telegram:@Farah_VPN 🇵🇹
 
-# Speed: 12.72 Mbps | Ping: 294ms
+# Speed: 25.10 Mbps | Ping: 186ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.93.33.57:443#EPODONIOS
+
+# Speed: 22.00 Mbps | Ping: 179ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.163.196.142:443#EPODONIOS
+
+# Speed: 15.74 Mbps | Ping: 392ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+
+# Speed: 14.95 Mbps | Ping: 253ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.181.254:62145?security=none&encryption=none&headerType=none&type=tcp#@filembad
+
+# Speed: 10.41 Mbps | Ping: 400ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666/?type=ws&encryption=none&flow=&host=43.164.191.236&path=/proxy&security=tls&sni=43.164.191.236&allowInsecure=1#🇰🇷韩国
+
+# Speed: 5.06 Mbps | Ping: 409ms
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#🇨🇳中国
+
+# Speed: 3.56 Mbps | Ping: 1940ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#EPODONIOS
+
+# Speed: 3.27 Mbps | Ping: 452ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
