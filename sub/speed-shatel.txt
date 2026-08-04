@@ -1,27 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-04T18:10:25Z
+# Generated: 2026-08-04T21:14:39Z
 # IP: 192.168.2.40
 # Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 32.44 Mbps | Ping: 142ms
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=/#🇵🇹 Join+Telegram:@Farah_VPN 🇵🇹
-
-# Speed: 25.95 Mbps | Ping: 173ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.163.196.142:443#EPODONIOS
-
-# Speed: 24.21 Mbps | Ping: 186ms
+# Speed: 24.91 Mbps | Ping: 181ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.93.33.57:443#EPODONIOS
 
-# Speed: 14.96 Mbps | Ping: 274ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.181.254:62145?security=none&encryption=none&headerType=none&type=tcp#@filembad
+# Speed: 18.70 Mbps | Ping: 148ms
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 14.01 Mbps | Ping: 299ms
+# Speed: 12.07 Mbps | Ping: 412ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 11.07 Mbps | Ping: 407ms
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666/?type=ws&encryption=none&flow=&host=43.164.191.236&path=/proxy&security=tls&sni=43.164.191.236&allowInsecure=1#🇰🇷韩国
+# Speed: 11.46 Mbps | Ping: 473ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
 
-# Speed: 7.40 Mbps | Ping: 453ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+# Speed: 9.94 Mbps | Ping: 384ms
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#EPODONIOS
+
+# Speed: 9.44 Mbps | Ping: 407ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666/?type=ws&encryption=none&flow=&host=43.164.191.236&path=/proxy&security=tls&sni=43.164.191.236&allowInsecure=1#EPODONIOS
+
+# Speed: 2.95 Mbps | Ping: 1721ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 
