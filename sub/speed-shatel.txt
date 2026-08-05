@@ -1,39 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-05T06:32:37Z
+# Generated: 2026-08-05T09:37:22Z
 # IP: 192.168.2.40
-# Total Working: 11
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 38.42 Mbps | Ping: 104ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 33.17 Mbps | Ping: 410ms
-vless://XpnTeam-2@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# Speed: 32.30 Mbps | Ping: 130ms
+# Speed: 14.16 Mbps | Ping: 117ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#EPODONIOS
 
-# Speed: 19.01 Mbps | Ping: 221ms
+# Speed: 13.43 Mbps | Ping: 439ms
+vless://dbe85a41-4f66-4874-89b2-580c7896951c@188.114.96.2:443?encryption=none&type=ws&security=tls&path=/?ed=2560&host=france.havray2025.ir&sni=france.havray2025.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇨🇦133690 | ⚡️Telegram = t.me/SOSkeyNET
+
+# Speed: 12.83 Mbps | Ping: 193ms
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
 
-# Speed: 15.48 Mbps | Ping: 219ms
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#@awlix_ir
-
-# Speed: 14.95 Mbps | Ping: 97ms
-vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?&type=tcp&headerType=none&path=/#EPODONIOS
-
-# Speed: 13.15 Mbps | Ping: 413ms
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666/?type=ws&encryption=none&flow=&host=43.164.191.236&path=/proxy&security=tls&sni=43.164.191.236&allowInsecure=1#EPODONIOS
-
-# Speed: 7.82 Mbps | Ping: 246ms
-vless://4a291562-7e80-41c1-97dd-592303a675b4@216.167.9.238:58549?type=ws&headerType=none&path=/#EPODONIOS
-
-# Speed: 6.03 Mbps | Ping: 121ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReFUzUTNPNDRzcHpIQmI2ejNsNE9T@45.140.204.75:45635#EPODONIOS
-
-# Speed: 3.82 Mbps | Ping: 299ms
+# Speed: 8.60 Mbps | Ping: 889ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 3.32 Mbps | Ping: 354ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 7.82 Mbps | Ping: 112ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 5.56 Mbps | Ping: 346ms
+vmess://eyJhZGQiOiAiMTc2LjEyMi4xNzQuMTc1IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFhNmJjNzljLTc1MzUtNDQ5MS1hZWRlLTY1NTExMGNlZDJlMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiMTc2LjEyMi4xNzQuMTc1IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInYiOiAiMiJ9
+
+# Speed: 5.08 Mbps | Ping: 443ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666/?type=ws&encryption=none&flow=&host=43.164.191.236&path=/proxy&security=tls&sni=43.164.191.236&allowInsecure=1#EPODONIOS
 
