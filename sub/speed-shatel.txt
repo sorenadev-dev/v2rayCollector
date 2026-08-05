@@ -1,30 +1,33 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-05T18:50:13Z
+# Generated: 2026-08-05T21:54:06Z
 # IP: 192.168.2.40
-# Total Working: 8
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.82 Mbps | Ping: 104ms
+# Speed: 29.12 Mbps | Ping: 107ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 34.33 Mbps | Ping: 108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#EPODONIOS
-
-# Speed: 17.64 Mbps | Ping: 2965ms
+# Speed: 22.89 Mbps | Ping: 177ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.163.196.142:443#EPODONIOS
 
-# Speed: 12.79 Mbps | Ping: 297ms
+# Speed: 20.33 Mbps | Ping: 88ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.150.57:62145?#EPODONIOS
+
+# Speed: 17.86 Mbps | Ping: 254ms
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#EPODONIOS
+
+# Speed: 13.60 Mbps | Ping: 292ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 7.52 Mbps | Ping: 173ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.93.33.57:443#EPODONIOS
-
-# Speed: 7.36 Mbps | Ping: 322ms
-vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?encryption=none&packetEncoding=xudp#EPODONIOS
-
-# Speed: 3.76 Mbps | Ping: 440ms
+# Speed: 10.58 Mbps | Ping: 442ms
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666/?type=ws&encryption=none&flow=&host=43.164.191.236&path=/proxy&security=tls&sni=43.164.191.236&allowInsecure=1#EPODONIOS
 
-# Speed: 2.82 Mbps | Ping: 457ms
+# Speed: 6.73 Mbps | Ping: 466ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
+
+# Speed: 6.28 Mbps | Ping: 315ms
+trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372102
+
+# Speed: 6.04 Mbps | Ping: 475ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#EPODONIOS
 
