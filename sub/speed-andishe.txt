@@ -1,39 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-06T04:10:34Z
+# Generated: 2026-08-06T10:20:46Z
 # IP: 192.168.2.45
-# Total Working: 11
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 27.30 Mbps | Ping: 101ms
-vless://f3d6c244-772a-428f-b8fe-e2d632cd76e4@128.140.120.87:2086?encryption=none&security=none&type=httpupgrade&path=/mmd6&host=svn-panel-team.lorqino.ir#EPODONIOS
-
-# Speed: 26.01 Mbps | Ping: 109ms
+# Speed: 39.93 Mbps | Ping: 109ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 25.49 Mbps | Ping: 104ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#EPODONIOS
+# Speed: 15.63 Mbps | Ping: 326ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.227.228:443#EPODONIOS
 
-# Speed: 24.33 Mbps | Ping: 266ms
-vless://81e09a82-fe8d-4393-aefb-747322b20795@104.21.88.174:2052?path=/wss&security=none&encryption=none&host=nexo.xelviro.ir&type=httpupgrade#EPODONIOS
-
-# Speed: 19.41 Mbps | Ping: 183ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.93.33.57:443#EPODONIOS
-
-# Speed: 12.21 Mbps | Ping: 213ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
-
-# Speed: 10.80 Mbps | Ping: 251ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.176.140:62145?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Speed: 10.03 Mbps | Ping: 273ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#EPODONIOS
-
-# Speed: 8.96 Mbps | Ping: 296ms
+# Speed: 11.39 Mbps | Ping: 299ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 6.38 Mbps | Ping: 95ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.194.120:62145?#EPODONIOS
+# Speed: 7.81 Mbps | Ping: 316ms
+vless://4370c4d4-149d-4201-b790-8b4f4f2d723f@158.94.216.164:5001?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷135266 | ⚡️Telegram = t.me/SOSkeyNET
 
-# Speed: 6.20 Mbps | Ping: 508ms
-vmess://eyJhZGQiOiAiMTcyLjY3LjE2MS4xNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidjJyYXkxLmRvemFwcC54eXoiLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xNbnNaVU40LyIsICJwb3J0IjogODQ0MywgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDI4NjYyNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20286627
+# Speed: 7.66 Mbps | Ping: 273ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#EPODONIOS
+
+# Speed: 3.28 Mbps | Ping: 386ms
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#EPODONIOS
 
