@@ -1,24 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-06T10:20:46Z
+# Generated: 2026-08-06T13:24:55Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 39.93 Mbps | Ping: 109ms
+# Speed: 10.81 Mbps | Ping: 118ms
+vless://d35b56de-9a34-439f-b542-9dcad311f24c@144.31.219.205:443?encryption=none&fp=chrome&host=80-253-249-197.sslip.io&path=/teo-ws&security=tls&sni=80-253-249-197.sslip.io&type=ws#EPODONIOS
+
+# Speed: 7.43 Mbps | Ping: 409ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666/?type=ws&encryption=none&flow=&host=43.164.191.236&path=/proxy&security=tls&sni=43.164.191.236&allowInsecure=1#EPODONIOS
+
+# Speed: 7.16 Mbps | Ping: 306ms
+vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.119:43630?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# Speed: 6.31 Mbps | Ping: 117ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 15.63 Mbps | Ping: 326ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.227.228:443#EPODONIOS
+# Speed: 6.13 Mbps | Ping: 371ms
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.23:666/?type=ws&encryption=none&flow=&host=43.164.1.23&path=/proxy&security=tls&sni=43.164.1.23&allowInsecure=1&packetEncoding=xudp#EPODONIOS
 
-# Speed: 11.39 Mbps | Ping: 299ms
-trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+# Speed: 5.45 Mbps | Ping: 744ms
+vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@45.89.223.251:8484?path=live&security=tls&encryption=none&insecure=0&host=vip.dokhtaroune.ir&type=ws&allowInsecure=0&sni=vip.dokhtaroune.ir#EPODONIOS
 
-# Speed: 7.81 Mbps | Ping: 316ms
-vless://4370c4d4-149d-4201-b790-8b4f4f2d723f@158.94.216.164:5001?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷135266 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 7.66 Mbps | Ping: 273ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#EPODONIOS
-
-# Speed: 3.28 Mbps | Ping: 386ms
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#EPODONIOS
+# Speed: 4.96 Mbps | Ping: 908ms
+vless://1b25e81f-98d6-4c69-b9db-3df6c58a7500@45.89.223.251:8383?encryption=none&type=ws&insecure=0&security=tls&allowInsecure=0&host=vip.dokhtaroune.ir&path=live&sni=vip.dokhtaroune.ir#EPODONIOS
 
