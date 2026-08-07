@@ -1,42 +1,39 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-07T07:47:22Z
+# Generated: 2026-08-07T10:51:06Z
 # IP: 192.168.2.40
-# Total Working: 12
+# Total Working: 11
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 41.67 Mbps | Ping: 103ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.156:62145?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20530845
+# Speed: 32.53 Mbps | Ping: 105ms
+vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=&encryption=none&headerType=&type=tcp#EPODONIOS
 
-# Speed: 34.30 Mbps | Ping: 116ms
+# Speed: 29.59 Mbps | Ping: 114ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 29.04 Mbps | Ping: 103ms
+# Speed: 22.33 Mbps | Ping: 110ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#EPODONIOS
 
-# Speed: 23.08 Mbps | Ping: 118ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#EPODONIOS
+# Speed: 18.15 Mbps | Ping: 262ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.228.187:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 16.44 Mbps | Ping: 92ms
-vless://20d21fbc-0965-4f8e-9d21-ed31fac8ade9@91.107.179.141:9228?security=none&type=ws&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20677044
-
-# Speed: 14.95 Mbps | Ping: 418ms
+# Speed: 14.89 Mbps | Ping: 317ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.227.228:443#EPODONIOS
 
-# Speed: 14.11 Mbps | Ping: 259ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.212.215:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20469794
+# Speed: 12.00 Mbps | Ping: 293ms
+trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 12.25 Mbps | Ping: 243ms
-vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20308193
+# Speed: 11.72 Mbps | Ping: 419ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.162.164:443#EPODONIOS
 
-# Speed: 8.95 Mbps | Ping: 92ms
-vless://b3c0e083-7608-48b1-84ac-efd75522b745@91.98.99.36:2087?security=none&type=ws&path=/&host=play.google.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20658159
-
-# Speed: 8.43 Mbps | Ping: 100ms
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Speed: 6.10 Mbps | Ping: 262ms
+# Speed: 11.59 Mbps | Ping: 272ms
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#EPODONIOS
 
-# Speed: 4.71 Mbps | Ping: 334ms
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.23:666/?type=ws&encryption=none&flow=&host=43.164.1.23&path=/proxy&security=tls&sni=43.164.1.23&allowInsecure=1&packetEncoding=xudp#EPODONIOS
+# Speed: 8.45 Mbps | Ping: 103ms
+vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp=chrome&host=sync.watchwave.link&path=/api/v1/rooms/63368e3dbb/sync&security=tls&sni=cdn.tracker.yandex.net&type=ws#EPODONIOS
+
+# Speed: 6.04 Mbps | Ping: 117ms
+vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@151.101.56.6:443?host=c12.com&security=tls&sni=ssl.fastly.com&encryption=none&path=%2F&type=ws&insecure=0&fp=firefox&alpn=h2&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20951049
+
+# Speed: 3.64 Mbps | Ping: 749ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#EPODONIOS
 
