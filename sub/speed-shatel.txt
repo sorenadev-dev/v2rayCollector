@@ -1,39 +1,39 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-11T19:12:29Z
+# Generated: 2026-08-11T22:17:09Z
 # IP: 192.168.2.40
 # Total Working: 11
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 40.31 Mbps | Ping: 129ms
-vless://c0f16ee2-a909-4890-ab1c-96489230658a@104.21.67.171:443?encryption=none&security=tls&sni=admin.jikebet.com&type=ws&host=admin.jikebet.com&path=/vless#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20779469
-
-# Speed: 29.69 Mbps | Ping: 116ms
-vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.67.178.251:443?security=tls&type=ws&path=/vless&host=admin.jikebet.com&sni=admin.jikebet.com&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959761
-
-# Speed: 28.79 Mbps | Ping: 96ms
-vless://dbdf1950-b40e-4533-88bb-05ebca375781@172.66.146.2:2087?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#EPODONIOS
-
-# Speed: 21.19 Mbps | Ping: 114ms
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:2053?encryption=none&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20889542
-
-# Speed: 17.25 Mbps | Ping: 105ms
-vless://dbdf1950-b40e-4533-88bb-05ebca375781@104.18.155.141:8443?path=/&security=tls&encryption=none&host=dig.jhju.ir&fp=chrome&type=ws&sni=dig.jhju.ir#EPODONIOS
-
-# Speed: 14.05 Mbps | Ping: 303ms
-trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
-
-# Speed: 12.48 Mbps | Ping: 398ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Speed: 8.24 Mbps | Ping: 107ms
-vless://ddd72e51-9224-43a2-b3a0-9c4170f78ed1@178.83.46.30:5794?&type=tcp&headerType=none&path=/#EPODONIOS
-
-# Speed: 3.70 Mbps | Ping: 2291ms
+# Speed: 36.04 Mbps | Ping: 454ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#EPODONIOS
 
-# Speed: 3.66 Mbps | Ping: 203ms
+# Speed: 27.18 Mbps | Ping: 107ms
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.67.178.251:443?security=tls&type=ws&path=/vless&host=admin.jikebet.com&sni=admin.jikebet.com&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20986934
+
+# Speed: 27.05 Mbps | Ping: 136ms
+vless://5109835e-f49b-4094-a069-3ad3ce240e9d@169.40.138.65:27254?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# Speed: 22.26 Mbps | Ping: 235ms
+vless://2816ccb5-c589-5a88-c54f-a7759c15a059@69.46.46.30:443?path=/ws/2816ccb5-c589-5a88-c54f-a7759c15a059&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-115b.up.railway.app&fp=chrome&type=ws&sni=rvg-production-115b.up.railway.app#EPODONIOS
+
+# Speed: 16.54 Mbps | Ping: 113ms
+vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?path=/&security=none&encryption=none&type=ws#EPODONIOS
+
+# Speed: 8.57 Mbps | Ping: 88ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.71.241.48:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 8.50 Mbps | Ping: 454ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+
+# Speed: 4.11 Mbps | Ping: 81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@93.123.13.7:16460#EPODONIOS
+
+# Speed: 4.09 Mbps | Ping: 77ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.71.241.48:22224?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 3.48 Mbps | Ping: 120ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#EPODONIOS
 
-# Speed: 3.65 Mbps | Ping: 1424ms
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+# Speed: 3.34 Mbps | Ping: 87ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.71.241.48:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
