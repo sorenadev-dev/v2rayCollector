@@ -1,24 +1,30 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-12T07:53:01Z
+# Generated: 2026-08-12T10:57:10Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 11.27 Mbps | Ping: 118ms
-vless://a3beb69e-b310-8e6e-da7b-50e4d50ddbc7@69.46.46.21:443?encryption=none&security=tls&sni=rvg-production-0fe3.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=rvg-production-0fe3.up.railway.app&path=/ws/a3beb69e-b310-8e6e-da7b-50e4d50ddbc7#[19931] - Telegram : @V2All
+# Speed: 28.72 Mbps | Ping: 148ms
+vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#@GozargahAzad|🏁
 
-# Speed: 10.14 Mbps | Ping: 295ms
-trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+# Speed: 18.44 Mbps | Ping: 79ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22223?encryption=none&security=none&type=tcp#🇩🇪140919 | ⚡️Telegram = t.me/SOSkeyNET
 
-# Speed: 6.17 Mbps | Ping: 126ms
-vmess://eyJhZGQiOiAiMTY4LjIyMi40OS4xODgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjc2NDA1NDU1LTQ2NzktNGE4ZC05NGQ2LTY0YTMzODE4N2M4YSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+# Speed: 12.77 Mbps | Ping: 84ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 
-# Speed: 4.26 Mbps | Ping: 112ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#EPODONIOS
+# Speed: 9.29 Mbps | Ping: 93ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.162.237:22224?encryption=none&security=none&type=tcp#🇩🇪140918 | ⚡️Telegram = t.me/SOSkeyNET
 
-# Speed: 3.13 Mbps | Ping: 195ms
-vless://5109835e-f49b-4094-a069-3ad3ce240e9d@169.40.138.65:27254?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Speed: 3.00 Mbps | Ping: 162ms
+# Speed: 7.91 Mbps | Ping: 132ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#EPODONIOS
+
+# Speed: 7.05 Mbps | Ping: 732ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#EPODONIOS
+
+# Speed: 6.16 Mbps | Ping: 263ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725842
+
+# Speed: 5.00 Mbps | Ping: 408ms
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=/#EPODONIOS
 
