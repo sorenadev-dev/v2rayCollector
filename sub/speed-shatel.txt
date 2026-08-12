@@ -1,18 +1,30 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-12T13:39:06Z
+# Generated: 2026-08-12T16:43:20Z
 # IP: 192.168.2.40
-# Total Working: 4
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 6.68 Mbps | Ping: 3934ms
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+# Speed: 24.33 Mbps | Ping: 148ms
+vless://5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d@69.46.46.16:443?encryption=none&type=ws&security=tls&path=/ws/5865fb7c-59e0-0b23-9dfe-0c4e76cecb6d&host=rvg-production-6e30.up.railway.app&sni=rvg-production-6e30.up.railway.app&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 
-# Speed: 5.49 Mbps | Ping: 692ms
+# Speed: 19.60 Mbps | Ping: 266ms
+vless://097cd862-236b-4258-9c9e-f0bacc3b97b6@138.16.186.180:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=138.16.186.180&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443701
+
+# Speed: 15.33 Mbps | Ping: 1041ms
 vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?encryption=none&type=ws&security=tls&path=/&host=france-8.psntbt.com.&sni=ssl.psntbt.com.&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 
-# Speed: 4.30 Mbps | Ping: 90ms
-vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?path=/api/connect&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=apkav-6.bosx.net#[🏁]t.me/ConfigsHub
+# Speed: 12.29 Mbps | Ping: 120ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 3.00 Mbps | Ping: 291ms
-vless://413ed615-9ecf-40b9-8a2e-e294395a3566@66.33.22.244:443?encryption=none&type=ws&host=web-production-febbb.up.railway.app&path=/ws/vless/413ed615-9ecf-40b9-8a2e-e294395a3566?ed=2048&security=tls&fp=chrome&sni=web-production-febbb.up.railway.app&alpn=h3#[🏁]t.me/ConfigsHub
+# Speed: 8.62 Mbps | Ping: 108ms
+vless://3bd010f2-f769-570c-a3e1-0da96e402a2b@69.46.46.17:443?encryption=none&type=ws&security=tls&path=/ws/3bd010f2-f769-570c-a3e1-0da96e402a2b&host=rvg-production-105c.up.railway.app&sni=rvg-production-105c.up.railway.app&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+
+# Speed: 7.87 Mbps | Ping: 972ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.73:62145?&type=tcp&headerType=none&path=/#EPODONIOS
+
+# Speed: 6.04 Mbps | Ping: 393ms
+trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+
+# Speed: 2.81 Mbps | Ping: 1539ms
+vless://157579fe-e61a-42fe-9166-875c64e43f48@69.46.46.205:443?path=/ws/vless/157579fe-e61a-42fe-9166-875c64e43f48?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=app-2ca8df-8941de-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=app-2ca8df-8941de-production.up.railway.app#EPODONIOS
 
