@@ -1,21 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-12T07:31:42Z
+# Generated: 2026-08-12T10:35:25Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 19.27 Mbps | Ping: 114ms
-vmess://eyJhZGQiOiAiMTY4LjIyMi40OS4xODgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjc2NDA1NDU1LTQ2NzktNGE4ZC05NGQ2LTY0YTMzODE4N2M4YSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+# Speed: 22.70 Mbps | Ping: 401ms
+vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#@GozargahAzad|🏁
 
-# Speed: 14.64 Mbps | Ping: 602ms
-trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+# Speed: 21.88 Mbps | Ping: 150ms
+vless://7272b4c4-706d-4930-b0b2-7356caaaaf5f@104.16.92.229:8443?path=/&security=tls&encryption=none&host=finland-9.psntbt.com.&fp=chrome&type=ws&sni=ssl.psntbt.com.#[20086] - Telegram : @V2All
 
-# Speed: 8.90 Mbps | Ping: 770ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#EPODONIOS
+# Speed: 5.29 Mbps | Ping: 85ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷140933 | ⚡️Telegram = t.me/SOSkeyNET
 
-# Speed: 5.91 Mbps | Ping: 317ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#EPODONIOS
-
-# Speed: 3.14 Mbps | Ping: 232ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
+# Speed: 2.70 Mbps | Ping: 116ms
+vmess://eyJhZGQiOiAiMTY4LjIyMi40OS4xODgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjc2NDA1NDU1LTQ2NzktNGE4ZC05NGQ2LTY0YTMzODE4N2M4YSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
 
