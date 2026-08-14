@@ -1,24 +1,30 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-14T18:22:10Z
+# Generated: 2026-08-14T21:26:08Z
 # IP: 192.168.2.40
-# Total Working: 6
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 30.88 Mbps | Ping: 119ms
+# Speed: 43.53 Mbps | Ping: 93ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#EPODONIOS
+
+# Speed: 35.43 Mbps | Ping: 92ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22223?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 19.38 Mbps | Ping: 283ms
+trojan://6ec301428255a78a1d826988d86cc87e@18.167.167.216:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20353827
+
+# Speed: 17.32 Mbps | Ping: 382ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.189:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20562661
+
+# Speed: 17.23 Mbps | Ping: 3518ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+
+# Speed: 15.21 Mbps | Ping: 106ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#EPODONIOS
 
-# Speed: 28.69 Mbps | Ping: 109ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20697020
+# Speed: 5.22 Mbps | Ping: 211ms
+vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
 
-# Speed: 7.45 Mbps | Ping: 269ms
-trojan://6ec301428255a78a1d826988d86cc87e@16.162.160.61:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413094
-
-# Speed: 5.11 Mbps | Ping: 358ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#EPODONIOS
-
-# Speed: 4.78 Mbps | Ping: 2079ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#EPODONIOS
-
-# Speed: 2.78 Mbps | Ping: 199ms
-vless://0db4a87c-c280-4a5f-ae97-903768c5ef4c@31.76.76.31:443?type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20670849
+# Speed: 3.36 Mbps | Ping: 485ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
 
