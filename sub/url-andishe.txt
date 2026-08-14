@@ -1,325 +1,376 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-08-14T15:43:47Z
-# Total Working: 107
+# Generated: 2026-08-14T18:50:19Z
+# Total Working: 124
 #
-# Ping: 77ms
-trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714635
+# Ping: 80ms
+trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561912
 
 # Ping: 80ms
-trojan://AE62539071@63.183.239.176:443?sni=proper-marlin.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20438263
+trojan://AE62539071@18.194.232.212:443?sni=dashing-bedbug.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20421994
 
-# Ping: 86ms
-trojan://AE62539071@18.194.232.212:443?sni=dashing-bedbug.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20746555
+# Ping: 81ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 86ms
-trojan://AE62539071@18.198.1.232:443?sni=teaching-gnu.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20869620
+# Ping: 87ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22222?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 90ms
+# Ping: 88ms
+vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20135825
+
+# Ping: 88ms
 trojan://AE62539071@18.194.130.12:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sterling-macaw.rooster465.autos#EPODONIOS
 
+# Ping: 89ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#EPODONIOS
+
 # Ping: 92ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.167.167:22224?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 93ms
-trojan://AE62539071@51.44.161.22:443?sni=distinct-quail.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20125728
+# Ping: 96ms
+trojan://AE62539071@51.44.161.22:443?sni=distinct-quail.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20947132
 
-# Ping: 95ms
+# Ping: 100ms
+vless://c8bbffdd-baea-67cc-641b-e5a450d4edc4@69.46.46.50:443?path=/ws/c8bbffdd-baea-67cc-641b-e5a450d4edc4&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-f351.up.railway.app&fp=chrome&type=ws&sni=rvg-production-f351.up.railway.app#EPODONIOS
+
+# Ping: 101ms
+trojan://AE62539071@54.170.38.205:443?sni=unbiased-garfish.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630436
+
+# Ping: 104ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20697020
+
+# Ping: 104ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#EPODONIOS
 
-# Ping: 99ms
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@168.222.143.50:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20546263
-
-# Ping: 106ms
-trojan://AE62539071@54.74.210.220:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=funny-hen.rooster465.autos#EPODONIOS
-
-# Ping: 108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20217977
-
-# Ping: 108ms
-vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260/?type=tcp&encryption=none&flow=#EPODONIOS
-
-# Ping: 110ms
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#EPODONIOS
+# Ping: 111ms
+vless://0db4a87c-c280-4a5f-ae97-903768c5ef4c@31.76.76.31:443?type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20670849
 
 # Ping: 114ms
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@199.181.197.1:443?encryption=none&security=tls&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=/hdgrbws#EPODONIOS
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.236:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273612
 
-# Ping: 124ms
-vless://e7299042-7d8f-440f-8368-2516b0e69341@201.51.0.38:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20581286
+# Ping: 127ms
+vless://49e76398-5127-4005-90cb-c2a971f745f1@8.6.112.6:443?security=tls&type=ws&path=/ram&host=hjage.starwavelab-kiloilm.sbs&sni=hjage.starwavelab-kiloilm.sbs&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20187271
 
-# Ping: 132ms
-vless://112912a9-cedf-485d-b8ed-d8f8d4774437@31.129.96.186:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20799560
+# Ping: 129ms
+vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
 
-# Ping: 132ms
+# Ping: 133ms
 vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?path=/api/vote/number/row/n1&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ger-full.deepinsane.com&fp=chrome&type=ws&allowInsecure=0&sni=ger-full.deepinsane.com#EPODONIOS
 
-# Ping: 151ms
+# Ping: 136ms
+vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.135.117:443?security=tls&type=ws&path=/ram&host=jgsal.blueriverway-nexoim.sbs&sni=jgsal.blueriverway-nexoim.sbs&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167859
+
+# Ping: 145ms
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@188.114.99.0:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#EPODONIOS
+
+# Ping: 155ms
 trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#EPODONIOS
 
-# Ping: 162ms
-trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#EPODONIOS
+# Ping: 159ms
+vless://5502312d-b5cf-4652-8c59-4d670dd047be@45.146.131.97:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20665526
 
-# Ping: 184ms
+# Ping: 162ms
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@37.27.11.192:443/?type=ws&encryption=none&flow=&host=vod.ensf.top&path=/api/v1/irc&security=tls&sni=vod.ensf.top&fp=chrome#EPODONIOS
+
+# Ping: 172ms
+vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260/?type=tcp&encryption=none&flow=#EPODONIOS
+
+# Ping: 174ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#EPODONIOS
 
+# Ping: 185ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.36.5:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20724807
+
+# Ping: 187ms
+vmess://eyJhZGQiOiAiMjE2LjEyOC4xNzYuMTY2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlYmNhNTU5Yy1hNGExLTQwNjItOTQ1My02NDEyZDhmZjUyNTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2ViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsICJwb3J0IjogIjI4ODA5IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+
+# Ping: 190ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.185.207:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20749146
+
 # Ping: 193ms
-vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?&type=ws&headerType=none&host=rutube.ummapeople.online&path=/rutube#EPODONIOS
+trojan://AE62539071@87.121.33.238:443?security=tls&sni=wanted-marmoset.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20777117
 
-# Ping: 198ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20666447
+# Ping: 200ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=none&host=fuckingfangbinxing.pusytroller.cf&path=/&encryption=none#EPODONIOS
 
-# Ping: 201ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=/&encryption=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&security=none#EPODONIOS
+# Ping: 202ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.202:2095?security=&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#EPODONIOS
+
+# Ping: 203ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#EPODONIOS
+
+# Ping: 204ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20313947
+
+# Ping: 205ms
+vless://4093e0fe-939d-41a8-95c1-395728cbbd93@170.114.46.6:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=&encryption=none&host=j03.sahanwickramasinghe.me&type=ws#EPODONIOS
 
 # Ping: 209ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.36.5:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839637
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.8.211.57:443?encryption=none&security=tls&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=/hdgrbws#EPODONIOS
 
-# Ping: 221ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.101.139:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20314744
+# Ping: 212ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.101.139:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374437
 
-# Ping: 244ms
-trojan://AE62539071@35.160.249.189:443?sni=absolute-teal.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20612130
+# Ping: 232ms
+vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@104.21.36.164:2053?security=tls&type=ws&path=/api/vote/number/row/n1&host=ger-full.deepinsane.com&packetEncoding=none&allowInsecure=1&sni=ger-full.deepinsane.com&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20831321
 
-# Ping: 253ms
-trojan://AE62539071@54.244.169.225:443?sni=sharing-duck.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20860632
+# Ping: 237ms
+trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20291612
 
-# Ping: 254ms
-trojan://AE62539071@44.243.85.47:443?sni=liked-serval.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20182354
-
-# Ping: 258ms
-trojan://AE62539071@35.88.120.18:443?sni=dominant-jaguar.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170945
-
-# Ping: 259ms
+# Ping: 239ms
 vless://22a0751d-4db7-4a51-ba80-d8ddf24e0b77@87.242.85.201:13561?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 
-# Ping: 264ms
-trojan://AE62539071@34.221.30.108:443?sni=humorous-hawk.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20545133
+# Ping: 243ms
+trojan://AE62539071@54.169.117.161:443?sni=simple-rodent.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20640706
 
-# Ping: 265ms
+# Ping: 244ms
+trojan://AE62539071@47.128.147.181:443?sni=rich-mule.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20965909
+
+# Ping: 248ms
+trojan://AE62539071@13.212.35.252:443?sni=adapted-whippet.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20495816
+
+# Ping: 248ms
+trojan://AE62539071@13.250.126.30:443?sni=adapted-martin.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20805460
+
+# Ping: 252ms
+trojan://ND91608427@44.244.3.114:443?sni=pet-ghost.rooster465.autos#EPODONIOS
+
+# Ping: 253ms
+trojan://AE62539071@54.169.174.154:443?sni=absolute-hare.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20648225
+
+# Ping: 253ms
+trojan://AE62539071@34.221.30.108:443?sni=humorous-hawk.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20740988
+
+# Ping: 253ms
+trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.autos#EPODONIOS
+
+# Ping: 255ms
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@139.162.61.57:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=139.162.61.57#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595291
+
+# Ping: 258ms
 trojan://ND91608427@35.86.90.51:443?security=tls&sni=natural-collie.rooster465.autos#EPODONIOS
 
-# Ping: 266ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#EPODONIOS
-
-# Ping: 267ms
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi%23TELEGRAM-PROXY_MTM%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#EPODONIOS
-
-# Ping: 269ms
-trojan://ND91608427@185.244.208.13:443?security=tls&sni=ace-starling.rooster465.autos#EPODONIOS
-
-# Ping: 274ms
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed=512#EPODONIOS
-
-# Ping: 280ms
-trojan://AE62539071@54.188.176.255:443?sni=arriving-colt.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20486377
-
-# Ping: 281ms
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?encryption=none&security=none&type=ws&host=parsi.parsi.sbs&path=/#EPODONIOS
-
-# Ping: 286ms
+# Ping: 259ms
 trojan://ND91608427@44.242.235.129:443?fp=chrome&sni=devoted-tapir.rooster465.autos#EPODONIOS
 
-# Ping: 291ms
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?&type=ws&headerType=none&host=parsi.parsi.sbs&path=/#EPODONIOS
+# Ping: 259ms
+trojan://AE62539071@47.128.150.245:443?sni=stirred-buck.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20294696
 
-# Ping: 292ms
-trojan://AE62539071@35.88.210.26:443?sni=dear-hermit.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596848
+# Ping: 260ms
+trojan://AE62539071@54.188.176.255:443?sni=arriving-colt.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20895891
 
-# Ping: 301ms
-trojan://AE62539071@52.198.25.180:443?sni=clear-snail.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20696588
+# Ping: 260ms
+trojan://ND91608427@185.244.208.210:443?security=tls&sni=upright-hamster.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20160223
 
-# Ping: 303ms
-trojan://ND91608427@43.207.139.153:443?security=tls&sni=sensible-mongrel.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564849
+# Ping: 261ms
+trojan://AE62539071@35.88.120.18:443?sni=dominant-jaguar.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20278704
 
-# Ping: 303ms
-trojan://AE62539071@54.238.196.238:443?sni=balanced-goat.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20730686
+# Ping: 263ms
+trojan://AE62539071@100.22.163.167:443?sni=bright-baboon.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20407184
+
+# Ping: 265ms
+trojan://AE62539071@44.243.85.47:443?sni=liked-serval.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20556839
+
+# Ping: 271ms
+trojan://AE62539071@35.88.210.26:443?sni=dear-hermit.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20660668
+
+# Ping: 272ms
+trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#EPODONIOS
+
+# Ping: 277ms
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.180.173:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&packetEncoding=none&allowInsecure=1&sni=music1000.melobitmusic1.ir&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116990
+
+# Ping: 294ms
+trojan://AE62539071@18.183.250.98:443?sni=together-mayfly.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20709583
+
+# Ping: 295ms
+trojan://AE62539071@3.113.21.187:443?sni=awaited-lark.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20249949
+
+# Ping: 295ms
+trojan://AE62539071@54.250.97.109:443?sni=current-barnacle.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255840
+
+# Ping: 296ms
+trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#EPODONIOS
+
+# Ping: 298ms
+trojan://AE62539071@18.179.6.206:443?sni=polished-katydid.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20225589
+
+# Ping: 298ms
+trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#EPODONIOS
+
+# Ping: 299ms
+trojan://AE62539071@52.198.117.121:443?sni=relevant-cicada.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20476757
+
+# Ping: 299ms
+trojan://AE62539071@57.181.88.104:443?sni=climbing-frog.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20764215
+
+# Ping: 299ms
+trojan://AE62539071@18.183.82.51:443?sni=sweeping-parakeet.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20934290
+
+# Ping: 308ms
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.160.61:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413094
+
+# Ping: 309ms
+trojan://AE62539071@35.72.10.188:443?sni=immortal-woodcock.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20534900
 
 # Ping: 311ms
-trojan://AE62539071@54.199.226.33:443?sni=pleased-pelican.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20947564
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
 
-# Ping: 318ms
-trojan://AE62539071@52.195.229.14:443?sni=superb-dory.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956351
+# Ping: 312ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0=@77.240.38.27:8443#EPODONIOS
 
-# Ping: 318ms
-trojan://AE62539071@13.115.158.235:443?sni=prepared-thrush.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541488
+# Ping: 312ms
+trojan://AE62539071@13.231.222.134:443?sni=grateful-crawdad.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20534982
 
-# Ping: 320ms
-trojan://AE62539071@43.207.86.70:443?sni=rich-gelding.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248884
-
-# Ping: 320ms
-trojan://AE62539071@18.183.82.51:443?sni=sweeping-parakeet.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20876002
-
-# Ping: 320ms
-vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20411214
-
-# Ping: 321ms
-trojan://AE62539071@18.183.216.49:443?sni=fun-poodle.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186864
-
-# Ping: 324ms
-trojan://AE62539071@3.112.200.59:443?sni=new-eagle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20188094
-
-# Ping: 326ms
-trojan://AE62539071@54.249.32.173:443?sni=eager-camel.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20780572
-
-# Ping: 329ms
-trojan://AE62539071@13.125.228.160:443?sni=engaged-skink.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20311093
-
-# Ping: 329ms
-trojan://AE62539071@18.183.140.61:443?sni=harmless-imp.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20579674
-
-# Ping: 330ms
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20437610
-
-# Ping: 331ms
-trojan://AE62539071@13.230.97.36:443?sni=known-albacore.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966803
-
-# Ping: 335ms
+# Ping: 314ms
 trojan://ND91608427@18.181.164.216:443?security=tls&sni=upright-impala.rooster465.autos#EPODONIOS
 
+# Ping: 315ms
+trojan://AE62539071@52.195.229.14:443?sni=superb-dory.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20842039
+
+# Ping: 316ms
+trojan://AE62539071@52.199.134.162:443?sni=modest-pup.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170277
+
+# Ping: 316ms
+trojan://AE62539071@18.183.140.61:443?sni=harmless-imp.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485773
+
+# Ping: 317ms
+trojan://ND91608427@13.192.168.51:443?security=tls&sni=learning-leopard.rooster465.autos#EPODONIOS
+
+# Ping: 317ms
+trojan://AE62539071@43.207.118.231:443?sni=joint-ewe.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337555
+
+# Ping: 318ms
+trojan://AE62539071@54.249.80.161:443?sni=deep-ringtail.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20461398
+
+# Ping: 318ms
+trojan://AE62539071@54.199.226.33:443?sni=pleased-pelican.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20553673
+
+# Ping: 321ms
+trojan://AE62539071@43.207.235.64:443?sni=real-cardinal.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20771101
+
+# Ping: 321ms
+trojan://AE62539071@18.183.178.158:443?sni=inviting-burro.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20376335
+
+# Ping: 325ms
+trojan://AE62539071@18.179.15.13:443?sni=shining-haddock.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20605294
+
+# Ping: 325ms
+trojan://AE62539071@13.114.122.131:443?security=tls&sni=whole-grub.rooster465.autos#EPODONIOS
+
+# Ping: 326ms
+trojan://ND91608427@3.112.223.141:443?security=tls&sni=internal-sunbird.rooster465.autos#EPODONIOS
+
+# Ping: 327ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#EPODONIOS
+
+# Ping: 328ms
+trojan://AE62539071@18.183.109.172:443?sni=well-jennet.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243843
+
+# Ping: 329ms
+trojan://AE62539071@54.238.196.238:443?sni=balanced-goat.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20406135
+
+# Ping: 329ms
+trojan://AE62539071@18.181.118.40:443?sni=definite-panda.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20757022
+
+# Ping: 330ms
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.123:50887?sni=www.nintendogames.net&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20239331
+
+# Ping: 331ms
+trojan://AE62539071@3.112.200.59:443?sni=new-eagle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570438
+
+# Ping: 331ms
+trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#EPODONIOS
+
+# Ping: 332ms
+trojan://AE62539071@43.207.86.70:443?sni=rich-gelding.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20855040
+
+# Ping: 332ms
+trojan://AE62539071@18.183.135.94:443?sni=central-jawfish.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622476
+
+# Ping: 333ms
+trojan://AE62539071@3.34.186.19:443?sni=magnetic-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20799624
+
 # Ping: 337ms
-trojan://AE62539071@3.38.92.38:443?sni=possible-yeti.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20155165
+trojan://AE62539071@52.79.150.18:443?sni=eager-platypus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20296473
 
-# Ping: 342ms
-trojan://AE62539071@47.128.150.245:443?sni=stirred-buck.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20180645
+# Ping: 339ms
+trojan://AE62539071@3.36.116.194:443?sni=precious-racer.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20875070
 
-# Ping: 345ms
-trojan://AE62539071@54.169.117.161:443?sni=simple-rodent.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20741434
+# Ping: 340ms
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos#EPODONIOS
 
-# Ping: 345ms
-trojan://AE62539071@43.207.118.231:443?sni=joint-ewe.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20341807
-
-# Ping: 348ms
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=musiclovers85?ed=512#EPODONIOS
-
-# Ping: 351ms
-trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos#EPODONIOS
-
-# Ping: 360ms
-trojan://AE62539071@18.181.195.212:443?sni=modern-bulldog.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20428374
-
-# Ping: 367ms
+# Ping: 340ms
 trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos#EPODONIOS
 
+# Ping: 342ms
+trojan://AE62539071@13.124.185.220:443?sni=prepared-monitor.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20546376
+
+# Ping: 347ms
+trojan://AE62539071@43.202.55.63:443?sni=causal-ladybug.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20616251
+
+# Ping: 350ms
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos#EPODONIOS
+
+# Ping: 358ms
+trojan://AE62539071@3.39.251.168:443?sni=allowing-halibut.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20755481
+
+# Ping: 363ms
+trojan://AE62539071@13.125.228.160:443?sni=engaged-skink.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20649931
+
 # Ping: 368ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.224.224:62145?type=tcp&headerType=none&path=/#EPODONIOS
+trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484645
 
-# Ping: 375ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.20:62145?type=tcp&headerType=none&path=/#EPODONIOS
+# Ping: 370ms
+trojan://AE62539071@43.203.212.56:443?sni=oriented-pegasus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20687363
 
-# Ping: 375ms
-trojan://AE62539071@43.201.49.96:443?sni=firm-krill.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20171429
-
-# Ping: 379ms
+# Ping: 371ms
 trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos#EPODONIOS
 
-# Ping: 387ms
-trojan://AE62539071@43.203.212.56:443?sni=oriented-pegasus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20877523
+# Ping: 376ms
+trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos#EPODONIOS
+
+# Ping: 385ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.4:62145?encryption=none&security=none&type=tcp&headerType=none&path=/#EPODONIOS
 
 # Ping: 389ms
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#EPODONIOS
 
-# Ping: 398ms
-trojan://AE62539071@54.249.80.161:443?sni=deep-ringtail.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20875034
+# Ping: 399ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.182.124:62145?encryption=none&security=none&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Ping: 406ms
-trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#EPODONIOS
+# Ping: 425ms
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
 
-# Ping: 413ms
-trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#EPODONIOS
+# Ping: 449ms
+vless://2216b0ee-b94a-4ea9-8780-ccc21c4b5f31@80.93.52.44:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20747186
 
-# Ping: 417ms
-trojan://AE62539071@18.183.135.94:443?sni=central-jawfish.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20726148
+# Ping: 452ms
+trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#EPODONIOS
 
-# Ping: 417ms
-trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#EPODONIOS
+# Ping: 1035ms
+trojan://UO36402987@34.251.228.118:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-ladybird.rooster465.autos#EPODONIOS
 
-# Ping: 418ms
-trojan://AE62539071@18.179.6.206:443?sni=polished-katydid.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20957928
+# Ping: 1552ms
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Ping: 418ms
-trojan://AE62539071@54.168.18.107:443?sni=game-thrush.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20378563
+# Ping: 1674ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
 
-# Ping: 419ms
-trojan://AE62539071@18.183.109.172:443?sni=well-jennet.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20587167
-
-# Ping: 421ms
-trojan://ND91608427@54.180.228.238:443?security=tls&sni=pure-ram.rooster465.autos#EPODONIOS
-
-# Ping: 421ms
-trojan://AE62539071@43.207.235.64:443?sni=real-cardinal.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20510746
-
-# Ping: 421ms
-trojan://AE62539071@13.231.222.134:443?sni=grateful-crawdad.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20968702
-
-# Ping: 423ms
-trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#EPODONIOS
-
-# Ping: 427ms
-trojan://AE62539071@43.207.166.211:443?sni=proper-mouse.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979756
-
-# Ping: 430ms
-trojan://AE62539071@15.165.18.82:443?sni=grand-grub.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20361028
-
-# Ping: 446ms
-trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20326703
-
-# Ping: 447ms
-vless://b1e6a8df-effc-4b70-9132-4dca98085420@104.17.148.22:8443?encryption=none&fp=chrome&host=free-irancell.warzonmob.ir&path=%2F&security=tls&sni=free-irancell.warzonmob.ir&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20393224
-
-# Ping: 474ms
-trojan://AE62539071@43.202.55.63:443?sni=causal-ladybug.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738939
-
-# Ping: 478ms
+# Ping: 2195ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Ping: 625ms
+# Ping: 3159ms
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzg5OTgiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+
+# Ping: 3167ms
+vless://0c4f46c2-afb7-4a80-8f6e-10258d80333e@85.92.111.38:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20596486
+
+# Ping: 3173ms
+vmess://eyJhZGQiOiAiMTcyLjY3LjE2MS4xNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidjJyYXkxLmRvemFwcC54eXoiLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xNbnNaVU40LyIsICJwb3J0IjogODQ0MywgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDkyODI4NiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20928286
+
+# Ping: 3568ms
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@195.133.25.181:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20711121
+
+# Ping: 3769ms
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@162.159.135.232:8080?encryption=none&type=httpupgrade&path=/&host=xn-deplay.google.com.dbsll.ir#EPODONIOS
-
-# Ping: 645ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@139.162.61.57:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=139.162.61.57#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20100376
-
-# Ping: 926ms
-trojan://ND91608427@13.192.168.51:443?security=tls&sni=learning-leopard.rooster465.autos#EPODONIOS
-
-# Ping: 1066ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIyMDIuNDcuODkuMTMzIiwgInBvcnQiOiAiNTM1NDgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjNhMDM2MTNiLWJiYWMtNGEyMi1iZWU2LTJjOWE3NTFhMjc2MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGtmamgyMjIiLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-
-# Ping: 1216ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
-
-# Ping: 1410ms
-trojan://ND91608427@54.65.167.167:443?security=tls&sni=tough-robin.rooster465.autos#EPODONIOS
-
-# Ping: 1507ms
-trojan://AE62539071@18.183.178.158:443?sni=inviting-burro.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20585585
-
-# Ping: 1634ms
-vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914531
-
-# Ping: 1956ms
-vless://b3d66abd-ea82-4616-92f0-1dec8d1e4cfc@194.26.229.222:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20733366
-
-# Ping: 2098ms
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20871849
-
-# Ping: 2418ms
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.236:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684344
-
-# Ping: 2754ms
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Ping: 2818ms
-vless://f6fc0eed-ec8c-4f6a-883d-421706ca6886@194.26.229.212:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230814
-
-# Ping: 3264ms
-vless://96c4225e-119c-4259-9015-7f74e057db36@80.78.247.12:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20894042
-
-# Ping: 4289ms
-vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20866038
-
-# Ping: 4466ms
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#EPODONIOS
-
-# Ping: 4533ms
-vless://20124617-eba7-4b34-87ad-fcf700ea7dff@194.26.229.210:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20927533
 
