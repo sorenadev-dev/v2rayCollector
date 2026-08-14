@@ -1,33 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-14T02:50:40Z
+# Generated: 2026-08-14T05:57:10Z
 # IP: 192.168.2.40
-# Total Working: 9
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 21.49 Mbps | Ping: 94ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.177.224-6192
+# Speed: 43.78 Mbps | Ping: 109ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 16.73 Mbps | Ping: 119ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0144
+# Speed: 42.23 Mbps | Ping: 129ms
+vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@151.101.56.6:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20305611
 
-# Speed: 13.13 Mbps | Ping: 249ms
-vless://1178e691-88c5-4c7d-b4ea-1cefcdf52553@52.76.177.127:17771?encryption=none&security=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20235085
+# Speed: 19.92 Mbps | Ping: 258ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#EPODONIOS
 
-# Speed: 11.82 Mbps | Ping: 362ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#%F0%9F%87%BA%F0%9F%87%B8US-18.188.213.207-6261
+# Speed: 17.90 Mbps | Ping: 247ms
+vless://1178e691-88c5-4c7d-b4ea-1cefcdf52553@52.76.177.127:17771?encryption=none&security=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20592524
 
-# Speed: 10.92 Mbps | Ping: 776ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMiLCJhZGQiOiIxMTcuMjcuMjI4LjI5IiwicG9ydCI6IjEwMDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjJjOTBhZjE1LWJhYzctZjg1MC00YzdjLTEyMGM1YTQyMDYzNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+# Speed: 14.47 Mbps | Ping: 366ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078#EPODONIOS
 
-# Speed: 10.64 Mbps | Ping: 543ms
-vless://8d4cffc5-5b52-4cef-8059-2095c100a8a7@183.107.137.157:36389?encryption=none&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=/@Marisa_kristi#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20348818
-
-# Speed: 10.22 Mbps | Ping: 314ms
-vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁷²
-
-# Speed: 4.50 Mbps | Ping: 119ms
-vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@151.101.56.6:443?security=tls&type=ws&path=/&host=c12.com&alpn=h2&sni=ssl.fastly.com&fp=firefox&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698951
-
-# Speed: 2.68 Mbps | Ping: 103ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#@FarazV2ray
+# Speed: 13.25 Mbps | Ping: 256ms
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@139.162.61.57:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=139.162.61.57#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351039
 
