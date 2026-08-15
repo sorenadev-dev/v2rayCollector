@@ -1,39 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-15T10:02:42Z
+# Generated: 2026-08-15T13:07:56Z
 # IP: 192.168.2.40
-# Total Working: 11
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.05 Mbps | Ping: 295ms
-vless://788312f9-b95e-46da-9a39-623d798de761@164.37.100.59:443?security=tls&encryption=none&type=grpc&serviceName=rpc.v1.SyncService&sni=edge1.numberoneok.com#EPODONIOS
+# Speed: 15.52 Mbps | Ping: 260ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.213.155:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 29.29 Mbps | Ping: 104ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#EPODONIOS
+# Speed: 9.19 Mbps | Ping: 245ms
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@139.162.61.57:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=139.162.61.57#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20716714
 
-# Speed: 20.08 Mbps | Ping: 2812ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#EPODONIOS
+# Speed: 6.80 Mbps | Ping: 103ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22224?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Speed: 19.07 Mbps | Ping: 122ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.227.195:22223?encryption=none&security=none&type=tcp#[22690] - Telegram : @V2All
-
-# Speed: 16.59 Mbps | Ping: 282ms
-trojan://BxceQaOe@18.162.120.218:11035?sni=18.162.120.218&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998145
-
-# Speed: 14.36 Mbps | Ping: 137ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.227.195:22224?encryption=none&security=none&type=tcp#🇩🇪142922 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 14.32 Mbps | Ping: 93ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#EPODONIOS
-
-# Speed: 12.22 Mbps | Ping: 137ms
-vless://39ad12ba-914a-4aa1-a825-3ee4db7c0a52@89.167.12.115:22579?&type=tcp&headerType=none&path=/#EPODONIOS
-
-# Speed: 10.58 Mbps | Ping: 268ms
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
-
-# Speed: 10.29 Mbps | Ping: 241ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.227.195:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
-
-# Speed: 3.45 Mbps | Ping: 378ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@139.162.61.57:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=139.162.61.57#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20812170
+# Speed: 5.94 Mbps | Ping: 88ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.153.151.72:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
