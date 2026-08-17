@@ -1,27 +1,60 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-17T12:30:42Z
+# Generated: 2026-08-17T21:50:58Z
 # IP: 192.168.2.45
-# Total Working: 7
+# Total Working: 18
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 20.19 Mbps | Ping: 863ms
-vless://2f41c3ac-627d-4a65-9f3c-b8e2a73f06d9@66.90.93.74:8444?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v1/connect&security=tls&sni=gateway-v1.bosx.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917270
+# Speed: 41.55 Mbps | Ping: 310ms
+vless://6ddf87dd-8a90-4a80-b360-9e19a29dc03e@69.46.46.71:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws/vless/6ddf87dd-8a90-4a80-b360-9e19a29dc03e?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-c5a8b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-c5a8b.up.railway.app#@GozargahAzad|🇺🇸
 
-# Speed: 13.65 Mbps | Ping: 83ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22222?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 37.52 Mbps | Ping: 101ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#EPODONIOS
 
-# Speed: 9.66 Mbps | Ping: 91ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22224?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 21.33 Mbps | Ping: 254ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20803701
 
-# Speed: 7.50 Mbps | Ping: 93ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22223?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 19.08 Mbps | Ping: 268ms
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20282849
 
-# Speed: 6.64 Mbps | Ping: 621ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@139.162.61.57:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=139.162.61.57#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20985059
+# Speed: 19.08 Mbps | Ping: 374ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.43:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20213582
 
-# Speed: 5.53 Mbps | Ping: 375ms
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#EPODONIOS
+# Speed: 10.53 Mbps | Ping: 144ms
+vless://f4685d27-73e3-4588-9622-add50b84046a@179.254.126.218:9800?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 3.96 Mbps | Ping: 356ms
+# Speed: 9.42 Mbps | Ping: 103ms
+vless://f4685d27-73e3-4588-9622-add50b84046a@45.67.139.50:9800?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 9.02 Mbps | Ping: 1277ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QUtpa1ZpRS9tOE9sVkVmanlvd28vS0V1eGlmZWE1aEZVRFlUbG9JMlNXOD0=@161.118.225.233:56927#EPODONIOS
+
+# Speed: 8.34 Mbps | Ping: 252ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.172:62145?#EPODONIOS
+
+# Speed: 7.98 Mbps | Ping: 342ms
 vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#EPODONIOS
+
+# Speed: 7.21 Mbps | Ping: 293ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+
+# Speed: 7.13 Mbps | Ping: 195ms
+vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#EPODONIOS
+
+# Speed: 7.08 Mbps | Ping: 2989ms
+trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#EPODONIOS
+
+# Speed: 6.01 Mbps | Ping: 163ms
+vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?security=&encryption=none&headerType=&type=tcp#[🇺🇦]t.me/ConfigsHub
+
+# Speed: 5.35 Mbps | Ping: 211ms
+vless://e97997b7-15ea-4eb6-b259-ad8194086f62@176.65.151.197:24686?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 4.07 Mbps | Ping: 380ms
+ss://YWVzLTI1Ni1nY206ZVQwaGJ1MHFTb2ZCUDZtUldONTZvU0FO@97.64.20.203:443#EPODONIOS
+
+# Speed: 4.07 Mbps | Ping: 522ms
+vless://9a734231-b3cb-4d97-86e8-0207579d24f4@5.252.26.38:443?encryption=none&type=tcp&security=tls&headerType=none&sni=zrh8h5xh9e63.dop4.com&insecure=1&allowInsecure=1#EPODONIOS
+
+# Speed: 3.26 Mbps | Ping: 635ms
+trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 
