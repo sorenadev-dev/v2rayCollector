@@ -1,9 +1,39 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-18T12:11:33+03:30
-# IP: 192.168.2.53
-# Total Working: 1
+# Generated: 2026-08-18T09:05:47Z
+# IP: 192.168.2.45
+# Total Working: 11
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 11.39 Mbps | Ping: 647ms
+# Speed: 20.05 Mbps | Ping: 217ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.189.171.163:443#EPODONIOS
+
+# Speed: 16.20 Mbps | Ping: 2430ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+
+# Speed: 10.14 Mbps | Ping: 108ms
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxOTIuMjQ4LjE2My4xNDgiLCAicG9ydCI6IDUzMjI0LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2NDdjMmRjNi1mZDQ4LTRhODQtOWI1OS0xNjNkZjE5YWQ2ZjkiLCAicGF0aCI6ICIvNjQ3YzJkYzYtZmQ0OC00YTg0LTliNTktMTYzZGYxOWFkNmY5IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
+# Speed: 8.59 Mbps | Ping: 259ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?#EPODONIOS
+
+# Speed: 6.45 Mbps | Ping: 94ms
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzODk5OCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+
+# Speed: 5.74 Mbps | Ping: 284ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-5153
+
+# Speed: 4.81 Mbps | Ping: 686ms
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
+
+# Speed: 3.89 Mbps | Ping: 120ms
+vless://9a85fe34-213a-43ef-acbd-bb84552302f3@168.222.49.215:16089?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+
+# Speed: 3.40 Mbps | Ping: 993ms
+vless://4bea7803-9942-4cf7-ae48-283878dc6c0d@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# Speed: 3.09 Mbps | Ping: 271ms
+trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.133.188#EPODONIOS
+
+# Speed: 2.98 Mbps | Ping: 943ms
+vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#EPODONIOS
 
