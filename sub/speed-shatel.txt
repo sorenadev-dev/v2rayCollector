@@ -1,48 +1,45 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-18T03:34:55Z
+# Generated: 2026-08-18T06:43:32Z
 # IP: 192.168.2.40
-# Total Working: 14
+# Total Working: 13
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 14.54 Mbps | Ping: 274ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.43:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20814725
-
-# Speed: 13.93 Mbps | Ping: 428ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#%F0%9F%87%BA%F0%9F%87%B8US-18.188.213.207-0112
-
-# Speed: 11.97 Mbps | Ping: 318ms
-vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Speed: 8.85 Mbps | Ping: 770ms
-vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#EPODONIOS
-
-# Speed: 7.61 Mbps | Ping: 757ms
-vmess://eyJhZGQiOiI3NC40OC4yOC4xOTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGVkNTg5NzQtNDhjZC00NzJlLWM4MTgtZmI4NDdiOGM1NTFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-
-# Speed: 6.20 Mbps | Ping: 691ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.172:62145?#EPODONIOS
-
-# Speed: 5.47 Mbps | Ping: 692ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.126:62145?#EPODONIOS
-
-# Speed: 5.02 Mbps | Ping: 2601ms
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
-
-# Speed: 4.75 Mbps | Ping: 273ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.79.218.80:22224?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20795736
-
-# Speed: 4.58 Mbps | Ping: 266ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974942
-
-# Speed: 4.16 Mbps | Ping: 523ms
+# Speed: 25.80 Mbps | Ping: 231ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.189.171.163:443#%F0%9F%87%BA%F0%9F%87%B8US-18.189.171.163-5270
 
-# Speed: 4.12 Mbps | Ping: 217ms
-trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#EPODONIOS
+# Speed: 18.60 Mbps | Ping: 231ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#%F0%9F%87%BA%F0%9F%87%B8US-18.188.213.207-0112
 
-# Speed: 3.71 Mbps | Ping: 457ms
-vmess://eyJhZGQiOiAiMTk4LjIzLjE4NC4xMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjY5MTBmNzhlLTNjMzgtNDZhMS1iMjg3LTgzNzI3OWFkOWI0YSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi84MzcyNzlhZDliNGEiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogInhjMTYzLm1laXppYmE1NTY2LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+# Speed: 16.73 Mbps | Ping: 251ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.225.227:62145?&type=tcp&headerType=none&path=/#🇨🇴 Join+Telegram:@Farah_VPN 🇨🇴
 
-# Speed: 2.71 Mbps | Ping: 1889ms
-vless://a390d188-091b-4644-9804-14a2539ad6c7@69.46.46.229:443?path=/ws/vless/a390d188-091b-4644-9804-14a2539ad6c7?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-878d1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-878d1.up.railway.app#EPODONIOS
+# Speed: 14.08 Mbps | Ping: 255ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?#🇨🇴 Join+Telegram:@Farah_VPN 🇨🇴
+
+# Speed: 11.84 Mbps | Ping: 262ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.126:62145?#🇨🇴145751 | ⚡️Telegram = t.me/SOSkeyNET
+
+# Speed: 9.49 Mbps | Ping: 347ms
+vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#日本腾讯云
+
+# Speed: 8.35 Mbps | Ping: 648ms
+trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#🇰🇷KR
+
+# Speed: 7.02 Mbps | Ping: 2923ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%201
+
+# Speed: 6.89 Mbps | Ping: 234ms
+vless://196b7228-58df-4bcf-af2a-2e96608d5add@128.241.25.215:30036?encryption=none&security=tls&sni=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&type=ws&host=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&path=/@Marisa_kristi#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20752105
+
+# Speed: 6.56 Mbps | Ping: 1157ms
+vless://9a85fe34-213a-43ef-acbd-bb84552302f3@168.222.49.215:16089?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
+
+# Speed: 6.52 Mbps | Ping: 93ms
+vless://4bea7803-9942-4cf7-ae48-283878dc6c0d@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE-🚀@VPNine1
+
+# Speed: 4.30 Mbps | Ping: 1325ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@64.188.77.159:8390#[🏁]t.me/ConfigV2RayNG
+
+# Speed: 4.13 Mbps | Ping: 179ms
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#🇩🇪 ConfigV2RayNG
 
