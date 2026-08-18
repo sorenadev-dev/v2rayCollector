@@ -1,12 +1,9 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-18T11:54:24+03:30
+# Generated: 2026-08-18T11:59:33+03:30
 # IP: 192.168.2.53
-# Total Working: 2
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 8.58 Mbps | Ping: 252ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.153:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20631702
-
-# Speed: 5.99 Mbps | Ping: 583ms
+# Speed: 2.83 Mbps | Ping: 634ms
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 
