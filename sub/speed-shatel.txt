@@ -1,6 +1,9 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-18T12:11:20+03:30
-# IP: 192.168.2.49
-# Total Working: 0
+# Generated: 2026-08-18T08:48:41Z
+# IP: 192.168.2.40
+# Total Working: 1
 # Sorted by: Speed (desc), then Ping (asc)
 #
+# Speed: 5.79 Mbps | Ping: 631ms
+trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
+
