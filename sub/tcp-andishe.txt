@@ -1,4 +1,9 @@
 # VPN Checker - TCP Alive Configs (andishe)
-# Generated: 2026-08-18T11:26:50+03:30
-# Total Count: 0
+# Generated: 2026-08-18T11:27:35+03:30
+# Total Count: 5
 #
+vless://4bea7803-9942-4cf7-ae48-283878dc6c0d@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.153:62145?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20631702
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.172:62145?#EPODONIOS
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?#EPODONIOS
