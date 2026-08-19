@@ -1,57 +1,60 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-19T19:43:53Z
+# Generated: 2026-08-19T22:51:08Z
 # IP: 192.168.2.40
-# Total Working: 17
+# Total Working: 18
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 39.58 Mbps | Ping: 93ms
+# Speed: 25.78 Mbps | Ping: 308ms
+vless://6a798544-d17a-4039-abde-a25dc939441a@185.91.52.83:443?encryption=none&security=tls&sni=slnd.tdvin.com&type=grpc&serviceName=mygrpc&mode=gun#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20951630
+
+# Speed: 21.92 Mbps | Ping: 92ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.177.224-4761
 
-# Speed: 30.62 Mbps | Ping: 100ms
-vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#EPODONIOS
-
-# Speed: 25.35 Mbps | Ping: 232ms
+# Speed: 20.11 Mbps | Ping: 223ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.191.198.248:443#EPODONIOS
 
-# Speed: 21.53 Mbps | Ping: 2390ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#%F0%9F%87%BA%F0%9F%87%B8US-18.188.213.207-4821
+# Speed: 16.25 Mbps | Ping: 425ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443#[🏁]t.me/ConfigsHub
 
-# Speed: 18.43 Mbps | Ping: 124ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#EPODONIOS
-
-# Speed: 18.06 Mbps | Ping: 380ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.236:62145?&type=tcp&headerType=none&path=/#EPODONIOS
-
-# Speed: 15.41 Mbps | Ping: 2490ms
+# Speed: 13.86 Mbps | Ping: 263ms
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.223:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 14.89 Mbps | Ping: 379ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.216.1:62145?&type=tcp&headerType=none&path=/#EPODONIOS
+# Speed: 13.44 Mbps | Ping: 261ms
+vless://d3e99826-5aeb-4d6f-a85a-3ef435255dee@199.30.90.148:2044?encryption=none&type=tcp&allowInsecure=1#EPODONIOS
 
-# Speed: 13.34 Mbps | Ping: 269ms
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20669931
+# Speed: 12.21 Mbps | Ping: 262ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.236:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 11.91 Mbps | Ping: 1520ms
+# Speed: 11.20 Mbps | Ping: 267ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.216.1:62145?type=tcp&headerType=none&path=/#EPODONIOS
+
+# Speed: 10.47 Mbps | Ping: 604ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@120.232.250.163:65443#EPODONIOS
 
-# Speed: 11.49 Mbps | Ping: 337ms
-vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#EPODONIOS
+# Speed: 10.31 Mbps | Ping: 100ms
+vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=nl-spec-1.atlanta-api.com#EPODONIOS
 
-# Speed: 11.42 Mbps | Ping: 678ms
-vmess://eyJhZGQiOiAiNDYuOC4yMzcuMjQyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjdkODU4MjhhLTkwNmItNDNjNC04ZGM5LTA3ODVjZDQ4MDFhZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDIwMzQiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+# Speed: 9.64 Mbps | Ping: 381ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.136:65443#EPODONIOS
 
-# Speed: 6.41 Mbps | Ping: 249ms
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#EPODONIOS
+# Speed: 9.44 Mbps | Ping: 4115ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
 
-# Speed: 5.98 Mbps | Ping: 269ms
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#EPODONIOS
-
-# Speed: 5.93 Mbps | Ping: 1704ms
+# Speed: 7.38 Mbps | Ping: 409ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.235:65443#EPODONIOS
 
-# Speed: 3.91 Mbps | Ping: 1462ms
-vmess://eyJhZGQiOiAiNDYuOC4yMzcuMjQyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjdkODU4MjhhLTkwNmItNDNjNC04ZGM5LTA3ODVjZDQ4MDFhZiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+# Speed: 7.35 Mbps | Ping: 221ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#%F0%9F%87%BA%F0%9F%87%B8US-18.188.213.207-4821
 
-# Speed: 3.17 Mbps | Ping: 373ms
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80?type=tcp#EPODONIOS
+# Speed: 5.39 Mbps | Ping: 357ms
+vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#EPODONIOS
+
+# Speed: 4.18 Mbps | Ping: 455ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078#%F0%9F%87%B0%F0%9F%87%B7KR-27.255.82.134-4806
+
+# Speed: 3.15 Mbps | Ping: 274ms
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20994802
+
+# Speed: 2.90 Mbps | Ping: 484ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-4807
 
