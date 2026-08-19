@@ -1,42 +1,57 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-19T13:28:06Z
+# Generated: 2026-08-19T16:35:48Z
 # IP: 192.168.2.40
-# Total Working: 12
+# Total Working: 17
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 32.62 Mbps | Ping: 128ms
-vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@176.120.17.6:59167?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=&type=tcp#EPODONIOS
+# Speed: 26.49 Mbps | Ping: 94ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.177.224-4761
 
-# Speed: 25.46 Mbps | Ping: 363ms
-vless://2a838e0a-21e4-4d0a-b467-3ad45686f34e@69.46.46.150:443?path=/ws/vless/2a838e0a-21e4-4d0a-b467-3ad45686f34e?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-ca609.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-ca609.up.railway.app#🇺🇸147096 | ⚡️Telegram = t.me/SOSkeyNET
+# Speed: 21.85 Mbps | Ping: 318ms
+vless://2a838e0a-21e4-4d0a-b467-3ad45686f34e@69.46.46.150:443?path=/ws/vless/2a838e0a-21e4-4d0a-b467-3ad45686f34e?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-ca609.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-ca609.up.railway.app#🇺🇸US-🚀@VPNine1
 
-# Speed: 23.57 Mbps | Ping: 187ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.177.224-0125
+# Speed: 21.53 Mbps | Ping: 101ms
+vless://a349d017-ce87-4972-b1a0-2c8255930158@69.46.46.109:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=test11-production-da59.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test11-production-da59.up.railway.app#MTMVPN 45
 
-# Speed: 20.23 Mbps | Ping: 518ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#EPODONIOS
+# Speed: 19.42 Mbps | Ping: 289ms
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20157446
 
-# Speed: 11.70 Mbps | Ping: 746ms
-vless://2a838e0a-21e4-4d0a-b467-3ad45686f34e@69.46.46.48:443?path=/ws/vless/2a838e0a-21e4-4d0a-b467-3ad45686f34e?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-ca609.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-ca609.up.railway.app#🇺🇸147092 | ⚡️Telegram = t.me/SOSkeyNET
+# Speed: 17.58 Mbps | Ping: 226ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.191.198.248:443#%F0%9F%87%BA%F0%9F%87%B8US-18.191.198.248-0139
 
-# Speed: 11.02 Mbps | Ping: 286ms
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#EPODONIOS
+# Speed: 13.72 Mbps | Ping: 307ms
+vless://2a838e0a-21e4-4d0a-b467-3ad45686f34e@69.46.46.48:443?path=/ws/vless/2a838e0a-21e4-4d0a-b467-3ad45686f34e?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-ca609.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-ca609.up.railway.app#🇺🇸US-🚀@VPNine1
 
-# Speed: 10.97 Mbps | Ping: 3253ms
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+# Speed: 12.80 Mbps | Ping: 173ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgRjFFQjFCIiwiYWRkIjoiMTU3LjI1NC4yMjcuODciLCJwb3J0Ijo0NDMsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiNWI0MTEzMDgtZDc5Ni00Njk0LWI1OGQtZDI1MmUzNWJiNDc1Iiwic25pIjoieGMxNjIubWVpemliYTU1NjYuY29tIiwicGF0aCI6Ii9kMjUyZTM1YmI0NzUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 
-# Speed: 10.96 Mbps | Ping: 276ms
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#EPODONIOS
+# Speed: 11.68 Mbps | Ping: 386ms
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80?type=tcp#🇯🇵JP-🚀@VPNine1
 
-# Speed: 10.68 Mbps | Ping: 93ms
-vless://a349d017-ce87-4972-b1a0-2c8255930158@69.46.46.109:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=test11-production-da59.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test11-production-da59.up.railway.app#@GozargahAzad|🇺🇸
+# Speed: 11.31 Mbps | Ping: 98ms
+vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#🇳🇱147250 | ⚡️Telegram = t.me/SOSkeyNET
 
-# Speed: 6.64 Mbps | Ping: 103ms
-vless://a2a51919-4d0b-4851-8b49-58f3f166cd27@31.15.18.174:2053?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/api&security=tls&sni=&type=ws#🇳🇱147087 | ⚡️Telegram = t.me/SOSkeyNET
+# Speed: 9.05 Mbps | Ping: 106ms
+vless://5956ea09-4f31-4233-a763-fa16ed963666@69.46.46.98:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=test-production-a548.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=test-production-a548.up.railway.app#🇺🇸147123 | ⚡️Telegram = t.me/SOSkeyNET
 
-# Speed: 4.41 Mbps | Ping: 95ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.223.106:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+# Speed: 8.73 Mbps | Ping: 398ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.216.1:62145?&type=tcp&headerType=none&path=/#🇨🇴 Join+Telegram:@Farah_VPN 🇨🇴
 
-# Speed: 3.97 Mbps | Ping: 1956ms
-vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+# Speed: 8.38 Mbps | Ping: 377ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.179.71:62145?&type=tcp&headerType=none&path=/#🇨🇴 Join+Telegram:@Farah_VPN 🇨🇴
+
+# Speed: 6.92 Mbps | Ping: 362ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.234.223:62145?&type=tcp&headerType=none&path=/#🇨🇴 Join+Telegram:@Farah_VPN 🇨🇴
+
+# Speed: 6.50 Mbps | Ping: 356ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.236:62145?&type=tcp&headerType=none&path=/#🇨🇴 Join+Telegram:@Farah_VPN 🇨🇴
+
+# Speed: 6.27 Mbps | Ping: 277ms
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489890
+
+# Speed: 4.05 Mbps | Ping: 100ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcExkWXRtS1VHaUxWWXV5STNQOWhB@91.107.243.39:1080#@filembad
+
+# Speed: 2.70 Mbps | Ping: 619ms
+trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#%3E%3E%40configV2rayNG%3A%3ADE
 
