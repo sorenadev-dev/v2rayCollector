@@ -1,33 +1,51 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-19T07:16:41Z
+# Generated: 2026-08-19T10:25:13Z
 # IP: 192.168.2.45
-# Total Working: 9
+# Total Working: 15
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 16.03 Mbps | Ping: 475ms
-vless://163dc809-7970-4ff8-a7e5-8080ad53e7bb@46.182.24.112:2096?alpn=h2&encryption=none&fp=edge&mode=gun&security=tls&serviceName=mygrpc&sni=v1.api2.ttpservers.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20401300
-
-# Speed: 13.44 Mbps | Ping: 108ms
-vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@176.120.17.6:59167?encryption=none&type=tcp&security=none#EPODONIOS
-
-# Speed: 12.46 Mbps | Ping: 89ms
+# Speed: 39.57 Mbps | Ping: 91ms
 vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@201.51.23.91:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hys40.wba-pn.ru#EPODONIOS
 
-# Speed: 7.60 Mbps | Ping: 259ms
+# Speed: 33.94 Mbps | Ping: 3330ms
+vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@176.120.17.6:59167?encryption=none&type=tcp&security=none#EPODONIOS
+
+# Speed: 30.52 Mbps | Ping: 146ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#EPODONIOS
+
+# Speed: 29.86 Mbps | Ping: 108ms
+vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537?encryption=none&type=tcp&security=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636467
+
+# Speed: 23.57 Mbps | Ping: 215ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru#EPODONIOS
+
+# Speed: 21.52 Mbps | Ping: 324ms
+vmess://eyJhZGQiOiIzMS41Ny42Mi42OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzYTU3ZWQyNS1kNDg5LTQ0NDktYjJiNy1kMzM0YTk1NDdmOWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkxWIPCfh7Hwn4e7IHwgQFJheWRpa2FseCB8IDIzMTkyNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Speed: 16.91 Mbps | Ping: 199ms
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-4636
+
+# Speed: 14.07 Mbps | Ping: 77ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.126.3:22223?encryption=none&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+
+# Speed: 14.07 Mbps | Ping: 87ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.126.3:22224?encryption=none&security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+
+# Speed: 13.57 Mbps | Ping: 4340ms
 trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
 
-# Speed: 7.54 Mbps | Ping: 265ms
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20522152
+# Speed: 11.40 Mbps | Ping: 370ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078#%F0%9F%87%B0%F0%9F%87%B7KR-27.255.82.134-4684
 
-# Speed: 5.84 Mbps | Ping: 97ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.177.224:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.177.224-0125
+# Speed: 9.59 Mbps | Ping: 2341ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.244:62145?type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 4.61 Mbps | Ping: 353ms
-vless://85819b3c-fe18-40bb-bd9a-f3cd194a8d28@43.167.239.81:443/?type=ws&encryption=none&flow=&host=43.167.239.81&path=/ws&security=tls&sni=43.167.239.81&allowInsecure=1&packetEncoding=xudp#EPODONIOS
+# Speed: 7.96 Mbps | Ping: 86ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.127.126.3:22222?encryption=none&security=none&type=tcp#(S102)🇩🇪t.me/PrivateVPNs
 
-# Speed: 4.31 Mbps | Ping: 274ms
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20441031
+# Speed: 4.28 Mbps | Ping: 424ms
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#EPODONIOS
 
-# Speed: 0.01 Mbps | Ping: 92ms
-vless://a8890c1b-3622-3106-c4be-d8671be32d2b@104.21.78.9:443?path=/sync&security=tls&encryption=none&insecure=0&host=summer-meadow-af5b.woowoorrrkk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=summer-meadow-af5b.woowoorrrkk.workers.dev#EPODONIOS
+# Speed: 3.62 Mbps | Ping: 163ms
+vless://31d1f5ce-e5b5-4fdc-af07-4b343a0622b9@185.70.199.217:33651?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 
