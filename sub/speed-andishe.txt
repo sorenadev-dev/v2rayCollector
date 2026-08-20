@@ -1,21 +1,21 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-20T11:29:22Z
+# Generated: 2026-08-20T14:35:45Z
 # IP: 192.168.2.45
 # Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 24.09 Mbps | Ping: 87ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.79.230.55:443#EPODONIOS
+# Speed: 22.73 Mbps | Ping: 330ms
+vless://b0926dab-35f1-4993-8043-1862e2369f18@69.46.46.48:443?path=/ws/vless/b0926dab-35f1-4993-8043-1862e2369f18?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-f02224.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-f02224.up.railway.app#EPODONIOS
 
-# Speed: 23.58 Mbps | Ping: 324ms
-vless://6a798544-d17a-4039-abde-a25dc939441a@185.91.52.83:443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=mygrpc&sni=slnd.tdvin.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20976597
+# Speed: 18.09 Mbps | Ping: 303ms
+vless://c44af613-813d-403e-95e1-3c0b5e52b09a@69.46.46.246:443?path=/ws/vless/c44af613-813d-403e-95e1-3c0b5e52b09a?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-5167a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-5167a.up.railway.app#EPODONIOS
 
-# Speed: 5.61 Mbps | Ping: 85ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 15.63 Mbps | Ping: 263ms
+vless://7f53840b-51d8-491a-8618-5067d8e809b1@69.46.46.7:443?path=/api&security=tls&encryption=none&insecure=0&host=production-ae0f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=production-ae0f.up.railway.app#EPODONIOS
 
-# Speed: 3.78 Mbps | Ping: 563ms
-trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#EPODONIOS
+# Speed: 6.52 Mbps | Ping: 4226ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443#EPODONIOS
 
-# Speed: 2.77 Mbps | Ping: 85ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22224?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 5.94 Mbps | Ping: 534ms
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#EPODONIOS
 
