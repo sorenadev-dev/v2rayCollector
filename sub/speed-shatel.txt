@@ -1,27 +1,12 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-21T12:18:02Z
+# Generated: 2026-08-21T15:26:02Z
 # IP: 192.168.2.40
-# Total Working: 7
+# Total Working: 2
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 26.84 Mbps | Ping: 113ms
-vmess://eyJhZGQiOiAiMTc2LjEyMC4xNy4yMSIsICJhaWQiOiAiMCIsICJpZCI6ICI0MzUzMWI1Yi1kOTRiLTQ5YmEtOGE1ZS03YTZkNGJiNjg0NTkiLCAibmV0IjogInRjcCIsICJwb3J0IjogMTAxNSwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYXN0cmEuaXJhbmlhbmdhbWVyc2NsdWIuaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+# Speed: 14.00 Mbps | Ping: 278ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH-103.169.67.34-0414
 
-# Speed: 16.49 Mbps | Ping: 1197ms
-vless://c7e9c591-2764-423a-afca-efbd010fd396@79.132.143.192:2053?allowInsecure=1&encryption=none&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#EPODONIOS
-
-# Speed: 12.72 Mbps | Ping: 776ms
-ss://YWVzLTI1Ni1nY206QW1lcmljYTIwMjZATEFY@192.220.55.35:48378#EPODONIOS
-
-# Speed: 12.28 Mbps | Ping: 234ms
-ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw==@154.53.60.212:443#EPODONIOS
-
-# Speed: 6.92 Mbps | Ping: 88ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22224?Telegram=@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server&security=&encryption=none&headerType=&type=tcp#EPODONIOS
-
-# Speed: 6.68 Mbps | Ping: 96ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Speed: 6.14 Mbps | Ping: 79ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22223?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 3.14 Mbps | Ping: 256ms
+ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:80#@filembad
 
