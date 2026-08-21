@@ -1,21 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-21T09:11:41Z
+# Generated: 2026-08-21T12:18:02Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 18.44 Mbps | Ping: 196ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
-
-# Speed: 17.37 Mbps | Ping: 116ms
+# Speed: 26.84 Mbps | Ping: 113ms
 vmess://eyJhZGQiOiAiMTc2LjEyMC4xNy4yMSIsICJhaWQiOiAiMCIsICJpZCI6ICI0MzUzMWI1Yi1kOTRiLTQ5YmEtOGE1ZS03YTZkNGJiNjg0NTkiLCAibmV0IjogInRjcCIsICJwb3J0IjogMTAxNSwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYXN0cmEuaXJhbmlhbmdhbWVyc2NsdWIuaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
-# Speed: 10.05 Mbps | Ping: 367ms
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=#EPODONIOS
+# Speed: 16.49 Mbps | Ping: 1197ms
+vless://c7e9c591-2764-423a-afca-efbd010fd396@79.132.143.192:2053?allowInsecure=1&encryption=none&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#EPODONIOS
 
-# Speed: 5.99 Mbps | Ping: 284ms
-vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168643
+# Speed: 12.72 Mbps | Ping: 776ms
+ss://YWVzLTI1Ni1nY206QW1lcmljYTIwMjZATEFY@192.220.55.35:48378#EPODONIOS
 
-# Speed: 4.30 Mbps | Ping: 925ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICI0My4yMjguMTI2LjE4NyIsICJwb3J0IjogIjQ3NjMwIiwgImlkIjogIjllNWM2ZWJmLTM1ZjktNDlhMy05ZjEyLWNiYTJiN2NkYmNjYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAiLCAidmNuIjogIiIsICJwY3MiOiAiIn0=
+# Speed: 12.28 Mbps | Ping: 234ms
+ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw==@154.53.60.212:443#EPODONIOS
+
+# Speed: 6.92 Mbps | Ping: 88ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22224?Telegram=@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server-----@Cfox_Server&security=&encryption=none&headerType=&type=tcp#EPODONIOS
+
+# Speed: 6.68 Mbps | Ping: 96ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 6.14 Mbps | Ping: 79ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
