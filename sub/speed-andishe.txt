@@ -1,27 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-22T10:09:00Z
+# Generated: 2026-08-22T13:13:03Z
 # IP: 192.168.2.45
-# Total Working: 7
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 22.78 Mbps | Ping: 107ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICI5MS4xMDcuMTUzLjIzMiIsICJwb3J0IjogIjQ1MDAyIiwgImlkIjogIjUxODgxNGZiLTc5YTctNGU2Zi1hZThhLWFiNWJmMGU3NzM4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjI3IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+# Speed: 39.60 Mbps | Ping: 99ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.135.220:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 13.84 Mbps | Ping: 303ms
-vmess://eyJhZGQiOiIxNjIuMTkuMTkyLjg5IiwiYWlkIjowLCJob3N0IjoiNDA3YTJiYzZkNDUyZmY5M2U2ZDdiNzMwNzg1MzlkOWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsImlkIjoiOTdjNjM4YzYtODZkNS00Y2Y2LWI3MGItMTE0YzY4MDliNjM3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxNjYzMiIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgNkNDNDhCIiwic25pIjoiNDA3YTJiYzZkNDUyZmY5M2U2ZDdiNzMwNzg1MzlkOWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+# Speed: 22.51 Mbps | Ping: 96ms
+vmess://eyJhZGQiOiAiOTEuMTA3LjE1My4yMzIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjUxODgxNGZiLTc5YTctNGU2Zi1hZThhLWFiNWJmMGU3NzM4MSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicGNzIjogIiIsICJwb3J0IjogIjQ1MDAyIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
 
-# Speed: 13.07 Mbps | Ping: 93ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.149.33:62145?allowInsecure=1#EPODONIOS
+# Speed: 16.16 Mbps | Ping: 255ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.126:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 11.95 Mbps | Ping: 371ms
-ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:80#EPODONIOS
+# Speed: 13.59 Mbps | Ping: 258ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.208.244:62145?&type=tcp&headerType=none&path=/#EPODONIOS
 
-# Speed: 11.51 Mbps | Ping: 252ms
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Wi9jMkd4d0x6cko1UW1NN2I2T1Q3dmQ2bUNScHNZZGxDK3Bzek1nWm85MD0=@138.2.105.188:56927#EPODONIOS
+# Speed: 12.36 Mbps | Ping: 362ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
-# Speed: 8.57 Mbps | Ping: 259ms
-vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?encryption=none&security=tls&sni=lizca2.footballfantasyforum.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#EPODONIOS
-
-# Speed: 8.10 Mbps | Ping: 495ms
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#EPODONIOS
+# Speed: 2.74 Mbps | Ping: 300ms
+vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?encryption=none&security=none&type=ws&path=/5adeccb9#EPODONIOS
 
