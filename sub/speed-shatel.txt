@@ -1,42 +1,33 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-22T16:09:59Z
+# Generated: 2026-08-22T19:13:54Z
 # IP: 192.168.2.40
-# Total Working: 12
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 41.26 Mbps | Ping: 97ms
-vless://ce73f9ec-8e48-d68e-9207-3923c9f81ffc@69.46.46.198:443?path=/ws/ce73f9ec-8e48-d68e-9207-3923c9f81ffc&security=tls&alpn=http/1.1&encryption=none&host=ker-production-e399.up.railway.app&fp=chrome&type=ws&sni=ker-production-e399.up.railway.app#EPODONIOS
+# Speed: 32.50 Mbps | Ping: 158ms
+vless://7a04ab9c-493a-43fc-b382-a5adb3b6e2cb@116.203.193.15:16679?#EPODONIOS
 
-# Speed: 35.68 Mbps | Ping: 96ms
+# Speed: 24.48 Mbps | Ping: 103ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
-# Speed: 23.71 Mbps | Ping: 155ms
-vless://8c8fd0d7-6d35-0948-598d-7f998cc0eb6f@69.46.46.39:443?path=/ws/8c8fd0d7-6d35-0948-598d-7f998cc0eb6f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=askan-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=askan-production.up.railway.app#EPODONIOS
+# Speed: 12.95 Mbps | Ping: 268ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.244:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20667258
 
-# Speed: 19.52 Mbps | Ping: 114ms
-vless://1df62614-e166-4bc8-b8a2-73063f8fdfae@216.24.57.7:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=kingniderlands.tolkun-tv.ru&fp=chrome&type=ws&allowInsecure=0&sni=kingniderlands.tolkun-tv.ru#EPODONIOS
+# Speed: 7.37 Mbps | Ping: 456ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Speed: 16.26 Mbps | Ping: 258ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.208.244:62145?&type=tcp&headerType=none&path=/#EPODONIOS
+# Speed: 6.63 Mbps | Ping: 385ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
-# Speed: 14.24 Mbps | Ping: 98ms
-vless://5658529b-d1eb-9e77-17c1-cdc20d003b3a@69.46.46.199:443?path=/ws/5658529b-d1eb-9e77-17c1-cdc20d003b3a&security=tls&alpn=http/1.1&encryption=none&host=stan-production-a4c9.up.railway.app&fp=chrome&type=ws&sni=stan-production-a4c9.up.railway.app#EPODONIOS
-
-# Speed: 12.77 Mbps | Ping: 257ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.126:62145?&type=tcp&headerType=none&path=/#EPODONIOS
-
-# Speed: 12.21 Mbps | Ping: 102ms
-vless://1bc057c5-2368-844a-5cac-7e027a5a972a@69.46.46.18:443?path=/ws/1bc057c5-2368-844a-5cac-7e027a5a972a&security=tls&alpn=http/1.1&encryption=none&host=kijk-production-4881.up.railway.app&fp=chrome&type=ws&sni=kijk-production-4881.up.railway.app#EPODONIOS
-
-# Speed: 6.30 Mbps | Ping: 275ms
+# Speed: 6.07 Mbps | Ping: 303ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#EPODONIOS
 
-# Speed: 6.04 Mbps | Ping: 268ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-4853
+# Speed: 6.03 Mbps | Ping: 87ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22222?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Speed: 3.73 Mbps | Ping: 437ms
-ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:80#EPODONIOS
+# Speed: 5.69 Mbps | Ping: 447ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
 
-# Speed: 3.26 Mbps | Ping: 427ms
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#EPODONIOS
+# Speed: 5.46 Mbps | Ping: 79ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
