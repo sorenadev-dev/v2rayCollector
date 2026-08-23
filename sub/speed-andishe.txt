@@ -1,36 +1,33 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-22T22:26:12Z
+# Generated: 2026-08-23T01:31:08Z
 # IP: 192.168.2.45
-# Total Working: 10
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 39.27 Mbps | Ping: 104ms
-vless://d33d2dd1-04c1-4d43-b2e6-77c56297128e@95.182.116.144:443?security=none&encryption=none&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20927747
+# Speed: 41.65 Mbps | Ping: 94ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.227.75:62145?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Speed: 36.23 Mbps | Ping: 101ms
-vless://3795ccda-de8a-02de-6a47-576a68eacf38@69.46.46.22:443?path=/ws/3795ccda-de8a-02de-6a47-576a68eacf38&security=tls&alpn=http/1.1&encryption=none&host=khash-production.up.railway.app&fp=chrome&type=ws&sni=khash-production.up.railway.app#EPODONIOS
-
-# Speed: 25.21 Mbps | Ping: 111ms
+# Speed: 22.88 Mbps | Ping: 109ms
 vmess://eyJhZGQiOiAiMTc2LjEyMC4xNy4yMSIsICJhaWQiOiAiMCIsICJpZCI6ICI3YzFlNjJjNC1iNDIzLTRkMWUtYTYxOC0zMDRlMjFhNTY4ZmUiLCAibmV0IjogInRjcCIsICJwb3J0IjogMTAxNSwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYXN0cmEuaXJhbmlhbmdhbWVyc2NsdWIuaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
-# Speed: 19.88 Mbps | Ping: 266ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.244:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20776885
+# Speed: 18.74 Mbps | Ping: 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#EPODONIOS
 
-# Speed: 18.32 Mbps | Ping: 87ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22222?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 18.68 Mbps | Ping: 257ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.126:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 
-# Speed: 17.48 Mbps | Ping: 260ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.208.244:62145?&type=tcp&headerType=none&path=/#EPODONIOS
+# Speed: 16.05 Mbps | Ping: 255ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.244:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20901181
 
-# Speed: 15.76 Mbps | Ping: 534ms
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#EPODONIOS
-
-# Speed: 14.49 Mbps | Ping: 86ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22223?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Speed: 12.79 Mbps | Ping: 387ms
+# Speed: 10.53 Mbps | Ping: 1320ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
-# Speed: 6.16 Mbps | Ping: 456ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
+# Speed: 3.60 Mbps | Ping: 290ms
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# Speed: 2.95 Mbps | Ping: 348ms
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
+
+# Speed: 2.73 Mbps | Ping: 284ms
+vless://5adeccb9-dfca-41de-cdf7-4d901f2e70f5@157.238.208.110:41834?encryption=none&security=none&type=ws&path=/5adeccb9#EPODONIOS
 
