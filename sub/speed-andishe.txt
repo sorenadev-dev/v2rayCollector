@@ -1,48 +1,33 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-23T19:55:31Z
+# Generated: 2026-08-23T22:59:21Z
 # IP: 192.168.2.45
-# Total Working: 14
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 41.54 Mbps | Ping: 900ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#EPODONIOS
+# Speed: 22.96 Mbps | Ping: 101ms
+vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?encryption=none&type=tcp&headerType=none#EPODONIOS
 
-# Speed: 25.19 Mbps | Ping: 104ms
-vless://388db6b7-93f3-4a43-805e-20d863dab397@82.158.120.66:443?encryption=none&security=tls&sni=rzqfntub2c6b.doprik.com&type=tcp#@proxyserverpanel1⚡️@
+# Speed: 11.46 Mbps | Ping: 376ms
+ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:80#EPODONIOS
 
-# Speed: 10.87 Mbps | Ping: 396ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
-
-# Speed: 10.72 Mbps | Ping: 720ms
+# Speed: 11.30 Mbps | Ping: 274ms
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#EPODONIOS
 
-# Speed: 8.77 Mbps | Ping: 595ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.136:65443#EPODONIOS
+# Speed: 10.38 Mbps | Ping: 409ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
-# Speed: 5.78 Mbps | Ping: 2794ms
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#EPODONIOS
-
-# Speed: 5.15 Mbps | Ping: 87ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22223?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Speed: 4.77 Mbps | Ping: 89ms
+# Speed: 9.39 Mbps | Ping: 86ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22222?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Speed: 4.70 Mbps | Ping: 96ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22224?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 7.66 Mbps | Ping: 94ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22224/?type=tcp&encryption=none&flow=#EPODONIOS
 
-# Speed: 3.73 Mbps | Ping: 405ms
+# Speed: 6.03 Mbps | Ping: 89ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22222/?type=tcp&encryption=none&flow=#EPODONIOS
+
+# Speed: 5.19 Mbps | Ping: 369ms
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
 
-# Speed: 3.65 Mbps | Ping: 428ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Speed: 3.29 Mbps | Ping: 129ms
-vless://e951ae39-2240-40ca-be13-9f862c3de3ce@65.109.211.136:30551?security=&encryption=none&headerType=&type=tcp#EPODONIOS
-
-# Speed: 3.10 Mbps | Ping: 458ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
-
-# Speed: 2.74 Mbps | Ping: 269ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#EPODONIOS
+# Speed: 4.81 Mbps | Ping: 86ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.217.79:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
