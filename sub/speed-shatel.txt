@@ -1,15 +1,42 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-24T05:01:20Z
+# Generated: 2026-08-24T08:05:38Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 12
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 27.37 Mbps | Ping: 102ms
+# Speed: 41.25 Mbps | Ping: 92ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.103.18:443#%F0%9F%87%AC%F0%9F%87%A7GB-35.178.103.18-1976
 
-# Speed: 26.19 Mbps | Ping: 107ms
-vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@104.16.92.229:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ovh14-cdn.soren-app.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.soren-app.com.#EPODONIOS
+# Speed: 14.52 Mbps | Ping: 280ms
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#EPODONIOS
 
-# Speed: 9.50 Mbps | Ping: 533ms
+# Speed: 10.11 Mbps | Ping: 94ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+
+# Speed: 8.78 Mbps | Ping: 417ms
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#EPODONIOS
+
+# Speed: 8.77 Mbps | Ping: 422ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+
+# Speed: 8.67 Mbps | Ping: 189ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmI=@140.238.153.81:13345#EPODONIOS
+
+# Speed: 5.22 Mbps | Ping: 366ms
+ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:80#EPODONIOS
+
+# Speed: 3.99 Mbps | Ping: 270ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
+
+# Speed: 3.65 Mbps | Ping: 137ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#EPODONIOS
+
+# Speed: 3.55 Mbps | Ping: 1347ms
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20165849
+
+# Speed: 3.25 Mbps | Ping: 2287ms
+vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=/connect#EPODONIOS
+
+# Speed: 2.91 Mbps | Ping: 214ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEZsTg==@194.147.35.56:8388#EPODONIOS
 
