@@ -1,45 +1,33 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-24T20:27:52Z
+# Generated: 2026-08-24T23:31:37Z
 # IP: 192.168.2.45
-# Total Working: 13
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 28.45 Mbps | Ping: 138ms
+# Speed: 19.30 Mbps | Ping: 94ms
 vless://097bb22a-1303-4478-b9e8-ffc84ea17e83@67.159.43.202:443?&security=tls&fp=chrome&alpn=http/1.1&sni=cli-q.bosx.net&type=ws&headerType=none&path=/api/connect#EPODONIOS
 
-# Speed: 26.47 Mbps | Ping: 670ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 14.46 Mbps | Ping: 541ms
+# Speed: 18.63 Mbps | Ping: 194ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.44.93:443#EPODONIOS
 
-# Speed: 13.02 Mbps | Ping: 285ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22223?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 14.93 Mbps | Ping: 231ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgN0IwMDQ0IiwiYWRkIjoiMTAzLjE3OS4xNDIuMTU4IiwicG9ydCI6NTAyNjksImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiODRmMjM4ZjYtMjhlYi00OGRmLWE3YmMtYTliZDljZjRhYmJhIn0=
 
-# Speed: 12.94 Mbps | Ping: 213ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.212.194:443#EPODONIOS
+# Speed: 12.41 Mbps | Ping: 857ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 12.20 Mbps | Ping: 276ms
+# Speed: 9.59 Mbps | Ping: 91ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.135.73.3:443#EPODONIOS
 
-# Speed: 12.18 Mbps | Ping: 203ms
-vless://a408ce18-01c1-9b6f-4ccc-d5ce3068a593@69.46.46.31:443?path=/ws/a408ce18-01c1-9b6f-4ccc-d5ce3068a593&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tajrob-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tajrob-production.up.railway.app#EPODONIOS
-
-# Speed: 10.24 Mbps | Ping: 412ms
+# Speed: 9.46 Mbps | Ping: 3004ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
-# Speed: 9.03 Mbps | Ping: 249ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22222?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 4.83 Mbps | Ping: 105ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.101:62145?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 
-# Speed: 5.00 Mbps | Ping: 483ms
-trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
-
-# Speed: 3.25 Mbps | Ping: 608ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
-
-# Speed: 3.14 Mbps | Ping: 279ms
+# Speed: 3.09 Mbps | Ping: 264ms
 trojan://11f75919-38dd-47d2-bdf5-c93980317309@172.233.143.225:28443/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 
-# Speed: 2.85 Mbps | Ping: 231ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22224?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 2.69 Mbps | Ping: 595ms
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:8443?encryption=none&security=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20363088
 
