@@ -1,45 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-25T15:35:58Z
+# Generated: 2026-08-25T18:40:03Z
 # IP: 192.168.2.40
-# Total Working: 13
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 31.52 Mbps | Ping: 100ms
+# Speed: 20.07 Mbps | Ping: 101ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.135.73.3:443#EPODONIOS
 
-# Speed: 27.71 Mbps | Ping: 497ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 25.07 Mbps | Ping: 173ms
-vless://3ebb81df-0e7f-4c2a-98d1-d7f470563259@50.7.249.218:8443?encryption=none&security=tls&sni=apkav-5.bosx.net&alpn=http/1.1&type=ws&path=/api/connect#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484240
-
-# Speed: 18.21 Mbps | Ping: 183ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.128.42:443#EPODONIOS
-
-# Speed: 10.11 Mbps | Ping: 196ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.121.177:443#EPODONIOS
-
-# Speed: 9.53 Mbps | Ping: 189ms
+# Speed: 5.48 Mbps | Ping: 188ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.165.186:443#EPODONIOS
 
-# Speed: 8.53 Mbps | Ping: 195ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.212.194:443#EPODONIOS
-
-# Speed: 6.33 Mbps | Ping: 498ms
+# Speed: 5.35 Mbps | Ping: 510ms
 trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 
-# Speed: 5.59 Mbps | Ping: 90ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#EPODONIOS
+# Speed: 4.55 Mbps | Ping: 487ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 3.35 Mbps | Ping: 107ms
-vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?encryption=none&type=tcp&headerType=none#EPODONIOS
+# Speed: 4.48 Mbps | Ping: 249ms
+trojan://11f75919-38dd-47d2-bdf5-c93980317309@172.233.143.225:28443/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 
-# Speed: 3.32 Mbps | Ping: 101ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+# Speed: 2.95 Mbps | Ping: 194ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.121.177:443#EPODONIOS
 
-# Speed: 2.95 Mbps | Ping: 178ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.44.93:443#EPODONIOS
-
-# Speed: 0.01 Mbps | Ping: 288ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20061?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20648590
+# Speed: 0.00 Mbps | Ping: 290ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20061?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575794
 
