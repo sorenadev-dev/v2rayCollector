@@ -1,33 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-25T05:41:13Z
+# Generated: 2026-08-25T08:44:35Z
 # IP: 192.168.2.45
-# Total Working: 9
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 42.84 Mbps | Ping: 95ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.212.194:443#EPODONIOS
-
-# Speed: 34.72 Mbps | Ping: 95ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.135.73.3:443#EPODONIOS
-
-# Speed: 26.89 Mbps | Ping: 721ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 20.51 Mbps | Ping: 246ms
-vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgN0IwMDQ0IiwiYWRkIjoiMTAzLjE3OS4xNDIuMTU4IiwicG9ydCI6NTAyNjksImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiODRmMjM4ZjYtMjhlYi00OGRmLWE3YmMtYTliZDljZjRhYmJhIn0=
-
-# Speed: 13.92 Mbps | Ping: 150ms
-vless://09f2c9cc-4275-4b4b-96d8-bacbe53f3c89@172.66.146.2:8443?path=/&security=tls&encryption=none&insecure=1&host=arvan.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=arvan.dearhossein-taktaz.ir#EPODONIOS
-
-# Speed: 11.42 Mbps | Ping: 215ms
+# Speed: 23.76 Mbps | Ping: 214ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.128.42:443#EPODONIOS
 
-# Speed: 8.87 Mbps | Ping: 311ms
-vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#EPODONIOS
+# Speed: 23.14 Mbps | Ping: 216ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.165.186:443#%F0%9F%87%A8%F0%9F%87%A6CA-3.96.165.186-2265
 
-# Speed: 7.54 Mbps | Ping: 564ms
-vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:8443?encryption=none&security=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509721
+# Speed: 22.46 Mbps | Ping: 237ms
+vless://09f2c9cc-4275-4b4b-96d8-bacbe53f3c89@172.66.146.2:8443?path=/&security=tls&encryption=none&insecure=1&host=arvan.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=arvan.dearhossein-taktaz.ir#EPODONIOS
 
-# Speed: 7.05 Mbps | Ping: 228ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.121.177:443#EPODONIOS
+# Speed: 20.62 Mbps | Ping: 216ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.44.93:443#EPODONIOS
+
+# Speed: 16.40 Mbps | Ping: 733ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 15.89 Mbps | Ping: 100ms
+vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?encryption=none&type=tcp&headerType=none#EPODONIOS
+
+# Speed: 15.80 Mbps | Ping: 751ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.212.194:443#EPODONIOS
 
