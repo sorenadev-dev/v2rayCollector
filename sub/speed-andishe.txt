@@ -1,48 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-26T19:22:16Z
+# Generated: 2026-08-26T22:26:01Z
 # IP: 192.168.2.45
-# Total Working: 14
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 35.30 Mbps | Ping: 105ms
+# Speed: 25.56 Mbps | Ping: 110ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.30.74.16:443#EPODONIOS
 
-# Speed: 34.29 Mbps | Ping: 112ms
-vless://84655916-5e00-4d90-9512-672716b2cda6@45.77.65.13:35656?type=tcp&encryption=none&security=none#@filembad
+# Speed: 18.88 Mbps | Ping: 93ms
+vless://84655916-5e00-4d90-9512-672716b2cda6@45.77.65.13:35656?type=tcp&encryption=none&security=none#EPODONIOS
 
-# Speed: 27.74 Mbps | Ping: 475ms
+# Speed: 13.80 Mbps | Ping: 275ms
+vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?encryption=none&security=tls&sni=lizca2.footballfantasyforum.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#EPODONIOS
+
+# Speed: 11.08 Mbps | Ping: 475ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
+
+# Speed: 10.59 Mbps | Ping: 285ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+
+# Speed: 10.00 Mbps | Ping: 501ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 25.92 Mbps | Ping: 209ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.165.186:443#EPODONIOS
-
-# Speed: 25.57 Mbps | Ping: 94ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.212.194:443#EPODONIOS
-
-# Speed: 15.22 Mbps | Ping: 108ms
-vless://9d8a55de-70df-44a9-973e-4ffa02d05f32@67.159.43.203:443?path=/api/connect&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=cli-q.bosx.net#✅  @vistav2ray  👈👈کانال ما ✅
-
-# Speed: 14.27 Mbps | Ping: 544ms
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#کانال ما
-
-# Speed: 9.27 Mbps | Ping: 446ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Speed: 8.85 Mbps | Ping: 476ms
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#EPODONIOS
-
-# Speed: 7.54 Mbps | Ping: 327ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.90.213:443#EPODONIOS
-
-# Speed: 7.53 Mbps | Ping: 208ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.128.42:443#EPODONIOS
-
-# Speed: 4.98 Mbps | Ping: 434ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
-
-# Speed: 4.53 Mbps | Ping: 95ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.226.0:62145?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 | 14
-
-# Speed: 4.08 Mbps | Ping: 382ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+# Speed: 4.03 Mbps | Ping: 158ms
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@31.77.131.154:443?security=none&encryption=none&type=ws#EPODONIOS
 
