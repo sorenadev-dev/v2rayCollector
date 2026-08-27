@@ -1,6 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-27T08:55:24Z
+# Generated: 2026-08-27T10:31:17Z
 # IP: 192.168.2.40
-# Total Working: 0
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
+# Speed: 23.64 Mbps | Ping: 93ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.212.194:443#EPODONIOS
+
+# Speed: 11.68 Mbps | Ping: 656ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en#EPODONIOS
+
+# Speed: 11.17 Mbps | Ping: 386ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+
+# Speed: 11.16 Mbps | Ping: 4151ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#کانال ما
+
