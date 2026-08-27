@@ -1,30 +1,60 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-26T22:25:42Z
+# Generated: 2026-08-27T01:30:38Z
 # IP: 192.168.2.40
-# Total Working: 8
+# Total Working: 18
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 24.96 Mbps | Ping: 88ms
-vless://84655916-5e00-4d90-9512-672716b2cda6@45.77.65.13:35656?type=tcp&encryption=none&security=none#EPODONIOS
+# Speed: 35.35 Mbps | Ping: 135ms
+vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 
-# Speed: 23.61 Mbps | Ping: 106ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.30.74.16:443#EPODONIOS
+# Speed: 31.69 Mbps | Ping: 115ms
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388?type=tcp#EPODONIOS
 
-# Speed: 18.97 Mbps | Ping: 210ms
+# Speed: 24.02 Mbps | Ping: 140ms
+vless://0408ff45-0c98-4875-bb9e-be81bcc0c495@213.21.229.126:12345?encryption=none&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20302026
+
+# Speed: 23.09 Mbps | Ping: 206ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.90.213:443#EPODONIOS
 
-# Speed: 15.80 Mbps | Ping: 1015ms
-vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443?encryption=none&security=tls&sni=lizca2.footballfantasyforum.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#EPODONIOS
+# Speed: 21.67 Mbps | Ping: 91ms
+vless://d28c8147-7c3d-40ec-96e9-aec3995337dc@23.251.47.193:30011/?type=ws&encryption=none&flow=&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=/@Marisa_kristi&security=tls&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome#EPODONIOS
 
-# Speed: 13.03 Mbps | Ping: 2555ms
+# Speed: 17.33 Mbps | Ping: 452ms
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
 
-# Speed: 12.92 Mbps | Ping: 660ms
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+# Speed: 16.72 Mbps | Ping: 227ms
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#EPODONIOS
 
-# Speed: 11.67 Mbps | Ping: 616ms
+# Speed: 13.92 Mbps | Ping: 590ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 3.75 Mbps | Ping: 387ms
+# Speed: 13.15 Mbps | Ping: 98ms
+vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# Speed: 13.14 Mbps | Ping: 280ms
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#EPODONIOS
+
+# Speed: 12.85 Mbps | Ping: 364ms
+vless://c895720b-1b6e-45bf-904c-f2fdce03fd6e@62.238.51.238:3443?encryption=none&security=tls&type=ws&headerType=none&path=/&sni=tehran.chapjavan.ir&fp=chrome&pcs=8c11501c6042dd5e11d5b55c99ac535b0976ebe9bc55b67fd47dd7bafd9c55c1&alpn=http/1.1#EPODONIOS
+
+# Speed: 12.07 Mbps | Ping: 193ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#EPODONIOS
+
+# Speed: 11.87 Mbps | Ping: 579ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#EPODONIOS
+
+# Speed: 9.75 Mbps | Ping: 387ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+
+# Speed: 7.73 Mbps | Ping: 100ms
+vmess://eyJhZGQiOiI5MS4xMDcuMTU1LjkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGM2OTJhNGQtZDIyMy00NzBhLTkyYjMtMDBjNGIxODljYTczIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1OTA3NiIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgMTgzMkVEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+# Speed: 6.93 Mbps | Ping: 109ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+
+# Speed: 3.39 Mbps | Ping: 296ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#EPODONIOS
+
+# Speed: 2.90 Mbps | Ping: 275ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#EPODONIOS
 
