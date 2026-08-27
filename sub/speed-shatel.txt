@@ -1,21 +1,36 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-27T14:00:52Z
+# Generated: 2026-08-27T20:06:58Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 10
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 18.87 Mbps | Ping: 242ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.33:62145?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# Speed: 24.01 Mbps | Ping: 94ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
-# Speed: 18.14 Mbps | Ping: 562ms
+# Speed: 15.50 Mbps | Ping: 488ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en#EPODONIOS
 
-# Speed: 11.76 Mbps | Ping: 88ms
+# Speed: 14.02 Mbps | Ping: 396ms
+trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+
+# Speed: 9.16 Mbps | Ping: 664ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+
+# Speed: 9.03 Mbps | Ping: 464ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+
+# Speed: 7.92 Mbps | Ping: 498ms
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#EPODONIOS
+
+# Speed: 7.43 Mbps | Ping: 589ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#EPODONIOS
+
+# Speed: 6.22 Mbps | Ping: 107ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#EPODONIOS
 
-# Speed: 8.07 Mbps | Ping: 293ms
+# Speed: 5.77 Mbps | Ping: 306ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#EPODONIOS
 
-# Speed: 3.32 Mbps | Ping: 92ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+# Speed: 0.00 Mbps | Ping: 457ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
 
