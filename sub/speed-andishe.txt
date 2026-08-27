@@ -1,6 +1,33 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-27T05:55:19Z
+# Generated: 2026-08-27T07:28:58Z
 # IP: 192.168.2.45
-# Total Working: 0
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
+# Speed: 50.36 Mbps | Ping: 112ms
+vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+
+# Speed: 33.17 Mbps | Ping: 274ms
+vless://062a0b70-65aa-45f0-a9d5-3bae46fd0b09@157.173.7.109:443?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=32ukc4l1gq6h.bosfiles.net&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20648850
+
+# Speed: 27.42 Mbps | Ping: 98ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.212.194:443#EPODONIOS
+
+# Speed: 23.59 Mbps | Ping: 611ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en#EPODONIOS
+
+# Speed: 18.48 Mbps | Ping: 212ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.121.177:443#EPODONIOS
+
+# Speed: 17.93 Mbps | Ping: 1910ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
+
+# Speed: 17.76 Mbps | Ping: 209ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.165.186:443#EPODONIOS
+
+# Speed: 17.58 Mbps | Ping: 4181ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgN0IwMDQ0IiwiYWRkIjoiMTAzLjE3OS4xNDIuMTU4IiwicG9ydCI6NTAyNjksImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiODRmMjM4ZjYtMjhlYi00OGRmLWE3YmMtYTliZDljZjRhYmJhIn0=
+
+# Speed: 2.80 Mbps | Ping: 280ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-0284
+
