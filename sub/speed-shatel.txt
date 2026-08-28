@@ -1,36 +1,30 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-28T02:14:40Z
+# Generated: 2026-08-28T05:18:46Z
 # IP: 192.168.2.40
-# Total Working: 10
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 24.53 Mbps | Ping: 96ms
+# Speed: 25.55 Mbps | Ping: 94ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
-# Speed: 20.75 Mbps | Ping: 124ms
-vless://112c9db0-af6f-48b0-a59f-7677bed8e2d7@129.151.64.169:31867?encryption=none&security=tls&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&type=ws&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&path=/@Marisa_kristi#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542155
+# Speed: 12.98 Mbps | Ping: 303ms
+trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 18.02 Mbps | Ping: 133ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
-
-# Speed: 16.23 Mbps | Ping: 607ms
+# Speed: 12.30 Mbps | Ping: 617ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en#EPODONIOS
 
-# Speed: 16.03 Mbps | Ping: 247ms
-ss://2022-blake3-chacha20-poly1305:8s5JiHfMgqSeLxMJ02iVSqXInUhq+NrPwp0xLc8jPAU=@168.107.84.248:56927#EPODONIOS
+# Speed: 8.98 Mbps | Ping: 134ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#EPODONIOS
 
-# Speed: 14.93 Mbps | Ping: 108ms
-vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Speed: 8.44 Mbps | Ping: 227ms
-vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?encryption=none&type=ws&path=/&host=azsv1.drpingservice.com#EPODONIOS
-
-# Speed: 7.39 Mbps | Ping: 263ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-0228
-
-# Speed: 2.95 Mbps | Ping: 1837ms
+# Speed: 8.49 Mbps | Ping: 637ms
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#%F0%9F%87%B0%F0%9F%87%BFKZ-5.180.21.146-0420
 
-# Speed: 0.00 Mbps | Ping: 424ms
+# Speed: 4.00 Mbps | Ping: 273ms
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?allowInsecure=1&fp=chrome&sni=www.microsoft.com#EPODONIOS
+
+# Speed: 3.41 Mbps | Ping: 635ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#EPODONIOS
+
+# Speed: 0.00 Mbps | Ping: 429ms
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
 
