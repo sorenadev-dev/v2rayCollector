@@ -1,30 +1,30 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-28T11:25:07Z
+# Generated: 2026-08-28T14:28:09Z
 # IP: 192.168.2.40
 # Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 27.28 Mbps | Ping: 104ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.170.94.231:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
-
-# Speed: 25.14 Mbps | Ping: 476ms
+# Speed: 25.58 Mbps | Ping: 880ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&sni=v3p.sabermusic.ir&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en#EPODONIOS
 
-# Speed: 19.52 Mbps | Ping: 95ms
+# Speed: 22.27 Mbps | Ping: 96ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
-# Speed: 15.76 Mbps | Ping: 302ms
+# Speed: 14.41 Mbps | Ping: 597ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 8.00 Mbps | Ping: 93ms
+# Speed: 14.25 Mbps | Ping: 3073ms
+vmess://eyJ2IjoiMiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgNTg4OTlCIiwiYWRkIjoiMTI5LjE1MC42MS4xMzYiLCJwb3J0IjoiNTMzODYiLCJpZCI6IjMyZTc1NjYyLWMxZWQtNGU4ZC1mNzhjLTNkY2M2ODVjYzc5NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
+
+# Speed: 5.78 Mbps | Ping: 1099ms
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=/&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#EPODONIOS
+
+# Speed: 4.33 Mbps | Ping: 186ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@95.170.13.47:65443#EPODONIOS
 
-# Speed: 5.28 Mbps | Ping: 277ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#EPODONIOS
+# Speed: 3.38 Mbps | Ping: 517ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#EPODONIOS
 
-# Speed: 4.37 Mbps | Ping: 252ms
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?allowInsecure=1&fp=chrome&sni=www.microsoft.com#EPODONIOS
-
-# Speed: 0.00 Mbps | Ping: 429ms
+# Speed: 0.00 Mbps | Ping: 440ms
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
 
