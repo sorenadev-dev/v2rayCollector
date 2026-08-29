@@ -1,27 +1,39 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-08-29T18:06:08Z
+# Generated: 2026-08-29T21:09:47Z
 # IP: 192.168.2.45
-# Total Working: 7
+# Total Working: 11
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 31.37 Mbps | Ping: 105ms
+# Speed: 39.00 Mbps | Ping: 104ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.241.245.82:443#%F0%9F%87%AE%F0%9F%87%AAIE-34.241.245.82-0431
 
-# Speed: 20.32 Mbps | Ping: 504ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+# Speed: 17.56 Mbps | Ping: 230ms
+vless://f78ecba6-f0dd-2a9b-f4ff-8c7cc610138e@69.46.46.26:443?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=/ws/f78ecba6-f0dd-2a9b-f4ff-8c7cc610138e&security=tls&alpn=http/1.1&encryption=none&host=willow-voyager-5a0a-production.up.railway.app&fp=chrome&type=ws&sni=willow-voyager-5a0a-production.up.railway.app#@Cfox_SerVer 🇺🇸
 
-# Speed: 17.15 Mbps | Ping: 96ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+# Speed: 17.24 Mbps | Ping: 356ms
+vless://881b936b-2591-4ea8-d21d-8215a36d41a3@195.172.139.150:23816?security=tls&sni=node.qingyi668.biz&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20170336
 
-# Speed: 13.69 Mbps | Ping: 607ms
+# Speed: 16.27 Mbps | Ping: 291ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 5.03 Mbps | Ping: 530ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#EPODONIOS
+# Speed: 15.55 Mbps | Ping: 246ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgOEQ2NTM1IiwiYWRkIjoiMzguMjQ2LjIyNi4yNDAiLCJwb3J0Ijo1MjA4MCwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI3ZDRiZDk2MS0yMzBjLTRiMzQtYWI1ZC0wNWNmMGRmYjRlYTUifQ==
 
-# Speed: 3.99 Mbps | Ping: 268ms
+# Speed: 14.61 Mbps | Ping: 488ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 8.45 Mbps | Ping: 2000ms
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=/&security=&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#@filembad
+
+# Speed: 3.93 Mbps | Ping: 252ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@118.107.222.231:65443#EPODONIOS
+
+# Speed: 3.28 Mbps | Ping: 99ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+
+# Speed: 2.87 Mbps | Ping: 246ms
 vmess://eyJ2IjoiMiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgMjkwNTk5IiwiYWRkIjoiMTMuMjUwLjExNC4xOTQiLCJwb3J0IjoiODQ0MyIsImlkIjoiOWRjYjhkNzMtY2MwYi00ZmNjLWExMmQtZDdhZmZiNTYyNjdjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 
-# Speed: 0.00 Mbps | Ping: 413ms
+# Speed: 0.00 Mbps | Ping: 425ms
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
 
