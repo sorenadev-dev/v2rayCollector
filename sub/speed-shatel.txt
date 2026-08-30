@@ -1,54 +1,51 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-08-30T06:21:28Z
+# Generated: 2026-08-30T09:27:13Z
 # IP: 192.168.2.40
-# Total Working: 16
+# Total Working: 15
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 32.74 Mbps | Ping: 419ms
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@94.228.170.176:443?security=tls&type=tcp&headerType=none&sni=tr-netherlands.unlimited-access.ru&fp=firefox&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20564633
+# Speed: 31.05 Mbps | Ping: 106ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.241.245.82:443#EPODONIOS
 
-# Speed: 25.74 Mbps | Ping: 97ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+# Speed: 27.52 Mbps | Ping: 140ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 22.17 Mbps | Ping: 99ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.241.245.82:443#%F0%9F%87%AE%F0%9F%87%AAIE-34.241.245.82-0964
-
-# Speed: 18.49 Mbps | Ping: 239ms
-vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgOEQ2NTM1IiwiYWRkIjoiMzguMjQ2LjIyNi4yNDAiLCJwb3J0Ijo1MjA4MCwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI3ZDRiZDk2MS0yMzBjLTRiMzQtYWI1ZC0wNWNmMGRmYjRlYTUifQ==
-
-# Speed: 13.45 Mbps | Ping: 298ms
-trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
-
-# Speed: 13.13 Mbps | Ping: 103ms
+# Speed: 19.52 Mbps | Ping: 349ms
 vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20284513
 
-# Speed: 12.13 Mbps | Ping: 704ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.244.150.119:443#%F0%9F%87%AE%F0%9F%87%AAIE-34.244.150.119-0438
+# Speed: 14.96 Mbps | Ping: 246ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgOEQ2NTM1IiwiYWRkIjoiMzguMjQ2LjIyNi4yNDAiLCJwb3J0Ijo1MjA4MCwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI3ZDRiZDk2MS0yMzBjLTRiMzQtYWI1ZC0wNWNmMGRmYjRlYTUifQ==
 
-# Speed: 11.71 Mbps | Ping: 723ms
+# Speed: 13.80 Mbps | Ping: 299ms
+trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
+
+# Speed: 13.40 Mbps | Ping: 105ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.244.150.119:443#EPODONIOS
+
+# Speed: 13.39 Mbps | Ping: 661ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 10.87 Mbps | Ping: 587ms
-vless://fda82db3-3c0f-4122-87d9-1ed08059bc92@38.107.236.178:443?type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20358025
+# Speed: 8.71 Mbps | Ping: 94ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
-# Speed: 9.30 Mbps | Ping: 131ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?allow_insecure=1&allowInsecure=1&insecure=1&security=tls&sni=186.190.211.188#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20703526
+# Speed: 7.17 Mbps | Ping: 402ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
-# Speed: 8.77 Mbps | Ping: 589ms
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=/&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#EPODONIOS
-
-# Speed: 8.09 Mbps | Ping: 4194ms
+# Speed: 5.51 Mbps | Ping: 2090ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#EPODONIOS
 
-# Speed: 0.00 Mbps | Ping: 344ms
+# Speed: 4.63 Mbps | Ping: 368ms
+vless://fda82db3-3c0f-4122-87d9-1ed08059bc92@38.107.236.178:443?type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20358025
+
+# Speed: 0.00 Mbps | Ping: 341ms
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&fp=android&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20175602
 
-# Speed: 0.00 Mbps | Ping: 425ms
+# Speed: 0.00 Mbps | Ping: 410ms
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20065?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#EPODONIOS
 
-# Speed: 0.00 Mbps | Ping: 273ms
-trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20706691
-
-# Speed: 0.00 Mbps | Ping: 337ms
+# Speed: 0.00 Mbps | Ping: 299ms
 trojan://14bac0e43c849123ccb0fd0690f24316@118.253.167.243:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20481939
+
+# Speed: 0.00 Mbps | Ping: 1508ms
+trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20706691
 
