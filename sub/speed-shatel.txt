@@ -1,24 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-02T14:02:53Z
+# Generated: 2026-09-02T17:05:50Z
 # IP: 192.168.2.40
-# Total Working: 6
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 20.83 Mbps | Ping: 110ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 12.06 Mbps | Ping: 574ms
+# Speed: 21.42 Mbps | Ping: 500ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 9.79 Mbps | Ping: 613ms
+# Speed: 11.94 Mbps | Ping: 123ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 10.97 Mbps | Ping: 282ms
 trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#EPODONIOS
 
-# Speed: 8.15 Mbps | Ping: 290ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.226.121:443#EPODONIOS
-
-# Speed: 6.87 Mbps | Ping: 97ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22224?security=none&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20917134
-
-# Speed: 6.25 Mbps | Ping: 1896ms
+# Speed: 7.01 Mbps | Ping: 2785ms
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?&type=ws&headerType=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#EPODONIOS
 
