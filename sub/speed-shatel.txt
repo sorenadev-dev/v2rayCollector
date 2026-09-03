@@ -1,30 +1,54 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-03T20:37:12Z
+# Generated: 2026-09-03T23:40:13Z
 # IP: 192.168.2.40
-# Total Working: 8
+# Total Working: 16
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 42.56 Mbps | Ping: 117ms
+# Speed: 30.50 Mbps | Ping: 115ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 27.19 Mbps | Ping: 205ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.223.120.129:443#EPODONIOS
+# Speed: 26.05 Mbps | Ping: 125ms
+vless://95b3eb4a-698f-44a5-a9df-b882148a4ca5@89.46.42.141:8443?path=/&security=tls&alpn=h3,+h2,+http/1.1&encryption=none&insecure=0&host=kingniderlands.tolkun-tv.ru&fp=chrome&type=ws&allowInsecure=0&sni=kingniderlands.tolkun-tv.ru#🇸🇰SK-🚀@VPNine1
 
-# Speed: 26.72 Mbps | Ping: 481ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+# Speed: 21.74 Mbps | Ping: 90ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.94.70:443#%F0%9F%87%AC%F0%9F%87%A7GB-13.40.94.70-2116
 
-# Speed: 25.74 Mbps | Ping: 213ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.144.93:443#EPODONIOS
+# Speed: 20.53 Mbps | Ping: 597ms
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&security=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#EPODONIOS
 
-# Speed: 22.89 Mbps | Ping: 197ms
+# Speed: 13.51 Mbps | Ping: 189ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#%F0%9F%87%A8%F0%9F%87%A6CA-3.97.16.160-0430
 
-# Speed: 10.18 Mbps | Ping: 396ms
-vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?encryption=none&fp=firefox&host=usa1.pad-service.com&path=/USA1&security=tls&sni=usa1.pad-service.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20131481
+# Speed: 12.96 Mbps | Ping: 189ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.223.120.129:443#EPODONIOS
 
-# Speed: 9.00 Mbps | Ping: 604ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%A8%F0%9F%87%B3CN-121.46.230.137-0434
+# Speed: 11.30 Mbps | Ping: 213ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.226.121:443#EPODONIOS
 
-# Speed: 7.46 Mbps | Ping: 524ms
+# Speed: 11.26 Mbps | Ping: 1490ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+
+# Speed: 10.44 Mbps | Ping: 248ms
+vless://cb2aa79f-8d64-4789-809b-da67b6d72417@68.221.221.22:2059?encryption=none&type=tcp#🇪🇸ES-🚀@VPNine1
+
+# Speed: 9.05 Mbps | Ping: 199ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.144.93:443#EPODONIOS
+
+# Speed: 8.93 Mbps | Ping: 496ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 6.47 Mbps | Ping: 526ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#EPODONIOS
+
+# Speed: 4.73 Mbps | Ping: 271ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#EPODONIOS
+
+# Speed: 4.05 Mbps | Ping: 177ms
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.154:197?encryption=none&type=tcp#🇩🇪DE-🚀@VPNine1
+
+# Speed: 3.74 Mbps | Ping: 572ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#EPODONIOS
+
+# Speed: 3.19 Mbps | Ping: 392ms
+vless://23578a2c-2493-41f0-89ef-d7d3a7b85252@152.53.90.42:8443?path=/USA1&security=tls&encryption=none&insecure=0&host=usa1.pad-service.com&fp=chrome&type=ws&allowInsecure=0&sni=usa1.pad-service.com#🇺🇸US-🚀@VPNine1
 
