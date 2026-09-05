@@ -1,45 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-05T03:09:53Z
+# Generated: 2026-09-05T06:13:02Z
 # IP: 192.168.2.40
-# Total Working: 13
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.66 Mbps | Ping: 104ms
+# Speed: 23.33 Mbps | Ping: 110ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 34.53 Mbps | Ping: 102ms
+# Speed: 9.76 Mbps | Ping: 108ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.252.205.48:443#EPODONIOS
 
-# Speed: 32.53 Mbps | Ping: 98ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.94.70:443#EPODONIOS
+# Speed: 6.43 Mbps | Ping: 1317ms
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?&type=ws&headerType=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#EPODONIOS
 
-# Speed: 26.69 Mbps | Ping: 204ms
+# Speed: 5.86 Mbps | Ping: 202ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.226.121:443#EPODONIOS
 
-# Speed: 14.58 Mbps | Ping: 324ms
-vless://7a657573-a580-769f-29b5-8d2e1d91a101@104.19.20.254:443?path=%2Fstream%2FPANEL_ZEUS%2F8d2e1d91a101%2Floc-2&security=tls&encryption=none&host=lrzsfte1ufps.chimamanda81.workers.dev&type=ws&sni=lrzsfte1ufps.chimamanda81.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%207ms
-
-# Speed: 14.09 Mbps | Ping: 219ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#EPODONIOS
-
-# Speed: 12.70 Mbps | Ping: 750ms
+# Speed: 5.67 Mbps | Ping: 758ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 11.48 Mbps | Ping: 606ms
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&security=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#EPODONIOS
-
-# Speed: 7.59 Mbps | Ping: 271ms
+# Speed: 4.75 Mbps | Ping: 1050ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#EPODONIOS
 
-# Speed: 6.95 Mbps | Ping: 177ms
-trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http/1.1&sni=vps.tropicalhosting.net#EPODONIOS
-
-# Speed: 6.57 Mbps | Ping: 85ms
-vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-
-# Speed: 5.43 Mbps | Ping: 2143ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#EPODONIOS
-
-# Speed: 4.00 Mbps | Ping: 251ms
-vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ik1YIPCfh7Lwn4e9IHwgQFJheWRpa2FseCB8IDhEODI5RiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+# Speed: 3.13 Mbps | Ping: 209ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#EPODONIOS
 
