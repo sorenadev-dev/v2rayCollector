@@ -1,24 +1,30 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-05T12:19:08Z
+# Generated: 2026-09-05T15:07:09Z
 # IP: 192.168.2.40
-# Total Working: 6
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 26.53 Mbps | Ping: 752ms
+# Speed: 45.28 Mbps | Ping: 78ms
+trojan://v2whz6ahmyy2f84j@45.74.158.25:2087?security=tls&headerType=none&fp=chrome&type=tcp&sni=pus.mmdaqaorg2.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542410
+
+# Speed: 35.93 Mbps | Ping: 113ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 25.15 Mbps | Ping: 783ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 19.68 Mbps | Ping: 4238ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20499141
+# Speed: 19.42 Mbps | Ping: 214ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.226.121:443#EPODONIOS
 
-# Speed: 18.76 Mbps | Ping: 362ms
+# Speed: 12.42 Mbps | Ping: 821ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.16.160:443#EPODONIOS
 
-# Speed: 7.75 Mbps | Ping: 105ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.252.205.48:443#EPODONIOS
+# Speed: 10.37 Mbps | Ping: 1341ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.40.94.70:443#EPODONIOS
 
-# Speed: 3.87 Mbps | Ping: 3176ms
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&security=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#EPODONIOS
-
-# Speed: 2.75 Mbps | Ping: 1276ms
+# Speed: 4.28 Mbps | Ping: 1639ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#EPODONIOS
+
+# Speed: 3.54 Mbps | Ping: 132ms
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http/1.1&sni=vps.tropicalhosting.net#EPODONIOS
 
