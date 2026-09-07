@@ -1,61 +1,55 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-09-07T13:07:24Z
-# Total Working: 19
+# Generated: 2026-09-07T16:10:42Z
+# Total Working: 17
 #
-# Ping: 18ms
+# Ping: 25ms
 trojan://humanity@216.24.57.7:443/?type=tcp&security=tls&sni=www.ignitelimit.com&alpn=http/1.1#EPODONIOS
-
-# Ping: 79ms
-trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.17.111.4-1109
 
 # Ping: 79ms
 trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.17.111.3-1097
 
-# Ping: 97ms
+# Ping: 84ms
+trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.17.111.4-1109
+
+# Ping: 89ms
 trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-104.20.6.134-1101
 
 # Ping: 99ms
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@172.67.217.240:443/?type=ws&encryption=none&flow=&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.com&security=tls&sni=web-socket.tgdaosheng.ggff.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#EPODONIOS
+vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?security=tls&encryption=none&type=ws&sni=cfvvv-ev1.pages.dev&path=/&host=cfvvv-ev1.pages.dev&allowInsecure=0&insecure=0&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20941583
 
-# Ping: 112ms
+# Ping: 110ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 117ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0=@141.95.29.163:2083#EPODONIOS
+# Ping: 235ms
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20669250
 
-# Ping: 188ms
-vless://32cecf5f-e968-1cc3-d937-a9a4c3a57a0d@69.46.46.29:443?path=/ws/32cecf5f-e968-1cc3-d937-a9a4c3a57a0d&security=tls&alpn=http/1.1&encryption=none&host=still-otter-f8a4-production.up.railway.app&fp=ios&type=ws&sni=still-otter-f8a4-production.up.railway.app#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20896887
+# Ping: 252ms
+vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.18.24.194:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#EPODONIOS
 
-# Ping: 254ms
+# Ping: 258ms
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@170.114.46.6:80?type=ws&encryption=none&host=shalana.xyz&path=/shalana#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20417571
 
-# Ping: 262ms
-vless://6aa028bc-08a9-41d1-a397-d60ce65df081@170.114.45.6:80?security=none&type=ws&path=/shalana&host=shalana.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20310349
+# Ping: 284ms
+vmess://eyJhZGQiOiI4LjIxMC4xMDguNTgiLCJhaWQiOiIwIiwiaG9zdCI6IlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgREVBRDA1Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-# Ping: 274ms
+# Ping: 303ms
+vless://7893b302-3882-4c38-9ab6-6313f1575d1a@104.21.53.134:443?path=/@zyzzzoao&security=tls&encryption=none&insecure=0&host=cf.udpid.org&fp=chrome&type=ws&allowInsecure=0&sni=cf.udpid.org#EPODONIOS
+
+# Ping: 325ms
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp#EPODONIOS
 
-# Ping: 276ms
-vmess://eyJhZGQiOiI0Ny43Ni4xOTcuNzIiLCJhaWQiOiIwIiwiaG9zdCI6Ik0wMWM3QjJ6MjZEdFFHRWUudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0Ijo0NDMsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgMEY5NTgyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# Ping: 462ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
 
-# Ping: 496ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+# Ping: 489ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#EPODONIOS
 
-# Ping: 534ms
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=/tyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#EPODONIOS
-
-# Ping: 691ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
-
-# Ping: 738ms
+# Ping: 615ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 1311ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#EPODONIOS
+# Ping: 656ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#EPODONIOS
 
-# Ping: 1552ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#EPODONIOS
-
-# Ping: 2920ms
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80/?type=ws&encryption=none&flow=&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#EPODONIOS
+# Ping: 827ms
+vmess://eyJhZGQiOiI5NS44NS4yMzMuMTM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsIm5ldCI6IndzIiwicGFja2V0RW5jb2RpbmciOiJ4dWRwIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiJERSDwn4ep8J+HqiB8IEBSYXlkaWthbHggfCA2NTEwMUMiLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
