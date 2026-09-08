@@ -1,15 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-08T16:36:37Z
+# Generated: 2026-09-08T19:40:01Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 28.80 Mbps | Ping: 156ms
+# Speed: 19.46 Mbps | Ping: 261ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 27.86 Mbps | Ping: 730ms
+# Speed: 12.26 Mbps | Ping: 1766ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 4.38 Mbps | Ping: 440ms
+# Speed: 6.18 Mbps | Ping: 696ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#EPODONIOS
+
+# Speed: 5.66 Mbps | Ping: 611ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#EPODONIOS
+
+# Speed: 2.88 Mbps | Ping: 588ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
