@@ -1,18 +1,33 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-09T13:59:45Z
+# Generated: 2026-09-09T17:02:47Z
 # IP: 192.168.2.40
-# Total Working: 4
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 37.86 Mbps | Ping: 110ms
+# Speed: 33.52 Mbps | Ping: 199ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.247.231.139:443#%F0%9F%87%AE%F0%9F%87%AAIE-54.247.231.139-0447
+
+# Speed: 30.44 Mbps | Ping: 98ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#%F0%9F%87%AC%F0%9F%87%A7GB-18.170.35.229-0483
+
+# Speed: 29.07 Mbps | Ping: 108ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 26.58 Mbps | Ping: 490ms
+# Speed: 24.11 Mbps | Ping: 718ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 7.48 Mbps | Ping: 533ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#EPODONIOS
+# Speed: 18.84 Mbps | Ping: 101ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.216.102.222:443#%F0%9F%87%AE%F0%9F%87%AAIE-54.216.102.222-0444
 
-# Speed: 5.50 Mbps | Ping: 365ms
+# Speed: 13.60 Mbps | Ping: 119ms
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5177
+
+# Speed: 4.25 Mbps | Ping: 195ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.223.203.202:443#%F0%9F%87%A8%F0%9F%87%A6CA-15.223.203.202-0443
+
+# Speed: 3.96 Mbps | Ping: 4131ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+
+# Speed: 3.10 Mbps | Ping: 248ms
+vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTcuMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 
