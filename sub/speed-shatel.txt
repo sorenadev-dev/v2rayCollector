@@ -1,30 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-09T01:47:02Z
+# Generated: 2026-09-09T04:50:24Z
 # IP: 192.168.2.40
-# Total Working: 8
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 37.74 Mbps | Ping: 119ms
+# Speed: 37.49 Mbps | Ping: 124ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 32.48 Mbps | Ping: 98ms
-vless://b732329b-8c5a-ac60-0bfd-8bb353dd7a22@69.46.46.126:443?path=/ws/b732329b-8c5a-ac60-0bfd-8bb353dd7a22&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-productionopop.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-productionopop.up.railway.app#EPODONIOS
-
-# Speed: 26.57 Mbps | Ping: 103ms
-vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:333?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Speed: 25.36 Mbps | Ping: 881ms
+# Speed: 28.64 Mbps | Ping: 720ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 24.16 Mbps | Ping: 99ms
+# Speed: 13.65 Mbps | Ping: 138ms
 vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:8080?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 
-# Speed: 4.10 Mbps | Ping: 554ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#EPODONIOS
+# Speed: 12.08 Mbps | Ping: 152ms
+vless://d7e1be1d-967b-4f43-9014-ab68c414da72@185.204.170.125:333?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 
-# Speed: 2.93 Mbps | Ping: 94ms
-vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# Speed: 10.75 Mbps | Ping: 374ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
 
-# Speed: 2.80 Mbps | Ping: 281ms
+# Speed: 4.69 Mbps | Ping: 296ms
 ss://chacha20-ietf-poly1305:tunnel-astrovpn_official@188.208.110.58:8444#EPODONIOS
 
