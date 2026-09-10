@@ -1,30 +1,39 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-10T14:26:16Z
+# Generated: 2026-09-10T17:29:18Z
 # IP: 192.168.2.40
-# Total Working: 8
+# Total Working: 11
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 36.81 Mbps | Ping: 93ms
+# Speed: 37.13 Mbps | Ping: 93ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.170.35.229:443#EPODONIOS
 
-# Speed: 33.19 Mbps | Ping: 93ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.179.104.218:443#%F0%9F%87%AC%F0%9F%87%A7GB-35.179.104.218-0489
+# Speed: 30.82 Mbps | Ping: 102ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.59.160:22224?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20down
 
-# Speed: 22.85 Mbps | Ping: 206ms
-trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@64.20.209.125:443?allowInsecure=1&fp=chrome#EPODONIOS
-
-# Speed: 15.74 Mbps | Ping: 874ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 9.76 Mbps | Ping: 401ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
-
-# Speed: 6.73 Mbps | Ping: 109ms
+# Speed: 28.65 Mbps | Ping: 109ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 5.54 Mbps | Ping: 2941ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.247.231.139:443#EPODONIOS
+# Speed: 14.66 Mbps | Ping: 94ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.8.209.170:443#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.209.170-0457
 
-# Speed: 4.42 Mbps | Ping: 602ms
+# Speed: 12.15 Mbps | Ping: 192ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.179.104.218:443#%F0%9F%87%AC%F0%9F%87%A7GB-35.179.104.218-0456
+
+# Speed: 12.08 Mbps | Ping: 101ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@108.129.176.139:443#%F0%9F%87%AE%F0%9F%87%AAIE-108.129.176.139-1942
+
+# Speed: 9.66 Mbps | Ping: 639ms
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#EPODONIOS
+
+# Speed: 9.42 Mbps | Ping: 181ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.223.203.202:443#EPODONIOS
+
+# Speed: 7.89 Mbps | Ping: 2177ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#EPODONIOS
+
+# Speed: 7.08 Mbps | Ping: 614ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 6.82 Mbps | Ping: 101ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.32.92.226:443#%F0%9F%87%AE%F0%9F%87%AAIE-63.32.92.226-1941
 
