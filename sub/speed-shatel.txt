@@ -1,15 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-12T18:19:19Z
+# Generated: 2026-09-12T21:21:49Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 43.01 Mbps | Ping: 130ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 17.08 Mbps | Ping: 488ms
+# Speed: 26.31 Mbps | Ping: 883ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 12.58 Mbps | Ping: 2192ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.133.114:62145?encryption=none&security=none&type=tcp#EPODONIOS
+# Speed: 22.92 Mbps | Ping: 110ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 16.03 Mbps | Ping: 99ms
+vless://a5727e2e-8ab5-503e-7939-057274386994@69.46.46.87:443?path=/i/UzDSwPSoYxvGJwTLVyGTkgq-tUNulA7axy87p1IG8ESbs0Isemk_XuvlUFmTTSN8GgdSe9GwAQVww7Owxdr-xUzzdfY09q_zR_pXM7S0_TTAYPNu6poYpDzoFlU3QzjxxuG3Ggkyg84bBkTel3w/ws/a5727e2e-8ab5-503e-7939-057274386994&security=tls&encryption=none&alpn=http/1.1&host=lunel-production-6f4b.up.railway.app&fp=chrome&type=ws&sni=lunel-production-6f4b.up.railway.app#EPODONIOS
+
+# Speed: 8.65 Mbps | Ping: 116ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.146.129:22223?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 4.40 Mbps | Ping: 455ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
 
