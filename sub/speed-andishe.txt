@@ -1,24 +1,36 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-09-13T22:18:55Z
+# Generated: 2026-09-14T01:23:06Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 10
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 24.29 Mbps | Ping: 647ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+# Speed: 40.18 Mbps | Ping: 125ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZXRXSFdBc2pDaUdiSGFlc3NJTTVRdVFmU1o4cWpPVUdsbzBmeWhwRmtEdz0=@129.151.95.27:61312#EPODONIOS
 
-# Speed: 13.04 Mbps | Ping: 323ms
+# Speed: 27.94 Mbps | Ping: 95ms
 vmess://eyJhZGQiOiAiOTQuMTg0LjE3LjEzMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDM1MDhiMDEtZjgyNC00M2Q5LTk5M2YtY2M0OTE2NjRhYjJlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDQ1ODAiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
 
-# Speed: 4.67 Mbps | Ping: 69ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbHVTS1NyYnR4VHZsVnY3Qk9Vd240@185.39.204.3:8098#EPODONIOS
+# Speed: 25.40 Mbps | Ping: 849ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 4.43 Mbps | Ping: 103ms
+# Speed: 23.88 Mbps | Ping: 95ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.13.100:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 21.79 Mbps | Ping: 258ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMTk0NTBGIiwiYWRkIjoiMTA3LjE3My4yNTQuMjciLCJwb3J0IjoxNTMxMSwiaWQiOiJhZDc4ZDAyYi04NzNmLTRjZmYtOGQ0YS02NzNmNTNkNmNlMGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwibmFtZSI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDE5NDUwRiJ9
+
+# Speed: 13.67 Mbps | Ping: 97ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.13.100:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Speed: 3.72 Mbps | Ping: 94ms
+# Speed: 8.83 Mbps | Ping: 102ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
-# Speed: 3.60 Mbps | Ping: 100ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.13.100:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# Speed: 5.72 Mbps | Ping: 95ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.221.118:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 3.10 Mbps | Ping: 97ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.221.118:22224?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 2.95 Mbps | Ping: 97ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.221.118:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
