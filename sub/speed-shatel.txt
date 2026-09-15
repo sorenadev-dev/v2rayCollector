@@ -1,21 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-15T16:29:59Z
+# Generated: 2026-09-15T19:33:04Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 30.27 Mbps | Ping: 112ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 20.29 Mbps | Ping: 902ms
+# Speed: 19.30 Mbps | Ping: 1299ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 14.11 Mbps | Ping: 823ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.191.124.183:443#%F0%9F%87%BA%F0%9F%87%B8US-18.191.124.183-0494
+# Speed: 13.51 Mbps | Ping: 132ms
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.107:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=api-xvdhdv8374gdv-dyehgd638-6b85bd-production.up.railway.app&fp=chrome&type=ws&sni=api-xvdhdv8374gdv-dyehgd638-6b85bd-production.up.railway.app#EPODONIOS
 
-# Speed: 6.90 Mbps | Ping: 96ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+# Speed: 13.43 Mbps | Ping: 125ms
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.109:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=cloud-0c2055-082cd3-production.up.railway.app&fp=chrome&type=ws&sni=cloud-0c2055-082cd3-production.up.railway.app#EPODONIOS
 
-# Speed: 6.08 Mbps | Ping: 102ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.167.143:22222?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%2085ms
+# Speed: 10.69 Mbps | Ping: 111ms
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.108:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=esmal-locj45-ugfufuffufuff-0bfedd-production.up.railway.app&fp=chrome&type=ws&sni=esmal-locj45-ugfufuffufuff-0bfedd-production.up.railway.app#EPODONIOS
+
+# Speed: 5.05 Mbps | Ping: 116ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 3.40 Mbps | Ping: 107ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.218.241:443#EPODONIOS
 
