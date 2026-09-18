@@ -1,85 +1,88 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-09-18T14:47:29Z
-# Total Working: 27
+# Generated: 2026-09-18T17:50:19Z
+# Total Working: 28
 #
-# Ping: 19ms
+# Ping: 28ms
 trojan://humanity@216.24.57.7:443/?type=tcp&security=tls&sni=www.ignitelimit.com&alpn=http/1.1#EPODONIOS
 
-# Ping: 92ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
-
-# Ping: 93ms
+# Ping: 88ms
 vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.117:443?path=/&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=cfvvv-ev1.pages.dev&fp=unsafe&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#EPODONIOS
 
-# Ping: 96ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22224?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Ping: 97ms
+# Ping: 91ms
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com#%F0%9F%8F%81RELAY-8.6.112.0-1363
 
-# Ping: 98ms
-vless://44eae030-290b-4083-8102-6f8bab05701b@104.24.0.184:443?encryption=none&security=tls&sni=cfvvv-ev1.pages.dev&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&type=ws&host=cfvvv-ev1.pages.dev&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512#EPODONIOS
+# Ping: 95ms
+vless://44eae030-290b-4083-8102-6f8bab05701b@172.66.0.236:2083?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#EPODONIOS
 
-# Ping: 99ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22223?encryption=none&security=none&type=tcp#EPODONIOS
+# Ping: 98ms
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.185:443?path=/&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#EPODONIOS
+
+# Ping: 100ms
+vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.199:443?path=/&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=cfvvv-ev1.pages.dev&fp=unsafe&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#EPODONIOS
+
+# Ping: 100ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.227.67.161:2083?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/members/detail/gif?ed=2560fp=chrome&security=tls#EPODONIOS
 
 # Ping: 101ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.33.146:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-
-# Ping: 109ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.225.110.247:2083?allowInsecure=1&encryption=none&host=cdn8848.776676.xyz&security=tls&sni=cdn8848.776676.xyz&type=ws#EPODONIOS
 
-# Ping: 110ms
-vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.156.227:443?path=/&security=tls&encryption=none&insecure=0&host=cfvvv-ev1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#EPODONIOS
+# Ping: 105ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
-# Ping: 116ms
+# Ping: 111ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0167
 
-# Ping: 119ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#EPODONIOS
-
-# Ping: 123ms
+# Ping: 113ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTWVtV2lkNlhHdG5SZXVv@20.238.35.153:443?outline=1&prefix=POST W35af9ct#EPODONIOS
 
-# Ping: 139ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.207:8443?allowInsecure=1&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=/lives&security=tls&sni=cdn8848.776676.xyz&type=ws#EPODONIOS
+# Ping: 115ms
+vless://6049e972-419e-43bc-932c-4032be6d1b5b@212.87.190.124:3?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 
-# Ping: 182ms
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.77:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#EPODONIOS
+# Ping: 117ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#EPODONIOS
 
-# Ping: 192ms
+# Ping: 188ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
 
-# Ping: 246ms
+# Ping: 189ms
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.36:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#EPODONIOS
+
+# Ping: 230ms
+vless://67671bce-990e-47fe-96c3-55a869800b00@104.143.223.56:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@Nexus_Panell چنل تلگرام
+
+# Ping: 245ms
 trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#EPODONIOS
 
-# Ping: 256ms
+# Ping: 258ms
+vmess://eyJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MDAwMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgQTFCOTk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+# Ping: 261ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YUxqRFp0UjQ3R3Jpbms0@4.221.226.118:443#EPODONIOS
 
-# Ping: 314ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@84.32.217.120:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/channels/act&security=tls&sni=cdn8848.776676.xyz&type=ws#EPODONIOS
+# Ping: 297ms
+vless://Soliconf@69.46.46.8:443?path=/ws/vless/Soliconf?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=slvpanel-production-5f5f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=slvpanel-production-5f5f.up.railway.app#[49636] - Telegram : @V2All
 
-# Ping: 337ms
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=/tyxyws#EPODONIOS
+# Ping: 387ms
+vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=multi&security=&encryption=none&type=grpc&serviceName=vless#@GozargahAzad|🇹🇷
 
-# Ping: 340ms
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#EPODONIOS
-
-# Ping: 472ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
-
-# Ping: 500ms
+# Ping: 457ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Ping: 624ms
+# Ping: 476ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#EPODONIOS
+
+# Ping: 488ms
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.1:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#EPODONIOS
+
+# Ping: 867ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 649ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-5412
+# Ping: 1029ms
+vless://b2cddf0c-4b1e-4c65-9457-8dd331c9fc41@185.204.171.83:14120?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#@GozargahAzad|🇩🇪
 
-# Ping: 1807ms
-vmess://eyJhZGQiOiIxNzIuNjcuMTYxLjE0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0Ijo4NDQzLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEU1QUJCQSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# Ping: 3639ms
+vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.3:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#@Nexus_Panell چنل تلگرام
 
-# Ping: 2189ms
-vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQzc5ODZBIiwiYWRkIjoiMTA0LjIxLjU3Ljg0IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiJ9
+# Ping: 4550ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.194.210.177:443#EPODONIOS
 
