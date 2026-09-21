@@ -1,15 +1,12 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-21T10:01:41Z
+# Generated: 2026-09-21T13:04:32Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 2
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 25.33 Mbps | Ping: 908ms
+# Speed: 21.35 Mbps | Ping: 616ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 16.29 Mbps | Ping: 236ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
-
-# Speed: 3.51 Mbps | Ping: 442ms
-vmess://eyJhZGQiOiIxMzEuMTk2LjI1Mi41OSIsImFpZCI6IjAiLCJpZCI6IjU4MDk5MTFhLWExNmUtNDNkMy05MGIwLTJjOTRjZmMyMDM1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MjEiLCJwcyI6Ik1YIPCfh7Lwn4e9IHwgQFJheWRpa2FseCB8IDYzQzcwOSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+# Speed: 2.77 Mbps | Ping: 2206ms
+vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#EPODONIOS
 
