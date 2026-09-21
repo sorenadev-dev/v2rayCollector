@@ -1,27 +1,45 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-21T03:54:36Z
+# Generated: 2026-09-21T06:58:35Z
 # IP: 192.168.2.40
-# Total Working: 7
+# Total Working: 13
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 26.28 Mbps | Ping: 120ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 25.70 Mbps | Ping: 98ms
-vless://5221f28c-7bd4-238e-26cb-b4be057e6e7e@69.46.46.77:443?path=/ws/5221f28c-7bd4-238e-26cb-b4be057e6e7e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=opre-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=opre-production.up.railway.app#EPODONIOS
-
-# Speed: 17.57 Mbps | Ping: 101ms
+# Speed: 27.13 Mbps | Ping: 295ms
 vless://d3d4eb9c-1e95-f0ca-6340-b5465e61c435@69.46.46.92:443?path=/ws/d3d4eb9c-1e95-f0ca-6340-b5465e61c435&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vodiwalkerpanel-production-60f4.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=vodiwalkerpanel-production-60f4.up.railway.app#EPODONIOS
 
-# Speed: 16.33 Mbps | Ping: 90ms
-vless://d3d4eb9c-1e95-f0ca-6340-b5465e61c435@69.46.46.192:443?path=/ws/d3d4eb9c-1e95-f0ca-6340-b5465e61c435&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vodiwalkerpanel-production-60f4.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=vodiwalkerpanel-production-60f4.up.railway.app#EPODONIOS
+# Speed: 25.62 Mbps | Ping: 124ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 9.07 Mbps | Ping: 725ms
+# Speed: 23.52 Mbps | Ping: 91ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.174:22224?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 22.48 Mbps | Ping: 390ms
+vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.44:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#[51854] - Telegram : @V2All
+
+# Speed: 18.23 Mbps | Ping: 396ms
+vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.34:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#[51857] - Telegram : @V2All
+
+# Speed: 14.15 Mbps | Ping: 895ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 8.94 Mbps | Ping: 151ms
-vless://50414e45-4c5f-5a45-5553-91958484f008@172.66.141.169:443?path=%2Fstream%2FPANEL_ZEUS%2F91958484f008&security=tls&encryption=none&insecure=0&host=alzs5leoubzs.pedramgolnare.workers.dev&type=ws&allowInsecure=0&sni=alzs5leoubzs.pedramgolnare.workers.dev#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2013ms
+# Speed: 12.20 Mbps | Ping: 383ms
+vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.45:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#[51853] - Telegram : @V2All
 
-# Speed: 3.89 Mbps | Ping: 371ms
-vless://07cb07b9-0c4d-46c1-a15a-b147511b6b07@195.58.144.56:11907?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20191ms
+# Speed: 12.13 Mbps | Ping: 91ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.174:22223?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 6.54 Mbps | Ping: 388ms
+vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.41:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#[51855] - Telegram : @V2All
+
+# Speed: 5.57 Mbps | Ping: 93ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.174:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 4.42 Mbps | Ping: 377ms
+vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.58:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#[51856] - Telegram : @V2All
+
+# Speed: 3.42 Mbps | Ping: 98ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+
+# Speed: 3.17 Mbps | Ping: 390ms
+vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#@Daily_Configs
 
