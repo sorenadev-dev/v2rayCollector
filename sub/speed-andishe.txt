@@ -1,18 +1,21 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-09-21T08:17:47Z
+# Generated: 2026-09-21T11:21:32Z
 # IP: 192.168.2.45
-# Total Working: 4
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 36.72 Mbps | Ping: 114ms
+# Speed: 30.27 Mbps | Ping: 114ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0062
 
-# Speed: 16.95 Mbps | Ping: 907ms
+# Speed: 15.68 Mbps | Ping: 767ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 5.14 Mbps | Ping: 295ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.32-5254
+# Speed: 12.24 Mbps | Ping: 92ms
+vmess://eyJhZGQiOiI3OC4xMzUuNzcuOTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiTml0cm9fU2t5Ym90QCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMjUwMjAiLCJwcyI6IlRSIPCfh7nwn4e3IHwgQFJheWRpa2FseCB8IDM3QkZDRCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 
-# Speed: 4.37 Mbps | Ping: 106ms
+# Speed: 4.24 Mbps | Ping: 94ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0091
+
+# Speed: 4.15 Mbps | Ping: 272ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-0135
 
