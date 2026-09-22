@@ -1,43 +1,46 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-09-22T10:27:27Z
-# Total Working: 13
+# Generated: 2026-09-22T13:29:57Z
+# Total Working: 14
 #
-# Ping: 92ms
-vless://03a8d415-1d9c-470d-9e2d-ea0fd6aef9c0@104.21.6.82:8080?path=/eyJqdW5rIjoiSWdvVk5ETHBhRnNQamIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0&security=none&encryption=none&host=server7.wimig16819.workers.dev&type=ws#EPODONIOS
+# Ping: 18ms
+trojan://humanity@216.24.57.7:443/?type=tcp&security=tls&sni=www.ignitelimit.com&alpn=http/1.1#EPODONIOS
 
-# Ping: 115ms
+# Ping: 112ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 136ms
-vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#EPODONIOS
-
-# Ping: 196ms
-vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@172.67.130.159:2096?path=/fqg7aacd8s&security=tls&encryption=none&insecure=0&host=cdn-ca.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-ca.skyvora.app#EPODONIOS
-
-# Ping: 228ms
-vless://e8d06b09-acd9-448c-9874-3c36151d36ee@165.215.250.16:443?allowInsecure=1&ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=/&security=tls&sni=icy-wildflower-2590.lihuifeng595.workers.dev&type=ws#EPODONIOS
-
-# Ping: 242ms
+# Ping: 240ms
 trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#EPODONIOS
 
-# Ping: 260ms
+# Ping: 247ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#EPODONIOS
+
+# Ping: 249ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#EPODONIOS
 
-# Ping: 264ms
+# Ping: 291ms
+vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgOERFNzRDIiwiYWRkIjoiNDcuODYuMTA3LjExOSIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJsY3Y4djlsN095YW14eGZaLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+
+# Ping: 299ms
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
 
-# Ping: 295ms
-vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgNUQzNkJEIiwiYWRkIjoiNDcuNzYuNDQuMzIiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI5M3Vjcm40aTBwZmZ1YWJrLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-
-# Ping: 331ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.141.124:50099#EPODONIOS
-
-# Ping: 379ms
+# Ping: 373ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 612ms
+# Ping: 394ms
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=/tyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#EPODONIOS
+
+# Ping: 500ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+
+# Ping: 945ms
 vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxODguMTE0Ljk2LjE5IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYWVkODhlNzktNTc2Mi00ZDJmLTg2ZmEtZjQzOGYzMmE3NjU0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCIsICJ2Y24iOiAiIiwgInBjcyI6ICIifQ==
 
-# Ping: 1152ms
-vless://00864d0f-3c82-419a-a65e-52534d023242@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+# Ping: 1122ms
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&type=ws&path=/vless-test&packetEncoding=xudp#🇨🇭178633 | ⚡️Telegram = t.me/SOSkeyNET
+
+# Ping: 1394ms
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#EPODONIOS
+
+# Ping: 1724ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.141.124:50099#🇹🇼TW-🚀@VPNine1
 
