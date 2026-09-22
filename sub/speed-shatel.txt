@@ -1,12 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-22T10:27:27Z
+# Generated: 2026-09-22T13:29:57Z
 # IP: 192.168.2.40
-# Total Working: 2
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 38.95 Mbps | Ping: 115ms
+# Speed: 36.63 Mbps | Ping: 112ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 21.91 Mbps | Ping: 379ms
+# Speed: 14.84 Mbps | Ping: 373ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 6.01 Mbps | Ping: 1122ms
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&type=ws&path=/vless-test&packetEncoding=xudp#🇨🇭178633 | ⚡️Telegram = t.me/SOSkeyNET
+
+# Speed: 4.80 Mbps | Ping: 247ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#EPODONIOS
 
