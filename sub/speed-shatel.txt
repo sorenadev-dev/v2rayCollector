@@ -1,51 +1,15 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-21T22:13:52Z
+# Generated: 2026-09-22T01:17:56Z
 # IP: 192.168.2.40
-# Total Working: 15
+# Total Working: 3
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 19.41 Mbps | Ping: 240ms
-vless://e139ca4f-33de-4342-8a26-2a06f47056af@66.33.22.239:54760?encryption=none&host=&path=/&security=none&type=ws#🇺🇸US-🚀@VPNine1
+# Speed: 20.78 Mbps | Ping: 115ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 11.17 Mbps | Ping: 625ms
+# Speed: 19.06 Mbps | Ping: 251ms
+vless://e139ca4f-33de-4342-8a26-2a06f47056af@66.33.22.239:54760?encryption=none&host=&path=/&security=none&type=ws#EPODONIOS
+
+# Speed: 11.19 Mbps | Ping: 709ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 8.90 Mbps | Ping: 287ms
-vmess://eyJhZGQiOiAiODkuMjIzLjk1Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAi8J+HrfCfh7AxNzg0MjkgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvU09Ta2V5TkVUIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-
-# Speed: 7.21 Mbps | Ping: 999ms
-vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#EPODONIOS
-
-# Speed: 6.81 Mbps | Ping: 97ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22224?encryption=none&security=none&type=tcp#🇫🇷178385 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 5.76 Mbps | Ping: 249ms
-vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDMuMTE2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICLwn4e68J+HuDE3ODQ1NiB8IOKaoe+4j1RlbGVncmFtID0gdC5tZS9TT1NrZXlORVQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
-
-# Speed: 5.69 Mbps | Ping: 209ms
-vmess://eyJhZGQiOiAiMTY3Ljg4LjYyLjEyNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-
-# Speed: 5.30 Mbps | Ping: 97ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.86.247:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
-
-# Speed: 4.59 Mbps | Ping: 211ms
-vmess://eyJhZGQiOiAiMTY3Ljg4LjYzLjU5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMtXHVkODNkXHVkZTgwQFZQTmluZTEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-
-# Speed: 3.82 Mbps | Ping: 96ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.86.247:22223?encryption=none&security=none&type=tcp#🇫🇷178297 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 3.70 Mbps | Ping: 245ms
-vmess://eyJhZGQiOiAiMTY3LjE3LjY4Ljg5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICLwn4e68J+HuDE3ODQ2NCB8IOKaoe+4j1RlbGVncmFtID0gdC5tZS9TT1NrZXlORVQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
-
-# Speed: 3.60 Mbps | Ping: 133ms
-vmess://eyJhZGQiOiAiODkuNDEuMTcyLjg1IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-# Speed: 2.91 Mbps | Ping: 241ms
-vmess://eyJhZGQiOiAiMjE2LjE1Mi4xNTIuMTg3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAi8J+HuvCfh7gxNzg0MzAgfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvU09Ta2V5TkVUIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-
-# Speed: 2.80 Mbps | Ping: 352ms
-vmess://eyJhZGQiOiAiODkuNDEuMTcyLjEwNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIvCfh67wn4e5MTc4NDE3IHwg4pqh77iPVGVsZWdyYW0gPSB0Lm1lL1NPU2tleU5FVCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-# Speed: 2.80 Mbps | Ping: 95ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.86.247:22224?encryption=none&security=none&type=tcp#@filembad
 
