@@ -1,43 +1,55 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-09-28T18:58:23Z
-# Total Working: 13
+# Generated: 2026-09-28T22:01:50Z
+# Total Working: 17
 #
-# Ping: 88ms
+# Ping: 99ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#%F0%9F%87%B8%F0%9F%87%AASE-51.20.143.248-2353
+
+# Ping: 106ms
+vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?encryption=none&security=tls&sni=stf94fd.rumedia-cdn.com&type=ws&host=stf94fd.rumedia-cdn.com&path=/cdn/v3/live#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729918
+
+# Ping: 107ms
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.26:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20down
 
-# Ping: 94ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.72.15:443#%F0%9F%87%B8%F0%9F%87%AASE-51.20.72.15-0559
-
-# Ping: 114ms
+# Ping: 122ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 147ms
+# Ping: 137ms
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@2.26.17.128:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20123ms
 
-# Ping: 154ms
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20125ms
+# Ping: 179ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#EPODONIOS
 
-# Ping: 237ms
-trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#EPODONIOS
+# Ping: 193ms
+vmess://eyJhZGQiOiIxNTguNTEuMTIxLjEyMyIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Im15Z3B0YWdlbnQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuYW1lIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgM0I0QzkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgM0I0QzkyIiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
 
-# Ping: 239ms
+# Ping: 230ms
 vless://a3054186-5e1d-4c95-a849-a79ee1e447b2@45.62.106.145:8443?&sni=45.62.106.145&type=ws&headerType=none&host=45.62.106.145&path=/vless-ws#EPODONIOS
 
-# Ping: 249ms
+# Ping: 239ms
+trojan://7647b321-4bfe-43f3-b21f-926c5de8f9b6@13.250.28.5:44370?security=reality&pbk=FPdrKezrFzBWzEf9X5xA95RxBZO5N9MKK3B53zy_mDY&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=c9672c5ded53a018#EPODONIOS
+
+# Ping: 243ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
 
-# Ping: 403ms
+# Ping: 264ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?type=tcp#EPODONIOS
+
+# Ping: 352ms
+vmess://eyJhZGQiOiIxNzIuNjQuMTU0LjEwMyIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvci41MjExNjYueHl6IiwiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb3IzIiwicG9ydCI6IjIwODMiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDE1NzA4NCIsInNjeSI6ImF1dG8iLCJzbmkiOiJvci41MjExNjYueHl6IiwidGxzIjoidGxzIiwidiI6IjIifQ==
+
+# Ping: 388ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 408ms
+# Ping: 392ms
 vless://cad417c2-e638-49b0-8281-dc6dacd43a79@172.67.187.186:2052?path=%2Fwss&security=none&encryption=none&host=mobilenexo.zandix.ir&type=httpupgrade#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20🇺🇸%20US%2017ms
 
-# Ping: 493ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Ping: 3623ms
+# Ping: 396ms
 vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?encryption=none&security=none&type=ws&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20126ms
 
-# Ping: 4341ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#EPODONIOS
+# Ping: 444ms
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&sni=la.freeguard.org#%F0%9F%87%B3%F0%9F%87%ACNG-103.97.91.17-0377
+
+# Ping: 504ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
 
