@@ -1,21 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-09-28T21:45:25Z
+# Generated: 2026-09-29T00:49:08Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 33.72 Mbps | Ping: 117ms
+# Speed: 39.62 Mbps | Ping: 89ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#EPODONIOS
+
+# Speed: 36.67 Mbps | Ping: 110ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 15.63 Mbps | Ping: 122ms
-vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?encryption=none&security=tls&sni=stf94fd.rumedia-cdn.com&type=ws&host=stf94fd.rumedia-cdn.com&path=/cdn/v3/live#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729918
+# Speed: 31.29 Mbps | Ping: 117ms
+vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?encryption=none&security=tls&sni=stf94fd.rumedia-cdn.com&type=ws&host=stf94fd.rumedia-cdn.com&path=/cdn/v3/live#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20769524
 
-# Speed: 13.00 Mbps | Ping: 99ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.72.15:443#%F0%9F%87%B8%F0%9F%87%AASE-51.20.72.15-0102
+# Speed: 31.26 Mbps | Ping: 105ms
+vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.27.12.108:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=stadb90.rumedia-cdn.com#EPODONIOS
 
-# Speed: 8.77 Mbps | Ping: 382ms
+# Speed: 20.16 Mbps | Ping: 246ms
+vless://a3054186-5e1d-4c95-a849-a79ee1e447b2@45.62.106.145:8443?&sni=45.62.106.145&type=ws&headerType=none&host=45.62.106.145&path=/vless-ws#EPODONIOS
+
+# Speed: 17.85 Mbps | Ping: 388ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 7.77 Mbps | Ping: 239ms
-vless://a3054186-5e1d-4c95-a849-a79ee1e447b2@45.62.106.145:8443?&sni=45.62.106.145&type=ws&headerType=none&host=45.62.106.145&path=/vless-ws#EPODONIOS
+# Speed: 13.17 Mbps | Ping: 89ms
+vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?encryption=none&security=none&type=ws&host=&path=/#EPODONIOS
 
