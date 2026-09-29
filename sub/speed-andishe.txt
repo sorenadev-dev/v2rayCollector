@@ -1,27 +1,30 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-09-29T01:06:19Z
+# Generated: 2026-09-29T07:15:11Z
 # IP: 192.168.2.45
-# Total Working: 7
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 40.52 Mbps | Ping: 94ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#EPODONIOS
-
-# Speed: 38.96 Mbps | Ping: 99ms
-vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.27.12.108:2096?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=stadb90.rumedia-cdn.com#EPODONIOS
-
-# Speed: 38.35 Mbps | Ping: 116ms
-vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?encryption=none&security=tls&sni=stf94fd.rumedia-cdn.com&type=ws&host=stf94fd.rumedia-cdn.com&path=/cdn/v3/live#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20769524
-
-# Speed: 32.50 Mbps | Ping: 119ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 25.76 Mbps | Ping: 2715ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#EPODONIOS
-
-# Speed: 18.61 Mbps | Ping: 586ms
+# Speed: 30.12 Mbps | Ping: 383ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 17.98 Mbps | Ping: 223ms
-vless://a3054186-5e1d-4c95-a849-a79ee1e447b2@45.62.106.145:8443?&sni=45.62.106.145&type=ws&headerType=none&host=45.62.106.145&path=/vless-ws#EPODONIOS
+# Speed: 26.05 Mbps | Ping: 112ms
+vless://11d826ce-d6e5-4154-8658-6829bb17dca2@2.26.125.147:2096?encryption=none&security=tls&sni=stf94fd.rumedia-cdn.com&type=ws&host=stf94fd.rumedia-cdn.com&path=/cdn/v3/live#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20859219
+
+# Speed: 23.78 Mbps | Ping: 119ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 19.63 Mbps | Ping: 108ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.72.15:443#EPODONIOS
+
+# Speed: 19.46 Mbps | Ping: 197ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#EPODONIOS
+
+# Speed: 13.90 Mbps | Ping: 179ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.234.217.115:443#%F0%9F%87%BA%F0%9F%87%B8US-54.234.217.115-0431
+
+# Speed: 8.44 Mbps | Ping: 110ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#EPODONIOS
+
+# Speed: 8.40 Mbps | Ping: 177ms
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5114
 
