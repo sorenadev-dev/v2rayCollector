@@ -1,37 +1,31 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-09-30T16:28:59Z
-# Total Working: 11
+# Generated: 2026-09-30T19:31:42Z
+# Total Working: 9
 #
-# Ping: 116ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Ping: 120ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#EPODONIOS
-
-# Ping: 175ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#EPODONIOS
-
-# Ping: 184ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
-
-# Ping: 190ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.90.169.61:443#EPODONIOS
-
-# Ping: 199ms
+# Ping: 98ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#EPODONIOS
 
-# Ping: 264ms
+# Ping: 114ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#EPODONIOS
+
+# Ping: 124ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Ping: 186ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
+
+# Ping: 246ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
 
-# Ping: 400ms
+# Ping: 263ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQkYyREM4IiwiYWRkIjoiMjMuMjM2LjY5LjM5IiwicG9ydCI6IjI0MTg3IiwidHlwZSI6Im5vbmUiLCJpZCI6IjEyYThlZTM2LTU5MzYtNDQ0OS05MGJkLWI1ZWFjNmRiNGMxZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+
+# Ping: 287ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.90.169.61:443#EPODONIOS
+
+# Ping: 392ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 457ms
+# Ping: 467ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Ping: 598ms
-trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20501725
-
-# Ping: 2921ms
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@143.246.208.113:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=cdn.v1.AssetService&allowInsecure=0&sni=assets-fr4.pleiades.codes#EPODONIOS
 
