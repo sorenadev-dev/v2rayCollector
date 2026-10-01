@@ -1,15 +1,30 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-01T13:49:54Z
+# Generated: 2026-10-01T16:52:39Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 23.37 Mbps | Ping: 98ms
+# Speed: 22.92 Mbps | Ping: 94ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#EPODONIOS
 
-# Speed: 9.31 Mbps | Ping: 171ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.90.169.61:443#EPODONIOS
+# Speed: 17.91 Mbps | Ping: 227ms
+ss://YWVzLTEyOC1nY206MGRkMTA3N2ZkZmFlOThlZmQ3NDJkOWI5N2U1ZGJiODc=@104.192.225.110:15442#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20729824
 
-# Speed: 7.18 Mbps | Ping: 106ms
+# Speed: 16.08 Mbps | Ping: 120ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 15.58 Mbps | Ping: 251ms
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.75:2053?encryption=none&security=tls&sni=wss.zazazuza.ru&type=ws&host=wss.zazazuza.ru&path=/vpn-wss/fluxor/59011/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20935441
+
+# Speed: 12.65 Mbps | Ping: 226ms
+ss://YWVzLTEyOC1nY206MGI2MDkxYmJlYTRkOGQwYWIwZTMyNzkwMmRjZDMyNDQ=@103.214.109.197:16444#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20499568
+
+# Speed: 10.47 Mbps | Ping: 388ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 5.09 Mbps | Ping: 159ms
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.246:8443?encryption=none&security=tls&sni=fdghyt.com&alpn=http/1.1&type=ws&host=fdghyt.com&path=/vpn-wss/fluxor/59011/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20949192
+
+# Speed: 2.83 Mbps | Ping: 173ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#EPODONIOS
 
