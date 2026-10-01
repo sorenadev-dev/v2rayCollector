@@ -1,27 +1,21 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-01T20:31:49Z
+# Generated: 2026-10-01T23:36:04Z
 # IP: 192.168.2.45
-# Total Working: 7
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 19.27 Mbps | Ping: 105ms
+# Speed: 22.08 Mbps | Ping: 95ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.86.152:443#EPODONIOS
+
+# Speed: 18.98 Mbps | Ping: 107ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 12.06 Mbps | Ping: 174ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#EPODONIOS
-
-# Speed: 9.64 Mbps | Ping: 636ms
-vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.75:2053?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#EPODONIOS
-
-# Speed: 9.40 Mbps | Ping: 94ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#EPODONIOS
-
-# Speed: 6.68 Mbps | Ping: 791ms
-vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.76:2053?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#EPODONIOS
-
-# Speed: 6.62 Mbps | Ping: 382ms
+# Speed: 17.26 Mbps | Ping: 385ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 5.30 Mbps | Ping: 178ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.90.169.61:443#EPODONIOS
+# Speed: 11.46 Mbps | Ping: 72ms
+vmess://eyJhZGQiOiAiMjA2LjEuOTkuMTYwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIk5pdHJvX1NreWJvdEAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjdUUi1cdWQ4M2RcdWRlODBAVlBOaW5lMSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+# Speed: 5.99 Mbps | Ping: 101ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#EPODONIOS
 
