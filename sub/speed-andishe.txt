@@ -1,15 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-03T03:10:45Z
+# Generated: 2026-10-03T06:15:16Z
 # IP: 192.168.2.45
-# Total Working: 3
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 27.35 Mbps | Ping: 118ms
+# Speed: 35.71 Mbps | Ping: 113ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 11.58 Mbps | Ping: 94ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#EPODONIOS
+# Speed: 19.62 Mbps | Ping: 490ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.122.188:443#%F0%9F%87%B8%F0%9F%87%AASE-51.20.122.188-0153
 
-# Speed: 4.51 Mbps | Ping: 395ms
+# Speed: 11.50 Mbps | Ping: 389ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 5.35 Mbps | Ping: 96ms
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.246:8443?encryption=none&security=tls&sni=fdghyt.com&alpn=http/1.1&type=ws&host=fdghyt.com&path=/vpn-wss/fluxor/59011/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20863833
 
