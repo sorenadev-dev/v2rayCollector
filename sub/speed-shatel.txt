@@ -1,21 +1,30 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-03T20:44:00Z
+# Generated: 2026-10-03T23:46:50Z
 # IP: 192.168.2.40
-# Total Working: 5
+# Total Working: 8
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 35.94 Mbps | Ping: 92ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#EPODONIOS
+# Speed: 24.77 Mbps | Ping: 91ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.86.152:443#EPODONIOS
 
-# Speed: 21.17 Mbps | Ping: 111ms
+# Speed: 13.66 Mbps | Ping: 110ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 14.74 Mbps | Ping: 381ms
+# Speed: 10.04 Mbps | Ping: 172ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@98.89.22.134:443#%F0%9F%87%BA%F0%9F%87%B8US-98.89.22.134-0392
+
+# Speed: 9.19 Mbps | Ping: 90ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.143.248:443#EPODONIOS
+
+# Speed: 9.16 Mbps | Ping: 589ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 5.86 Mbps | Ping: 697ms
-vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# Speed: 4.34 Mbps | Ping: 152ms
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.246:8443?encryption=none&host=fdghyt.com&path=/vpn-wss/fluxor/59011/&security=tls&sni=fdghyt.com&type=ws#EPODONIOS
 
-# Speed: 4.14 Mbps | Ping: 251ms
+# Speed: 3.52 Mbps | Ping: 246ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+
+# Speed: 2.88 Mbps | Ping: 268ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
 
