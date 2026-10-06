@@ -1,34 +1,28 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-10-06T12:47:07Z
-# Total Working: 10
+# Generated: 2026-10-06T15:49:50Z
+# Total Working: 8
 #
-# Ping: 91ms
+# Ping: 105ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.215.103:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.215.103-0687
 
-# Ping: 113ms
+# Ping: 119ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 121ms
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#EPODONIOS
-
-# Ping: 183ms
+# Ping: 185ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
 
-# Ping: 239ms
+# Ping: 259ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
 
-# Ping: 240ms
-vless://a5c988df-58e5-4b5c-bcb7-1e7d7e41f141@89.213.119.126:2086?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=www.tesla.com&type=ws#EPODONIOS
+# Ping: 342ms
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#EPODONIOS
 
-# Ping: 374ms
+# Ping: 355ms
+vless://58dc9d3c-2623-49dc-87dc-d587b2412eb7@38.135.54.24:2045?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+
+# Ping: 386ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 499ms
+# Ping: 1489ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Ping: 1358ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@23.22.158.187:443#EPODONIOS
-
-# Ping: 1361ms
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173#EPODONIOS
 
