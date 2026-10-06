@@ -1,24 +1,21 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-05T22:33:32Z
+# Generated: 2026-10-06T01:37:28Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 40.93 Mbps | Ping: 107ms
+# Speed: 42.22 Mbps | Ping: 112ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 34.86 Mbps | Ping: 140ms
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?encryption=none&security=tls&sni=fdghyt.com&type=ws&host=fdghyt.com&path=/vpn-wss/fluxor/59011/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20807577
+# Speed: 39.60 Mbps | Ping: 95ms
+vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 
-# Speed: 26.63 Mbps | Ping: 459ms
+# Speed: 33.51 Mbps | Ping: 589ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 4.72 Mbps | Ping: 114ms
-vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=&encryption=none&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#EPODONIOS
+# Speed: 9.14 Mbps | Ping: 142ms
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?encryption=none&security=tls&sni=fdghyt.com&type=ws&host=fdghyt.com&path=/vpn-wss/fluxor/59011/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20483866
 
-# Speed: 4.07 Mbps | Ping: 448ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Speed: 3.51 Mbps | Ping: 469ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+# Speed: 3.10 Mbps | Ping: 293ms
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:4443?allowInsecure=1&sni=grape-test-italy.dynuddns.net#EPODONIOS
 
