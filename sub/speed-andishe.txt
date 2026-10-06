@@ -1,21 +1,15 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-06T19:59:55Z
+# Generated: 2026-10-06T23:03:28Z
 # IP: 192.168.2.45
-# Total Working: 5
+# Total Working: 3
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 31.76 Mbps | Ping: 92ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.215.103:443#EPODONIOS
-
-# Speed: 16.64 Mbps | Ping: 880ms
-vless://6e4fa9d2-8f45-49ac-b168-18a59d5240ed@69.46.46.75:443?path=/ws/6e4fa9d2-8f45-49ac-b168-18a59d5240ed&security=tls&alpn=http/1.1&encryption=none&host=bvgl-production.up.railway.app&fp=chrome&type=ws&sni=bvgl-production.up.railway.app#EPODONIOS
-
-# Speed: 9.44 Mbps | Ping: 380ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 8.79 Mbps | Ping: 2459ms
+# Speed: 25.37 Mbps | Ping: 122ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 3.09 Mbps | Ping: 179ms
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#EPODONIOS
+# Speed: 16.08 Mbps | Ping: 192ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@23.22.158.187:443#%F0%9F%87%BA%F0%9F%87%B8US-23.22.158.187-0685
+
+# Speed: 8.54 Mbps | Ping: 582ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
