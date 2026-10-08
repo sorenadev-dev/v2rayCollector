@@ -1,24 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-08T08:45:58Z
+# Generated: 2026-10-08T11:49:33Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.63 Mbps | Ping: 83ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.177.230.112:443#%F0%9F%87%A9%F0%9F%87%AADE-63.177.230.112-0639
+# Speed: 39.33 Mbps | Ping: 87ms
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?type=ws&security=tls&allowInsecure=1&fp=random&path=%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20208ms
 
-# Speed: 33.09 Mbps | Ping: 4236ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.67.197.81:443#EPODONIOS
+# Speed: 17.90 Mbps | Ping: 171ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443#%F0%9F%87%BA%F0%9F%87%B8US-107.21.80.138-0793
 
-# Speed: 31.07 Mbps | Ping: 78ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AADE-18.196.88.40-2666
-
-# Speed: 26.97 Mbps | Ping: 388ms
+# Speed: 12.70 Mbps | Ping: 386ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 9.52 Mbps | Ping: 174ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#EPODONIOS
+# Speed: 12.16 Mbps | Ping: 81ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#%F0%9F%87%A9%F0%9F%87%AADE-18.196.88.40-2666
 
-# Speed: 6.87 Mbps | Ping: 263ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-5614
+# Speed: 10.71 Mbps | Ping: 151ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 10.09 Mbps | Ping: 79ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.177.230.112:443#%F0%9F%87%A9%F0%9F%87%AADE-63.177.230.112-0639
+
+# Speed: 2.87 Mbps | Ping: 251ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
 
