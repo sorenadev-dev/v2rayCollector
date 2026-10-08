@@ -1,42 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-08T04:27:50Z
+# Generated: 2026-10-08T07:30:59Z
 # IP: 192.168.2.40
-# Total Working: 12
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 26.22 Mbps | Ping: 96ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@51.124.237.47:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20639276
-
-# Speed: 21.64 Mbps | Ping: 94ms
-vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?type=ws&security=tls&allowInsecure=1&fp=random&path=%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20208ms
-
-# Speed: 16.87 Mbps | Ping: 114ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 12.95 Mbps | Ping: 797ms
-vless://ae1612f8-6e01-48d6-b4f7-502f233dfb33@177.3.218.181:2083?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=177.3.218.181#@tootffarangi🍓-11
-
-# Speed: 12.47 Mbps | Ping: 123ms
-vless://88aefb0c-cdbf-489f-9e6b-9be5b5fd5a11@13.143.172.203:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=13.143.172.203#@tootffarangi🍓-14
-
-# Speed: 12.45 Mbps | Ping: 559ms
-vless://ae1612f8-6e01-48d6-b4f7-502f233dfb33@177.3.218.181:8443?path=/ws-cdn1-vless&security=tls&encryption=none&insecure=0&host=fi.fastmirror-labs.xyz&fp=chrome&type=ws&allowInsecure=0&sni=177.3.218.181#@tootffarangi🍓-15
-
-# Speed: 11.79 Mbps | Ping: 186ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443#EPODONIOS
-
-# Speed: 10.07 Mbps | Ping: 393ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 9.59 Mbps | Ping: 87ms
+# Speed: 18.31 Mbps | Ping: 80ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#EPODONIOS
 
-# Speed: 7.25 Mbps | Ping: 186ms
+# Speed: 17.32 Mbps | Ping: 170ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.208.223.39:443#%F0%9F%87%BA%F0%9F%87%B8US-18.208.223.39-2673
 
-# Speed: 7.18 Mbps | Ping: 104ms
-vmess://eyJ2IjoiMiIsInBzIjoiRkkg8J+Hq/Cfh64gfCBAUmF5ZGlrYWx4IHwgQjcwOUY0IiwiYWRkIjoiNjUuMTA5LjE4Ni41NSIsInBvcnQiOiI4MDgwIiwiaWQiOiI5NThkZjdmYy02ODYxLTRjOTEtODUzMi01Njk1ZmY0YmQ2OWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0=
+# Speed: 11.11 Mbps | Ping: 395ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 3.18 Mbps | Ping: 181ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#EPODONIOS
+# Speed: 8.79 Mbps | Ping: 168ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@107.21.80.138:443#EPODONIOS
+
+# Speed: 8.70 Mbps | Ping: 79ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.177.230.112:443#EPODONIOS
 
