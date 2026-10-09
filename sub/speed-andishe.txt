@@ -1,24 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-09T06:13:41Z
+# Generated: 2026-10-09T09:17:27Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 33.30 Mbps | Ping: 1155ms
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=qq&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
-
-# Speed: 29.30 Mbps | Ping: 120ms
+# Speed: 32.86 Mbps | Ping: 137ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 24.21 Mbps | Ping: 172ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.208.223.39:443#EPODONIOS
-
-# Speed: 23.06 Mbps | Ping: 88ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#EPODONIOS
-
-# Speed: 22.33 Mbps | Ping: 390ms
+# Speed: 27.22 Mbps | Ping: 400ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 7.87 Mbps | Ping: 98ms
-vless://5770d87a-78ec-4241-9972-b8acc774f62d@195.26.26.172:1819?path=%2Fskskwvelzbavh&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sj.sls.diginoisb.ir&fp=chrome&ech=AGb%2BDQBiAAAgACCaRruo8hMq9fvMAKGhUHJhv7ip9pH45xFaOEvUX%2FnOIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABNzai5zbHMuZGlnaW5vaXNiLmlyAAA%3D&type=ws&allowInsecure=0&sni=sj.sls.diginoisb.ir#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
+# Speed: 22.09 Mbps | Ping: 131ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+
+# Speed: 20.11 Mbps | Ping: 191ms
+vless://88aefb0c-cdbf-489f-9e6b-9be5b5fd5a11@13.143.172.203:2083?sni=13.143.172.203&fp=chrome&security=tls#EPODONIOS
+
+# Speed: 18.33 Mbps | Ping: 78ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.231.76:443#%F0%9F%87%A9%F0%9F%87%AADE-3.75.231.76-0671
+
+# Speed: 14.89 Mbps | Ping: 127ms
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0373
+
+# Speed: 3.76 Mbps | Ping: 307ms
+vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=qq&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%206ms
 
