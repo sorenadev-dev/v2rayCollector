@@ -1,18 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-09T12:21:08Z
+# Generated: 2026-10-09T15:24:56Z
 # IP: 192.168.2.45
-# Total Working: 4
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 41.06 Mbps | Ping: 113ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 34.02 Mbps | Ping: 391ms
+# Speed: 28.15 Mbps | Ping: 83ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.231.76:443#%F0%9F%87%A9%F0%9F%87%AADE-3.75.231.76-0671
 
-# Speed: 20.42 Mbps | Ping: 190ms
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-4898
+# Speed: 28.01 Mbps | Ping: 81ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.196.88.40:443#EPODONIOS
 
-# Speed: 17.00 Mbps | Ping: 393ms
+# Speed: 19.73 Mbps | Ping: 106ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 11.80 Mbps | Ping: 598ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 7.10 Mbps | Ping: 3623ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.221.120.243:443#EPODONIOS
+
+# Speed: 5.50 Mbps | Ping: 193ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+
+# Speed: 4.09 Mbps | Ping: 151ms
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0373
 
