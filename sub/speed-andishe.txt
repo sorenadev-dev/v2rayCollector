@@ -1,18 +1,33 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-10T19:00:14Z
+# Generated: 2026-10-10T22:03:56Z
 # IP: 192.168.2.45
-# Total Working: 4
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 18.80 Mbps | Ping: 410ms
+# Speed: 35.21 Mbps | Ping: 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@52.157.100.252:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20879093
+
+# Speed: 26.19 Mbps | Ping: 125ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Speed: 17.45 Mbps | Ping: 400ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 18.79 Mbps | Ping: 123ms
+# Speed: 11.00 Mbps | Ping: 118ms
+vless://88aefb0c-cdbf-489f-9e6b-9be5b5fd5a11@13.143.172.203:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=13.143.172.203#EPODONIOS
+
+# Speed: 6.94 Mbps | Ping: 226ms
+vless://48b88ee0-938d-4fcb-951a-66070a3310f4@104.143.223.79:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#EPODONIOS
+
+# Speed: 6.71 Mbps | Ping: 132ms
+vless://533196d3-5d2e-4ff9-be81-cd6a79aca27a@45.88.12.155:2083?path=/vless-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=crt.molniya.sbs#EPODONIOS
+
+# Speed: 5.50 Mbps | Ping: 126ms
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
 
-# Speed: 10.25 Mbps | Ping: 244ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
+# Speed: 3.90 Mbps | Ping: 223ms
+vless://1e391858-428b-4051-988f-905ad0c3b451@45.88.12.152:2083?encryption=none&security=tls&sni=crt.molniya.sbs&fp=chrome&alpn=http/1.1&type=ws&path=/vless-ws#EPODONIOS
 
-# Speed: 6.31 Mbps | Ping: 264ms
+# Speed: 2.90 Mbps | Ping: 249ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
 
