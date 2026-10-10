@@ -1,15 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-10T17:29:24Z
+# Generated: 2026-10-10T20:32:44Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 39.73 Mbps | Ping: 96ms
-ss://YWVzLTEyOC1nY206dmxkb2xtbG16bXlwYzM2b2todW0=@51.158.26.27:15104#EPODONIOS
+# Speed: 23.20 Mbps | Ping: 109ms
+ss://YWVzLTEyOC1nY206dmxkb2xtbG16bXlwYzM2b2todW0=@51.158.26.27:15104#🇫🇷FR-🚀@VPNine1
 
-# Speed: 14.91 Mbps | Ping: 391ms
+# Speed: 14.23 Mbps | Ping: 704ms
+vless://88aefb0c-cdbf-489f-9e6b-9be5b5fd5a11@13.143.172.203:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=13.143.172.203#EPODONIOS
+
+# Speed: 9.04 Mbps | Ping: 413ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 3.97 Mbps | Ping: 243ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
+# Speed: 6.22 Mbps | Ping: 125ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
 
