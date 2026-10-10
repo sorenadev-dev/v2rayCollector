@@ -1,55 +1,46 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-10-10T15:56:37Z
-# Total Working: 17
+# Generated: 2026-10-10T19:00:14Z
+# Total Working: 14
 #
-# Ping: 105ms
-ss://YWVzLTEyOC1nY206dmxkb2xtbG16bXlwYzM2b2todW0=@51.158.26.27:15104#EPODONIOS
-
-# Ping: 115ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-
-# Ping: 122ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0117
-
-# Ping: 191ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
-
-# Ping: 208ms
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#EPODONIOS
-
-# Ping: 237ms
-vmess://eyJhZGQiOiAiMTczLjI0OS4xOTguMTExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJYRVhFVklMIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbD1AdXNlcl94ZXhldmlsIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
-
-# Ping: 243ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
-
-# Ping: 300ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
-
-# Ping: 319ms
-vmess://eyJhZGQiOiAiMTIwLjQ4LjEzMy4xNjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImZkZTEwZTM5LTQ4YmItNGRjZi1iM2JhLTcxZDcxMTMyM2E1NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTAwODYiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
-
-# Ping: 499ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Ping: 529ms
+# Ping: 97ms
 vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#EPODONIOS
 
-# Ping: 547ms
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.188:8080?encryption=none&security=none&type=tcp#🇬🇧191356 | ⚡️Telegram = t.me/SOSkeyNET
+# Ping: 113ms
+ss://YWVzLTEyOC1nY206dmxkb2xtbG16bXlwYzM2b2todW0=@51.158.26.27:15104#EPODONIOS
 
-# Ping: 554ms
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@104.21.84.30:2053?encryption=none&host=fr.api-music-fa.com&path=/api/voip/updates/static/fr2035&security=tls&sni=fr.api-music-fa.com&type=ws#🇨🇦191268 | ⚡️Telegram = t.me/SOSkeyNET
+# Ping: 120ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0117
 
-# Ping: 698ms
+# Ping: 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+
+# Ping: 123ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+
+# Ping: 193ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
+
+# Ping: 244ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
+
+# Ping: 264ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+
+# Ping: 330ms
+vmess://eyJhZGQiOiAiMTIwLjQ4LjEzMy4xNjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImZkZTEwZTM5LTQ4YmItNGRjZi1iM2JhLTcxZDcxMTMyM2E1NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTAwODYiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+
+# Ping: 378ms
+vless://ec553e40-bd11-44fc-91ba-284fe7264706@206.245.146.248:2085?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#EPODONIOS
+
+# Ping: 410ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 1270ms
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=/api/voip/updates/static/fr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=chrome&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#EPODONIOS
+# Ping: 452ms
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#EPODONIOS
 
-# Ping: 3121ms
-vless://8041b33d-511b-4b4d-86db-92f9c99964cd@206.1.101.178:8880?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
+# Ping: 460ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Ping: 3838ms
-vless://ec553e40-bd11-44fc-91ba-284fe7264706@206.245.146.248:2085?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#EPODONIOS
+# Ping: 1081ms
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.188:8080?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20111ms
 
