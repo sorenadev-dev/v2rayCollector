@@ -1,24 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-11T10:19:54Z
+# Generated: 2026-10-11T13:23:27Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 35.93 Mbps | Ping: 825ms
-vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["100", "16384"], "delays": ["1"], "maxSplit": "2"}}]}&insecure=0&host=brightlux.forum&fp=chrome&ech=crypto.cloudflare.com+udp://8.8.8.8:53&type=ws&allowInsecure=0&sni=brightlux.forum#EPODONIOS
+# Speed: 28.09 Mbps | Ping: 111ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0267
 
-# Speed: 20.65 Mbps | Ping: 183ms
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5225
-
-# Speed: 17.92 Mbps | Ping: 615ms
+# Speed: 7.94 Mbps | Ping: 385ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 3.91 Mbps | Ping: 346ms
-vmess://eyJhZGQiOiAiMTczLjI0OS4xOTguMTExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJYRVhFVklMIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbD1AdXNlcl94ZXhldmlsIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+# Speed: 7.06 Mbps | Ping: 318ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@20.71.90.237:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20754480
 
-# Speed: 3.30 Mbps | Ping: 257ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
-
-# Speed: 2.94 Mbps | Ping: 253ms
+# Speed: 2.97 Mbps | Ping: 247ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
 
