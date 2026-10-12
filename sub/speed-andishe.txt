@@ -1,21 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-12T04:43:01Z
+# Generated: 2026-10-12T07:47:12Z
 # IP: 192.168.2.45
-# Total Working: 5
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 14.81 Mbps | Ping: 248ms
-vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?path=/&security=none&encryption=none&type=ws#EPODONIOS
-
-# Speed: 14.11 Mbps | Ping: 316ms
+# Speed: 32.26 Mbps | Ping: 319ms
 vless://77702cd2-6a11-40f4-a817-1efeae6f6889@104.21.63.236:443?alpn=http%2F1.1&fp=chrome&host=t4sy714oeyu0ntwavv62g6ua9o.ade-1001.workers.dev&path=%2Fvl%2FNmf5YfPITFhUjeHE8KfDU5T8H%3Fed%3D2560&security=tls&sni=t4sy714oeyu0ntwavv62g6ua9o.ade-1001.workers.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%2020ms
 
-# Speed: 7.80 Mbps | Ping: 386ms
+# Speed: 16.02 Mbps | Ping: 156ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 3.26 Mbps | Ping: 142ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5422
+# Speed: 15.06 Mbps | Ping: 111ms
+vless://2968eb62-dd97-4c8f-fbca-d69388f1b572@199.232.239.239:443?path=/?ed=2056/؟/@v2ray_configs_pools&security=tls&alpn=h2&encryption=none&insecure=1&host=mr_anonoijji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#EPODONIOS
 
-# Speed: 3.22 Mbps | Ping: 120ms
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5427
+# Speed: 6.95 Mbps | Ping: 115ms
+vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=/api/v1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#EPODONIOS
+
+# Speed: 4.94 Mbps | Ping: 268ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+
+# Speed: 2.92 Mbps | Ping: 333ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.79-5495
 
