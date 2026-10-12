@@ -1,18 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-12T13:55:25Z
+# Generated: 2026-10-12T16:59:03Z
 # IP: 192.168.2.45
 # Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 14.26 Mbps | Ping: 395ms
+# Speed: 19.74 Mbps | Ping: 696ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 2.86 Mbps | Ping: 155ms
-vless://49ade50d-9cd6-81a9-db5d-8e4a7f56930b@51.75.118.165:20023?path=/ws/49ade50d-9cd6-81a9-db5d-8e4a7f56930b&security=&encryption=none&host=51.75.118.165&type=ws#EPODONIOS
-
-# Speed: 2.72 Mbps | Ping: 276ms
+# Speed: 4.49 Mbps | Ping: 280ms
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.105:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.105-5494
 
-# Speed: 2.69 Mbps | Ping: 1097ms
+# Speed: 4.35 Mbps | Ping: 278ms
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.141.221.124-5493
+
+# Speed: 3.78 Mbps | Ping: 175ms
+vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=/api/v1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#EPODONIOS
 
