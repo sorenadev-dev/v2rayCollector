@@ -1,46 +1,55 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-10-12T20:02:57Z
-# Total Working: 14
+# Generated: 2026-10-12T23:06:59Z
+# Total Working: 17
 #
-# Ping: 100ms
+# Ping: 94ms
 trojan://1111@172.67.214.154:2096/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#EPODONIOS
 
-# Ping: 101ms
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#EPODONIOS
+# Ping: 103ms
+vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome#EPODONIOS
 
 # Ping: 109ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#EPODONIOS
 
-# Ping: 140ms
+# Ping: 119ms
 vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=/alibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#EPODONIOS
 
-# Ping: 181ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
-
-# Ping: 183ms
+# Ping: 179ms
 vmess://eyJhZGQiOiI4OC4xOTguOTEuMTAwIiwiYWlkIjoiMCIsImlkIjoiN2UxZWIzMDctYzgwOS00ZTEzLTk2M2UtZDE3YjQ5ODA2NjgzIiwibmV0IjoiZ3JwYyIsInBvcnQiOiIzMDU2MSIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgRkFFMTgxIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-# Ping: 200ms
+# Ping: 183ms
+vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#EPODONIOS
+
+# Ping: 186ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
+
+# Ping: 199ms
 vless://14e227c3-5a83-4b4d-a41a-e5f499c79415@104.143.223.79:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#EPODONIOS
 
-# Ping: 252ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#EPODONIOS
+# Ping: 245ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
 
-# Ping: 260ms
+# Ping: 252ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
 
-# Ping: 278ms
+# Ping: 263ms
 vmess://eyJhZGQiOiAiMTIwLjQ4LjEzMy4xNjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImZkZTEwZTM5LTQ4YmItNGRjZi1iM2JhLTcxZDcxMTMyM2E1NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTAwODYiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
 
-# Ping: 280ms
-vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?path=/&security=none&encryption=none&type=ws#EPODONIOS
+# Ping: 271ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.141.221.124-5493
 
-# Ping: 450ms
-vmess://eyJhZGQiOiI2Ni4xNTQuMTEzLjE4MCIsImFpZCI6IjAiLCJob3N0IjoibXkubG92ZWhrLnh5eiIsImlkIjoiMWMzZmIxYzAtMTIwNC00OWRiLWI4NDItZjcyZDUwZjAxNGMxIiwibmV0Ijoid3MiLCJwYXRoIjoiL0t1YWxhTHVtcHVyMSIsInBvcnQiOiI0NDMiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEYwQjM0RSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoid3MiLCJ2IjoiMiJ9
+# Ping: 273ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.105:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.105-5494
 
-# Ping: 467ms
+# Ping: 301ms
+vless://0c67a72c-0aa3-4c7a-9237-dbf86890d372@104.24.228.77:443?security=tls&fp=random&sni=alala.gex214.dpdns.org&type=ws&headerType=&host=alala.gex214.dpdns.org&path=%2F%3Fed%3D2560#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%201ms
+
+# Ping: 459ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Ping: 594ms
+# Ping: 585ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Ping: 615ms
+vmess://eyJhZGQiOiAiNTEuMTMyLjM4LjEzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODU5Y2I1MmQtMGEyNi00YjJmLWE5YjEtMGViODMxMTVjOWQxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDc4MzIiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
 
