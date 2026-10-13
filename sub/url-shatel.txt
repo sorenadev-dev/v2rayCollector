@@ -1,46 +1,40 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-10-13T09:36:21Z
-# Total Working: 14
+# Generated: 2026-10-13T12:39:21Z
+# Total Working: 12
 #
-# Ping: 93ms
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#EPODONIOS
-
-# Ping: 94ms
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome#EPODONIOS
-
-# Ping: 95ms
+# Ping: 87ms
 trojan://1111@172.67.214.154:2096/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#EPODONIOS
 
-# Ping: 125ms
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#EPODONIOS
+# Ping: 97ms
+vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome#EPODONIOS
 
-# Ping: 177ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.99.191.16:443#%F0%9F%87%A8%F0%9F%87%A6CA-3.99.191.16-2661
+# Ping: 107ms
+vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#EPODONIOS
 
-# Ping: 182ms
+# Ping: 119ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0230
+
+# Ping: 173ms
+vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=/alibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#EPODONIOS
+
+# Ping: 186ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
 
-# Ping: 187ms
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#EPODONIOS
-
-# Ping: 271ms
+# Ping: 250ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
 
-# Ping: 276ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.11.240:443#EPODONIOS
+# Ping: 256ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
 
-# Ping: 281ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
-
-# Ping: 399ms
+# Ping: 416ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 496ms
+# Ping: 481ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.99.191.16:443#%F0%9F%87%A8%F0%9F%87%A6CA-3.99.191.16-2661
+
+# Ping: 2353ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Ping: 519ms
-vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=sweden.homyak.app#EPODONIOS
-
-# Ping: 1415ms
-ss://YWVzLTEyOC1nY206NGVmZTFhZjI3MmU3MjkyMTM5Yjg4OWY2YTYzZWUwNzE=@64.74.163.67:18764#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20537261
+# Ping: 3155ms
+ss://YWVzLTEyOC1nY206NGVmZTFhZjI3MmU3MjkyMTM5Yjg4OWY2YTYzZWUwNzE=@64.74.163.67:18764#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186984
 
