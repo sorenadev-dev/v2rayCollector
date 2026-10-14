@@ -1,46 +1,40 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-10-14T13:03:51Z
-# Total Working: 14
+# Generated: 2026-10-14T16:06:43Z
+# Total Working: 12
 #
-# Ping: 85ms
+# Ping: 86ms
+vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+
+# Ping: 87ms
 trojan://1111@172.67.214.154:2096/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#EPODONIOS
 
-# Ping: 99ms
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%203ms
+# Ping: 89ms
+vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?security=&encryption=none&headerType=&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20111ms
 
-# Ping: 100ms
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome#EPODONIOS
+# Ping: 116ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@46.225.46.136:2087?encryption=none&security=tls&sni=hoert1rert.localip.ir&alpn=http/1.1&type=ws&host=hoert1rert.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20815572
 
-# Ping: 106ms
+# Ping: 119ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 114ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#telegram%20%F0%9F%8D%8A%20dailyv2ry
-
-# Ping: 135ms
+# Ping: 163ms
 vless://2eb3f6a0-df6e-49b6-994c-177acdd50a97@138.124.96.88:41826?encryption=none&fp=chrome&path=/&security=tls&sni=sweden.homyak.app&type=httpupgrade#EPODONIOS
 
-# Ping: 148ms
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-4987
-
-# Ping: 188ms
+# Ping: 196ms
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
 
-# Ping: 244ms
-vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ik1YIPCfh7Lwn4e9IHwgQFJheWRpa2FseCB8IDhEODI5RiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+# Ping: 276ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.105:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.105-5026
 
-# Ping: 250ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+# Ping: 426ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Ping: 286ms
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.219:2087?encryption=none&security=tls&sni=ops5788tugfuy.localip.ir&alpn=http/1.1&type=ws&host=ops5788tugfuy.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20502216
-
-# Ping: 558ms
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?path=/hokm&security=tls&encryption=none&alpn=http/1.1&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20952504
-
-# Ping: 590ms
+# Ping: 605ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 614ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@40.113.154.234:443#EPODONIOS
+# Ping: 710ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.219:2087?encryption=none&security=tls&sni=ops5788tugfuy.localip.ir&alpn=http/1.1&type=ws&host=ops5788tugfuy.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20460909
+
+# Ping: 1988ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?path=/hokm&security=tls&encryption=none&alpn=http/1.1&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20296888
 
