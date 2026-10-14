@@ -1,24 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-14T05:45:58Z
+# Generated: 2026-10-14T08:49:43Z
 # IP: 192.168.2.45
 # Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 31.23 Mbps | Ping: 110ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+# Speed: 25.79 Mbps | Ping: 307ms
+vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=brightlux.forum&type=ws&allowInsecure=0&sni=brightlux.forum#EPODONIOS
 
-# Speed: 25.66 Mbps | Ping: 103ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@40.113.154.234:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20644019
-
-# Speed: 14.94 Mbps | Ping: 2159ms
-ss://YWVzLTEyOC1nY206NGVmZTFhZjI3MmU3MjkyMTM5Yjg4OWY2YTYzZWUwNzE=@64.74.163.67:18764#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20906577
-
-# Speed: 11.45 Mbps | Ping: 706ms
+# Speed: 19.85 Mbps | Ping: 577ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 4.82 Mbps | Ping: 86ms
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?path=/hokm&security=tls&encryption=none&alpn=http/1.1&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569962
+# Speed: 17.74 Mbps | Ping: 102ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@40.113.154.234:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20135346
 
-# Speed: 3.44 Mbps | Ping: 242ms
+# Speed: 13.35 Mbps | Ping: 129ms
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-4987
+
+# Speed: 4.44 Mbps | Ping: 94ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?path=/hokm&security=tls&encryption=none&alpn=http/1.1&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20952504
+
+# Speed: 3.62 Mbps | Ping: 256ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#EPODONIOS
 
