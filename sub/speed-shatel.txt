@@ -1,18 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-14T16:06:43Z
+# Generated: 2026-10-14T19:09:33Z
 # IP: 192.168.2.40
 # Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 16.68 Mbps | Ping: 196ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
-
-# Speed: 12.44 Mbps | Ping: 605ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 6.73 Mbps | Ping: 116ms
+# Speed: 23.42 Mbps | Ping: 119ms
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@46.225.46.136:2087?encryption=none&security=tls&sni=hoert1rert.localip.ir&alpn=http/1.1&type=ws&host=hoert1rert.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20815572
 
-# Speed: 4.59 Mbps | Ping: 1988ms
+# Speed: 12.77 Mbps | Ping: 582ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 4.67 Mbps | Ping: 101ms
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?path=/hokm&security=tls&encryption=none&alpn=http/1.1&insecure=0&host=fert6.localip.ir&type=ws&allowInsecure=0&sni=fert6.localip.ir#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20296888
+
+# Speed: 4.00 Mbps | Ping: 81ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.219:2087?encryption=none&security=tls&sni=ops5788tugfuy.localip.ir&alpn=http/1.1&type=ws&host=ops5788tugfuy.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20460909
 
