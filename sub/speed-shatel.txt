@@ -1,42 +1,36 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-15T01:15:25Z
+# Generated: 2026-10-15T04:18:26Z
 # IP: 192.168.2.40
-# Total Working: 12
+# Total Working: 10
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 26.02 Mbps | Ping: 87ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@40.113.154.234:443#EPODONIOS
-
-# Speed: 25.21 Mbps | Ping: 115ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Speed: 24.79 Mbps | Ping: 670ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Speed: 22.49 Mbps | Ping: 86ms
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@46.225.46.136:2087?encryption=none&security=tls&sni=hoert1rert.localip.ir&alpn=http/1.1&type=ws&host=hoert1rert.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211486
-
-# Speed: 21.61 Mbps | Ping: 81ms
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?encryption=none&security=tls&sni=fert6.localip.ir&alpn=http/1.1&type=ws&host=fert6.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20301034
-
-# Speed: 11.74 Mbps | Ping: 85ms
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.219:2087?encryption=none&security=tls&sni=ops5788tugfuy.localip.ir&alpn=http/1.1&type=ws&host=ops5788tugfuy.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20753441
-
-# Speed: 9.13 Mbps | Ping: 84ms
-vmess://eyJhZGQiOiAiMjA2LjEuMTAyLjY0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxODRhMDM5My01YzllLTQwM2MtOWJlNi00MjdiMDY2MzA4ZTEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
-
-# Speed: 7.48 Mbps | Ping: 199ms
+# Speed: 34.31 Mbps | Ping: 200ms
 vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=brightlux.forum&type=ws&allowInsecure=0&sni=brightlux.forum#EPODONIOS
 
-# Speed: 5.37 Mbps | Ping: 168ms
-vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?sni=185.253.116.33&type=ws&host=185.253.116.33&path=/vless#🇦🇪AE-🚀@VPNine1
+# Speed: 27.33 Mbps | Ping: 364ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 4.73 Mbps | Ping: 198ms
-vless://VPNSaint@3.20.126.177:10101?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+# Speed: 26.50 Mbps | Ping: 84ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.219:2087?encryption=none&security=tls&sni=ops5788tugfuy.localip.ir&alpn=http/1.1&type=ws&host=ops5788tugfuy.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20753441
 
-# Speed: 3.74 Mbps | Ping: 88ms
-vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?encryption=none&packetEncoding=xudp#EPODONIOS
+# Speed: 17.51 Mbps | Ping: 86ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@46.225.46.136:2087?encryption=none&security=tls&sni=hoert1rert.localip.ir&alpn=http/1.1&type=ws&host=hoert1rert.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211486
 
-# Speed: 2.95 Mbps | Ping: 250ms
+# Speed: 10.58 Mbps | Ping: 174ms
+vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?sni=185.253.116.33&type=ws&host=185.253.116.33&path=/vless#EPODONIOS
+
+# Speed: 9.96 Mbps | Ping: 124ms
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?&sni=5.178.109.174&type=ws&headerType=none&host=5.178.109.174&path=/vless#EPODONIOS
+
+# Speed: 8.98 Mbps | Ping: 235ms
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=/vless&security=&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#EPODONIOS
+
+# Speed: 7.03 Mbps | Ping: 82ms
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?encryption=none&security=tls&sni=fert6.localip.ir&alpn=http/1.1&type=ws&host=fert6.localip.ir&path=/hokm#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20301034
+
+# Speed: 5.45 Mbps | Ping: 246ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+
+# Speed: 3.34 Mbps | Ping: 89ms
+vless://3430793e-837c-47f2-8c8c-a3520d4217c2@2.28.232.213:2125?encryption=none&packetEncoding=xudp#EPODONIOS
 
