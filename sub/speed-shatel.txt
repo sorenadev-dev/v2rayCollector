@@ -1,30 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-15T22:35:48Z
+# Generated: 2026-10-16T01:38:53Z
 # IP: 192.168.2.40
-# Total Working: 8
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 35.27 Mbps | Ping: 114ms
+# Speed: 13.69 Mbps | Ping: 136ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 27.83 Mbps | Ping: 116ms
-vless://eaf76557-2219-4799-8171-d7020adfefd0@45.130.125.151:443?alpn=http/1.1&encryption=none&host=fancy-mouse-6aff.wixit71180.workers.dev&path=/ws&security=tls&sni=fancy-mouse-6aff.wixit71180.workers.dev&type=ws#🇸🇨194899 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 24.20 Mbps | Ping: 110ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080#@filembad
-
-# Speed: 18.86 Mbps | Ping: 177ms
+# Speed: 13.17 Mbps | Ping: 267ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 12.94 Mbps | Ping: 193ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.223.182.197:443#EPODONIOS
+# Speed: 5.75 Mbps | Ping: 211ms
+vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=brightlux.forum&type=ws&allowInsecure=0&sni=brightlux.forum#EPODONIOS
 
-# Speed: 6.11 Mbps | Ping: 217ms
+# Speed: 2.94 Mbps | Ping: 191ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.175.213.130:443#EPODONIOS
 
-# Speed: 4.56 Mbps | Ping: 171ms
-vless://e86a3662-9b31-4d59-bc80-9e8644749b95@91.196.163.140:14430?path=/vless&security=&encryption=none&host=91.196.163.140&type=ws&sni=91.196.163.140#EPODONIOS
-
-# Speed: 2.94 Mbps | Ping: 277ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
+# Speed: 2.88 Mbps | Ping: 265ms
+vmess://eyJhZGQiOiIzOC40NS42Ni4xODciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImFlNjY3MmRkLWZmMjAtNDUzZi1lZDk4LTQ3YTA3OGJkMGNiYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIyODgiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEFBOTQ5OSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
