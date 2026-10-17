@@ -1,15 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-17T20:19:28Z
+# Generated: 2026-10-17T23:22:43Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 33.52 Mbps | Ping: 170ms
+# Speed: 20.67 Mbps | Ping: 255ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 4.15 Mbps | Ping: 3569ms
-vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgMzVBRDc0IiwiYWRkIjoiMTgzLjEwOS4xMzEuNzUiLCJwb3J0IjoiMjAwODYiLCJpZCI6ImIyNmM0ODAzLTBiY2EtNDY3Yy1hMjQ1LWM5YTgwYmRkNzJlYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
+# Speed: 14.81 Mbps | Ping: 733ms
+vless://54d07019-9b98-41f4-8d7f-971cee378fe7@104.143.219.12:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#EPODONIOS
 
-# Speed: 3.89 Mbps | Ping: 263ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
+# Speed: 13.29 Mbps | Ping: 343ms
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNS4yMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImNzIjoiIiwiZGlhbG1vZGUiOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwY3MiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMTM3N0MzIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi5zZmFjZy51ayIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+# Speed: 5.30 Mbps | Ping: 548ms
+vless://5062e1a7-89aa-4bd0-be2a-4f4a88f6c325@45.88.12.168:2083?path=/vless-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=va.stream-room.com#EPODONIOS
+
+# Speed: 5.20 Mbps | Ping: 345ms
+vmess://eyJhZGQiOiAiMTU0LjY0LjIzOS4yMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI5ZmE3MzJkNi1kY2Q2LTQ3YmItYzI1NS0wOTRiYWQ3MTc2NWQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI2NDIxIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+# Speed: 4.21 Mbps | Ping: 291ms
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206anIrVDJSUzBzQ0hCbUM0dTZhWTZWZz09@172.86.108.79:30832#EPODONIOS
 
