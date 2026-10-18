@@ -1,64 +1,100 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-10-17T22:36:08Z
-# Total Working: 20
+# Generated: 2026-10-18T01:39:58Z
+# Total Working: 32
 #
-# Ping: 85ms
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#EPODONIOS
-
-# Ping: 91ms
+# Ping: 86ms
 trojan://1111@172.67.214.154:2096/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#EPODONIOS
 
-# Ping: 111ms
+# Ping: 92ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.104.48:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 92ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 95ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22223?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 97ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.69.30:8880?path=/&security=none&encryption=none&host=vms.lifetime06.workers.dev&type=ws#EPODONIOS
+
+# Ping: 98ms
+vless://5062e1a7-89aa-4bd0-be2a-4f4a88f6c325@45.88.12.168:2083?path=/vless-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=va.stream-room.com#EPODONIOS
+
+# Ping: 105ms
+vmess://eyJhZGQiOiIxNjguMTEzLjIxNS42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJubC0yYTk3MmM4MDUyLnNoYW1hbmFwcC5vbmxpbmUiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsIm5hbWUiOiJOTCDwn4ez8J+HsSB8IEBSYXlkaWthbHggfCAzOUIxQkEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3Mtd3MiLCJwb3J0IjoiMzM3MzYiLCJwcyI6Ik5MIPCfh7Pwn4exIHwgQFJheWRpa2FseCB8IDM5QjFCQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# Ping: 109ms
 vmess://eyJhZGQiOiAiMTcyLjY3LjEzNy4yMDkiLCAiYWlkIjogMCwgImhvc3QiOiAidWtsLmxvdmVoay54eXoiLCAiaWQiOiAiZjVmMGJhYmUtYWVhMi00ZjA3LWExZmMtM2M5ODIwMjUzZjQ5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9Mb25kb24zMSIsICJwb3J0IjogNDQzLCAicHMiOiAiRVBPRE9OSU9TIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInVrbC5sb3ZlaGsueHl6In0=
 
-# Ping: 114ms
-vless://e558719d-e09b-442c-a0c4-f9471fcc3075@51.75.118.149:20016?path=/alibodama-ws&security=&encryption=none&host=51.75.118.149&type=ws#EPODONIOS
+# Ping: 118ms
+vless://932b2343-2a3b-45c2-9699-7642a85abdc1@43.249.72.254:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=henzoo.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
 
-# Ping: 115ms
+# Ping: 119ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 129ms
+# Ping: 122ms
+vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@172.67.222.62:443?encryption=none&security=tls&sni=cf-vless-4cf55824.aimall.fr&fp=chrome&type=ws&host=cf-vless-4cf55824.aimall.fr&path=%2Fconnect#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20936473
+
+# Ping: 126ms
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#EPODONIOS
 
-# Ping: 163ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+# Ping: 127ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
 
-# Ping: 171ms
+# Ping: 133ms
+vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/#EPODONIOS
+
+# Ping: 160ms
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206anIrVDJSUzBzQ0hCbUM0dTZhWTZWZz09@172.86.108.79:30832#EPODONIOS
 
-# Ping: 178ms
+# Ping: 164ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Ping: 175ms
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 
-# Ping: 198ms
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#EPODONIOS
+# Ping: 175ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880?&type=ws&headerType=none&host=vms.lifetime07.workers.dev&path=/#EPODONIOS
 
-# Ping: 238ms
+# Ping: 215ms
 vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQzQwMjM1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-# Ping: 241ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxNTQuNjQuMjM5LjIyIiwgInBvcnQiOiAyNjQyMSwgImlkIjogIjlmYTczMmQ2LWRjZDYtNDdiYi1jMjU1LTA5NGJhZDcxNzY1ZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IENGMzJDNCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+# Ping: 242ms
+vmess://eyJhZGQiOiAiMTU0LjY0LjIzOS4yMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI5ZmE3MzJkNi1kY2Q2LTQ3YmItYzI1NS0wOTRiYWQ3MTc2NWQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI2NDIxIiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-# Ping: 248ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+# Ping: 246ms
+vmess://eyJhZGQiOiAiMzguNDUuNjYuMTg3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJhZTY2NzJkZC1mZjIwLTQ1M2YtZWQ5OC00N2EwNzhiZDBjYmMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjEyMjg4IiwgInBzIjogIkVQT0RPTklPUyIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
-# Ping: 249ms
+# Ping: 250ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#EPODONIOS
 
-# Ping: 265ms
-vmess://eyJhZGQiOiIzOC40NS42Ni4xODciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImFlNjY3MmRkLWZmMjAtNDUzZi1lZDk4LTQ3YTA3OGJkMGNiYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIyODgiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEFBOTQ5OSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+# Ping: 250ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
 
-# Ping: 306ms
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@83.168.91.16:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=framefeed&allowInsecure=0&sni=pl-exit-02.10media.top#EPODONIOS
-
-# Ping: 336ms
+# Ping: 341ms
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzNS4yMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImNzIjoiIiwiZGlhbG1vZGUiOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwY3MiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMTM3N0MzIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi5zZmFjZy51ayIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 
-# Ping: 383ms
+# Ping: 369ms
+vless://c19ecc7f-8312-4d9d-90c9-1a997d82d3c5@87.242.117.59:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=hls-vod.iJxGWWENB3HP4nTjN8IcrA.1790085537.2512.0x5000039ce83a2b8d.2ac8ad72028049619c2fb844a825a.ca.mp4.segment-20-v1-a1.ts&allowInsecure=0&sni=se1.my-cdn.org#EPODONIOS
+
+# Ping: 387ms
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5NS4xNDYiLCAiYWlkIjogMCwgImhvc3QiOiAiYXVzLmxvdmVoay54eXoiLCAiaWQiOiAiZjVmMGJhYmUtYWVhMi00ZjA3LWExZmMtM2M5ODIwMjUzZjQ5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9TeWRuZXkzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJFUE9ET05JT1MiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiYXVzLmxvdmVoay54eXoifQ==
+
+# Ping: 390ms
 vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5hbWUiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAyMkE4M0MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOjgwLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDIyQTgzQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-# Ping: 444ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+# Ping: 395ms
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzMC4yMzQiLCJhaWQiOjAsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwb3J0IjoiMjA4MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMjAxRjg4Iiwic25pIjoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-# Ping: 511ms
+# Ping: 428ms
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:2053?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#EPODONIOS
+
+# Ping: 438ms
+vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgMzVBRDc0IiwiYWRkIjoiMTgzLjEwOS4xMzEuNzUiLCJwb3J0IjoiMjAwODYiLCJpZCI6ImIyNmM0ODAzLTBiY2EtNDY3Yy1hMjQ1LWM5YTgwYmRkNzJlYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
+
+# Ping: 484ms
 vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMjUzQjEyIiwiYWRkIjoiMTA0LjE3LjEzNi4xOTgiLCJwb3J0IjoiNDQzIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInRscyI6InRscyIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJmcCI6ImNocm9tZSJ9
+
+# Ping: 689ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
