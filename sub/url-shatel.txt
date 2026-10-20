@@ -1,67 +1,70 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-10-20T06:17:57Z
-# Total Working: 21
+# Generated: 2026-10-20T09:21:47Z
+# Total Working: 22
 #
 # Ping: 88ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22223?encryption=none&security=none&type=tcp#@filembad
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22222?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 89ms
-vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#@filembad
+# Ping: 88ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22224?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 89ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22224?encryption=none&security=none&type=tcp#@filembad
+# Ping: 94ms
+trojan://1111@172.67.214.154:2096/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#EPODONIOS
 
-# Ping: 90ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs
+# Ping: 95ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 91ms
-trojan://1111@172.67.214.154:2096/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#[091448]
+# Ping: 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@4.210.68.244:443?#EPODONIOS
 
-# Ping: 93ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22223?encryption=none&security=none&type=tcp#@filembad
-
-# Ping: 105ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@4.210.68.244:443?#Channel%20%3A%20%40proxy_kafee
+# Ping: 109ms
+vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 
 # Ping: 115ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0115
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 118ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&security=none&type=tcp#(S103)🇨🇵t.me/PrivateVPNs
+# Ping: 125ms
+vless://2dfef691-a18b-4070-88ee-4161b18dfab9@51.75.118.75:20121?path=/bp-vless&security=none&encryption=none&type=ws#EPODONIOS
 
-# Ping: 121ms
-vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?security=none&encryption=none&path=%2F&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20118ms
+# Ping: 137ms
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5338
 
-# Ping: 160ms
-vless://2dfef691-a18b-4070-88ee-4161b18dfab9@51.75.118.75:20121?path=/bp-vless&security=none&encryption=none&type=ws#@tootffarangi🍓
-
-# Ping: 161ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNXdFNWhiQ2Mta09VcWJhWjNKYUFn@91.107.180.254:1080#🇩🇪197251 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Ping: 164ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&security=none&type=tcp#@Napsternetvirani
-
-# Ping: 166ms
+# Ping: 171ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 187ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-0083
+# Ping: 184ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
 
-# Ping: 247ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5M0Y2RkZCaDNDWmlCVXNH@102.133.227.3:443#🇿🇦197147 | ⚡️Telegram = t.me/SOSkeyNET
+# Ping: 192ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
+
+# Ping: 253ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5M0Y2RkZCaDNDWmlCVXNH@102.133.227.3:443#EPODONIOS
+
+# Ping: 272ms
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#EPODONIOS
 
 # Ping: 281ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.64.30:8880?path=/&security=&encryption=none&host=vms.lifetime36.workers.dev&type=ws#@Tarkshodeh 🇺🇲
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.141.221.124-5391
 
-# Ping: 351ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
+# Ping: 284ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.141.221.101:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.141.221.101-5448
 
-# Ping: 469ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0215
+# Ping: 356ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22222?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 1343ms
-vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgRjY1QjlEIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+# Ping: 492ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
 
-# Ping: 1397ms
-vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQzQwMjM1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# Ping: 602ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 627ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22223?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 667ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.105:8388#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.182.105-5394
+
+# Ping: 4657ms
+vmess://eyJhZGQiOiAiMTA0LjIxLjcuMTMzIiwgImFpZCI6IDAsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAiaWQiOiAiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cz9lZD0yMDQ4IiwgInBvcnQiOiA4MCwgInBzIjogIkVQT0RPTklPUyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 
