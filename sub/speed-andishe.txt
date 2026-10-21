@@ -1,12 +1,15 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-21T06:13:18Z
+# Generated: 2026-10-21T09:16:46Z
 # IP: 192.168.2.45
-# Total Working: 2
+# Total Working: 3
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 23.47 Mbps | Ping: 100ms
+# Speed: 33.65 Mbps | Ping: 105ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 10.82 Mbps | Ping: 173ms
+# Speed: 16.69 Mbps | Ping: 172ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 3.02 Mbps | Ping: 268ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#EPODONIOS
 
