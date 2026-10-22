@@ -1,58 +1,52 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-10-22T09:46:45Z
-# Total Working: 18
+# Generated: 2026-10-22T12:50:45Z
+# Total Working: 16
 #
+# Ping: 86ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22223?encryption=none&security=none&type=tcp#EPODONIOS
+
 # Ping: 88ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Ping: 89ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22223?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Ping: 93ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22222?encryption=none&security=none&type=tcp#EPODONIOS
-
-# Ping: 94ms
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.102:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de4.dedushka.top#EPODONIOS
-
-# Ping: 94ms
 trojan://1111@172.67.214.154:2096/?type=tcp&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#EPODONIOS
 
-# Ping: 99ms
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.44.216:18443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20609643
+# Ping: 89ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22222?encryption=none&security=none&type=tcp#EPODONIOS
 
-# Ping: 108ms
+# Ping: 90ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.181.220:22222?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 93ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.181.220:22224?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 94ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22224?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 96ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.181.220:22223?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Ping: 103ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Ping: 112ms
-vmess://eyJhZGQiOiAiNjUuMTA5LjIwOS4yMzkiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzVmNTlkNjgtNWEyNi00MGI4LWEwODYtMmY1MzFlMDY3MzdjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxNjkxMSIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+# Ping: 104ms
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.102:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de4.dedushka.top#EPODONIOS
 
-# Ping: 152ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
-
-# Ping: 178ms
+# Ping: 176ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 419ms
-vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.70.206:8443?path=/&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#EPODONIOS
+# Ping: 244ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@awlix_ir
 
-# Ping: 428ms
+# Ping: 429ms
 vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.71.206:8443?path=/&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#EPODONIOS
 
-# Ping: 943ms
-vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.73.206:8443?path=/&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#EPODONIOS
+# Ping: 620ms
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.49:443?security=tls&sni=de6.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856734
 
-# Ping: 1460ms
+# Ping: 949ms
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 
-# Ping: 3181ms
+# Ping: 2718ms
 vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIxMDQuMjEuNy4xMzMiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAicGF0aCI6ICIvd3M/ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjAiLCAidmNuIjogIiIsICJwY3MiOiAiIn0=
 
-# Ping: 3545ms
+# Ping: 4257ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Ping: 3881ms
-vmess://eyJhZGQiOiIxMDQuMTcuMTM2LjE5OCIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjQ0MywicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBCNDYxN0UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# Ping: 4395ms
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.49:443?security=tls&sni=de6.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509113
 
