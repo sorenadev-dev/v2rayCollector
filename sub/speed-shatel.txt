@@ -1,12 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-23T22:48:06Z
+# Generated: 2026-10-24T01:51:49Z
 # IP: 192.168.2.40
-# Total Working: 2
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 37.75 Mbps | Ping: 566ms
-vless://4c0ddde3-c7d1-4589-a0ac-f08a535516b0@69.46.46.91:443?encryption=none&security=tls&sni=marzbanupdate-production-306a.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=marzbanupdate-production-306a.up.railway.app&path=/cdn/c7fd66fb-a1cb-4d9d-b12a-3379555fdcee?ed=2560#EPODONIOS
+# Speed: 28.39 Mbps | Ping: 106ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#EPODONIOS
 
-# Speed: 34.41 Mbps | Ping: 274ms
+# Speed: 24.65 Mbps | Ping: 101ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-4800
+
+# Speed: 13.63 Mbps | Ping: 308ms
+vless://f1e7eafa-0d6f-441e-8565-29f34171aef2@23.160.56.99:2087?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+
+# Speed: 11.76 Mbps | Ping: 156ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 3.22 Mbps | Ping: 167ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
 
