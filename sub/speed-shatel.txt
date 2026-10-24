@@ -1,21 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-24T01:51:49Z
+# Generated: 2026-10-24T04:55:01Z
 # IP: 192.168.2.40
 # Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 28.39 Mbps | Ping: 106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#EPODONIOS
-
-# Speed: 24.65 Mbps | Ping: 101ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-4800
-
-# Speed: 13.63 Mbps | Ping: 308ms
-vless://f1e7eafa-0d6f-441e-8565-29f34171aef2@23.160.56.99:2087?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-
-# Speed: 11.76 Mbps | Ping: 156ms
+# Speed: 48.81 Mbps | Ping: 302ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 3.22 Mbps | Ping: 167ms
+# Speed: 38.58 Mbps | Ping: 96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#EPODONIOS
+
+# Speed: 25.12 Mbps | Ping: 110ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+
+# Speed: 4.10 Mbps | Ping: 87ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22224?encryption=none&security=none&type=tcp#EPODONIOS
+
+# Speed: 3.24 Mbps | Ping: 86ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22223?encryption=none&security=none&type=tcp#EPODONIOS
 
