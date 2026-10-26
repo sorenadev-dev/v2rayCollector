@@ -1,49 +1,64 @@
 # VPN Checker - URL Tested Configs (shatel)
-# Generated: 2026-10-26T11:52:25Z
-# Total Working: 15
+# Generated: 2026-10-26T14:55:34Z
+# Total Working: 20
 #
-# Ping: 101ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
-
-# Ping: 102ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
-
-# Ping: 104ms
+# Ping: 95ms
 trojan://etZzUmNNgX@2.26.11.111:26594/?type=tcp&security=none#EPODONIOS
 
-# Ping: 173ms
+# Ping: 104ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
+
+# Ping: 107ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
+
+# Ping: 123ms
+vless://f418674e-f518-4318-8ff9-e10000000046@172.67.131.125:2083?path=/sync&security=tls&encryption=none&insecure=0&host=smart-edge-424.arti98399-1905.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=smart-edge-424.arti98399-1905.workers.dev#EPODONIOS
+
+# Ping: 134ms
+vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImQ4ZjQ1YmJiLWU4NGQtNGFkNS1hYTYzLTk3MGYxMzQ1YjE2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTcwNzIiLCJwcyI6IlBMIPCfh7Xwn4exIHwgQFJheWRpa2FseCB8IDhFMzEyRiIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# Ping: 185ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Ping: 194ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#EPODONIOS
-
-# Ping: 249ms
-vmess://eyJhZGQiOiI0My4xMzAuMzUuNTMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjhlOTNiMDA5LWYxYWYtNDQ4YS1iOGVmLWIxMTA4NDlhMzVmMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODciLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEZENzdFQiIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-# Ping: 252ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#EPODONIOS
-
-# Ping: 327ms
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?security=tls&sni=tjtw.m2k699.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20132477
-
-# Ping: 383ms
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.254.50:22222?security=tls&encryption=none&headerType=&type=tcp&sni=th001.zestapp778.com#EPODONIOS
-
-# Ping: 435ms
-vless://825a76ef-053f-41eb-ba81-411e29494251@216.24.57.225:2087?allowInsecure=1&alpn=/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/NLSus--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/NLSus--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/NLSus--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1,http/1.1,h3&encryption=none&fp=chrome&host=busstop.zandix.ir&path=/wss&security=tls&sni=busstop.zandix.ir&type=ws#EPODONIOS
-
-# Ping: 468ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
-
-# Ping: 550ms
+# Ping: 186ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@87.236.166.100:56137#EPODONIOS
 
-# Ping: 1346ms
-vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?encryption=none&security=none&type=tcp#EPODONIOS
+# Ping: 214ms
+vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiYWlkIjowLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6NDQzLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDIxRkUxQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-# Ping: 3322ms
+# Ping: 230ms
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20797834
+
+# Ping: 232ms
+trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20836608
+
+# Ping: 254ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUUZNSXJqZnVDZ0VsZnBs@20.164.41.194:443#EPODONIOS
+
+# Ping: 258ms
+vmess://eyJhZGQiOiI0My4xMzAuMzUuNTMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjhlOTNiMDA5LWYxYWYtNDQ4YS1iOGVmLWIxMTA4NDlhMzVmMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODciLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEZENzdFQiIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# Ping: 262ms
+vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQzQwMjM1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# Ping: 332ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?security=tls&sni=tjtw.m2k699.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20132477
+
+# Ping: 408ms
 vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgRjY1QjlEIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-# Ping: 4395ms
-vmess://eyJhZGQiOiIxMDQuMTcuMTM2LjE5OCIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjQ0MywicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBCNDYxN0UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# Ping: 423ms
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#EPODONIOS
+
+# Ping: 482ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+
+# Ping: 487ms
+vless://825a76ef-053f-41eb-ba81-411e29494251@216.24.57.225:2087?allowInsecure=1&alpn=/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/NLSus--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/NLSus--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/NLSus--@VPNine1--@VPNine1/--@VPNine1--@VPNine1/--@VPNine1--@VPNine1,http/1.1,h3&encryption=none&fp=chrome&host=busstop.zandix.ir&path=/wss&security=tls&sni=busstop.zandix.ir&type=ws#EPODONIOS
+
+# Ping: 701ms
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNS4yMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImNzIjoiIiwiZGlhbG1vZGUiOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwY3MiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMTM3N0MzIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi5zZmFjZy51ayIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+# Ping: 768ms
+vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?encryption=none&security=none&type=tcp#EPODONIOS
 
