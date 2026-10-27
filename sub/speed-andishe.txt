@@ -1,123 +1,192 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-27T18:26:24Z
+# Generated: 2026-10-27T21:32:11Z
 # IP: 192.168.2.45
-# Total Working: 39
+# Total Working: 62
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 45.05 Mbps | Ping: 172ms
+# Speed: 40.49 Mbps | Ping: 247ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 22.88 Mbps | Ping: 104ms
+# Speed: 38.89 Mbps | Ping: 1825ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#EPODONIOS
+
+# Speed: 34.03 Mbps | Ping: 120ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#EPODONIOS
 
-# Speed: 19.99 Mbps | Ping: 4089ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#EPODONIOS
+# Speed: 28.96 Mbps | Ping: 96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#EPODONIOS
 
-# Speed: 16.62 Mbps | Ping: 123ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721039
+# Speed: 28.58 Mbps | Ping: 104ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#EPODONIOS
 
-# Speed: 16.28 Mbps | Ping: 696ms
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiaG9zdCI6IjIzLjE2Mi4yMDAuMTk4IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAwOTQwRjYiLCJzbmkiOiIyMy4xNjIuMjAwLjE5OCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+# Speed: 26.75 Mbps | Ping: 130ms
+vless://c136a12c-4260-48a7-a1e6-fbda83a11045@51.75.67.209:8443?encryption=none&host=free.sahanwickramasinghe.me&path=/&security=tls&sni=free.sahanwickramasinghe.me&type=ws#EPODONIOS
 
-# Speed: 15.28 Mbps | Ping: 106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#EPODONIOS
+# Speed: 26.32 Mbps | Ping: 111ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#EPODONIOS
 
-# Speed: 15.16 Mbps | Ping: 224ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#EPODONIOS
+# Speed: 23.67 Mbps | Ping: 112ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#EPODONIOS
 
-# Speed: 13.91 Mbps | Ping: 214ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#EPODONIOS
+# Speed: 23.47 Mbps | Ping: 249ms
+vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfpp0gQEZyZWVBdXRvQ29uZmlnIiwgImFkZCI6ICIzOC4xMTAuMS4yNDYiLCAicG9ydCI6IDE4MDAwLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6IG51bGwsICJob3N0IjogIiIsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAyQjk3Q0YiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9#@VPsave
 
-# Speed: 12.26 Mbps | Ping: 181ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#EPODONIOS
-
-# Speed: 10.97 Mbps | Ping: 136ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#EPODONIOS
-
-# Speed: 10.53 Mbps | Ping: 109ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#EPODONIOS
-
-# Speed: 10.33 Mbps | Ping: 283ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#EPODONIOS
-
-# Speed: 9.04 Mbps | Ping: 4193ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#EPODONIOS
-
-# Speed: 7.71 Mbps | Ping: 182ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&headerType=none&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com#EPODONIOS
-
-# Speed: 7.60 Mbps | Ping: 210ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#EPODONIOS
-
-# Speed: 7.41 Mbps | Ping: 323ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&headerType=none&type=tcp&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#EPODONIOS
-
-# Speed: 6.77 Mbps | Ping: 2477ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#EPODONIOS
-
-# Speed: 6.58 Mbps | Ping: 4878ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#EPODONIOS
-
-# Speed: 6.55 Mbps | Ping: 110ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0135
-
-# Speed: 6.38 Mbps | Ping: 1007ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#EPODONIOS
-
-# Speed: 6.23 Mbps | Ping: 232ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#EPODONIOS
-
-# Speed: 6.19 Mbps | Ping: 257ms
-vmess://eyJhZGQiOiAiMTI5LjE0Ni43Ny4yNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jY3R2MTMubTN1OCIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzk0OTUiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAidmNuIjogIiJ9
-
-# Speed: 6.15 Mbps | Ping: 156ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#EPODONIOS
-
-# Speed: 5.87 Mbps | Ping: 98ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#EPODONIOS
-
-# Speed: 5.25 Mbps | Ping: 116ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#EPODONIOS
-
-# Speed: 5.21 Mbps | Ping: 243ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#EPODONIOS
-
-# Speed: 5.09 Mbps | Ping: 3482ms
+# Speed: 23.46 Mbps | Ping: 107ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#EPODONIOS
 
-# Speed: 4.78 Mbps | Ping: 3470ms
+# Speed: 20.07 Mbps | Ping: 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#EPODONIOS
+
+# Speed: 19.07 Mbps | Ping: 91ms
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999#EPODONIOS
+
+# Speed: 19.03 Mbps | Ping: 251ms
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+# Speed: 19.01 Mbps | Ping: 120ms
+vmess://eyJhZGQiOiAiNTcuMTI5LjEzMi4yMjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
+
+# Speed: 18.94 Mbps | Ping: 106ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#EPODONIOS
+
+# Speed: 18.53 Mbps | Ping: 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#EPODONIOS
+
+# Speed: 18.17 Mbps | Ping: 429ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#EPODONIOS
+
+# Speed: 17.63 Mbps | Ping: 202ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&headerType=none&type=tcp&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#EPODONIOS
+
+# Speed: 17.42 Mbps | Ping: 192ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.54-0568
+
+# Speed: 17.37 Mbps | Ping: 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20800117
+
+# Speed: 16.63 Mbps | Ping: 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#EPODONIOS
+
+# Speed: 16.50 Mbps | Ping: 207ms
+vmess://eyJhZGQiOiIxMDQuMTcuMTM2LjE5OCIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOjQ0MywicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBCNDYxN0UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# Speed: 15.63 Mbps | Ping: 196ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#EPODONIOS
+
+# Speed: 15.36 Mbps | Ping: 184ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.42-0567
+
+# Speed: 15.16 Mbps | Ping: 112ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#EPODONIOS
+
+# Speed: 13.73 Mbps | Ping: 199ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.122.81-0570
+
+# Speed: 13.00 Mbps | Ping: 242ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#EPODONIOS
+
+# Speed: 12.89 Mbps | Ping: 228ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.155.176-0538
+
+# Speed: 12.56 Mbps | Ping: 502ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#EPODONIOS
 
-# Speed: 4.63 Mbps | Ping: 405ms
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725465
+# Speed: 12.49 Mbps | Ping: 253ms
+trojan://mMIywuxBtHHOAwAkkpwiCmBXIlKOysGv@209.38.66.47:6105?security=tls&sni=hotspot-unlimited.com#%F0%9F%87%BA%F0%9F%87%B8US-209.38.66.47-2436
 
-# Speed: 4.46 Mbps | Ping: 4433ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#EPODONIOS
+# Speed: 11.88 Mbps | Ping: 94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#EPODONIOS
 
-# Speed: 4.44 Mbps | Ping: 471ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#EPODONIOS
+# Speed: 11.84 Mbps | Ping: 337ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#EPODONIOS
 
-# Speed: 4.10 Mbps | Ping: 397ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#EPODONIOS
+# Speed: 11.63 Mbps | Ping: 273ms
+trojan://hRtaKtsQkpklmssQDbbWRCNawDGdJePw@24.199.106.240:9998?security=tls&sni=hotspot-unlimited.com#%F0%9F%87%BA%F0%9F%87%B8US-24.199.106.240-2433
 
-# Speed: 3.94 Mbps | Ping: 202ms
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@91.206.92.238:18443#EPODONIOS
+# Speed: 10.94 Mbps | Ping: 230ms
+trojan://WCwRcLxlKIeyXKHkppTmQIGXeRfIYYmE@45.32.135.70:9213?security=tls&sni=hotspot-unlimited.com#%F0%9F%87%BA%F0%9F%87%B8US-45.32.135.70-2430
 
-# Speed: 3.68 Mbps | Ping: 121ms
+# Speed: 10.56 Mbps | Ping: 185ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.81-2427
+
+# Speed: 9.56 Mbps | Ping: 161ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&headerType=none&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com#EPODONIOS
+
+# Speed: 9.26 Mbps | Ping: 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#EPODONIOS
+
+# Speed: 8.84 Mbps | Ping: 1746ms
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#EPODONIOS
+
+# Speed: 8.49 Mbps | Ping: 98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#EPODONIOS
+
+# Speed: 8.34 Mbps | Ping: 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#EPODONIOS
+
+# Speed: 8.09 Mbps | Ping: 906ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#EPODONIOS
+
+# Speed: 7.82 Mbps | Ping: 113ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721039
+
+# Speed: 7.74 Mbps | Ping: 247ms
+trojan://pftneFPgqpHQSUcCDhJqXuqrcHjptQhT@64.23.151.246:7801?security=tls&sni=hotspot-unlimited.com#%F0%9F%87%BA%F0%9F%87%B8US-64.23.151.246-2434
+
+# Speed: 6.93 Mbps | Ping: 217ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.132-2431
+
+# Speed: 6.92 Mbps | Ping: 1261ms
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMTg4MTFEIiwiYWRkIjoiMTI5LjE0Ni4xNDMuODAiLCJwb3J0IjoiNDgxMTEiLCJpZCI6ImQ0NjAzY2MyLWUwZWUtNDY1MS04M2Y1LTFkYjViNzE2ODE3NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
+
+# Speed: 6.61 Mbps | Ping: 103ms
 vless://16571fd5-5c8a-44ae-99fa-a354565e500b@45.65.112.23:2087?path=/ws-tls&security=tls&encryption=none&host=b5.dl-netprime.com&fp=chrome&type=ws&sni=b5.dl-netprime.com#EPODONIOS
 
-# Speed: 3.65 Mbps | Ping: 332ms
+# Speed: 5.99 Mbps | Ping: 102ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#EPODONIOS
+
+# Speed: 5.65 Mbps | Ping: 101ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#EPODONIOS
+
+# Speed: 5.26 Mbps | Ping: 104ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#EPODONIOS
+
+# Speed: 4.80 Mbps | Ping: 229ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.166-2435
+
+# Speed: 4.56 Mbps | Ping: 170ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#EPODONIOS
+
+# Speed: 4.56 Mbps | Ping: 357ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0563
+
+# Speed: 4.24 Mbps | Ping: 176ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#EPODONIOS
+
+# Speed: 4.00 Mbps | Ping: 341ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#EPODONIOS
 
-# Speed: 3.52 Mbps | Ping: 385ms
-vmess://eyJ2IjpudWxsLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IDlGM0JFNiIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIxMzIuMTQ1LjgwLjIzMCIsImFscG4iOm51bGwsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IDlGM0JFNiJ9
+# Speed: 3.84 Mbps | Ping: 104ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#EPODONIOS
 
-# Speed: 3.33 Mbps | Ping: 204ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#EPODONIOS
+# Speed: 3.72 Mbps | Ping: 343ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#EPODONIOS
 
-# Speed: 2.99 Mbps | Ping: 174ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@177.202.111.20:56137#%F0%9F%87%A9%F0%9F%87%AADE-177.202.111.20-1838
+# Speed: 3.35 Mbps | Ping: 652ms
+vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQzc5ODZBIiwiYWRkIjoiMTA0LjIxLjU3Ljg0IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiJ9
 
-# Speed: 2.71 Mbps | Ping: 181ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#EPODONIOS
+# Speed: 3.11 Mbps | Ping: 96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#EPODONIOS
+
+# Speed: 3.11 Mbps | Ping: 205ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#EPODONIOS
+
+# Speed: 3.03 Mbps | Ping: 188ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%87%BA%F0%9F%87%B8US-216.152.156.212-2432
+
+# Speed: 2.99 Mbps | Ping: 220ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?security=tls&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#%F0%9F%87%BA%F0%9F%87%B8US-66.163.114.114-0569
+
+# Speed: 2.85 Mbps | Ping: 390ms
+vless://3bcbd7ef-e05b-4745-a1de-5ecf98dd2fb6@216.24.57.225:2083?encryption=none&type=ws&security=tls&path=%2Fwss&host=pol.netvia.ir&sni=pol.netvia.ir&alpn=%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2FNLSus--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2FNLSus--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2FNLSus--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCAN%2F--%40GHOFLSHCAN--%40GHOFLSHCANh2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%201ms
 
