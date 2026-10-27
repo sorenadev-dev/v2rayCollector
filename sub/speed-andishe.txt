@@ -1,18 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-10-26T23:59:20Z
+# Generated: 2026-10-27T03:03:44Z
 # IP: 192.168.2.45
 # Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 21.25 Mbps | Ping: 130ms
-vless://75b517db-1f97-4bda-a479-863d988c31a0@64.188.83.188:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=chrome&alpn=http/1.1&type=ws&path=/vless-ws#EPODONIOS
-
-# Speed: 8.10 Mbps | Ping: 198ms
+# Speed: 42.77 Mbps | Ping: 160ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 6.39 Mbps | Ping: 127ms
+# Speed: 38.60 Mbps | Ping: 98ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#EPODONIOS
 
-# Speed: 2.90 Mbps | Ping: 107ms
+# Speed: 26.44 Mbps | Ping: 710ms
 vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+
+# Speed: 15.44 Mbps | Ping: 181ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#EPODONIOS
 
