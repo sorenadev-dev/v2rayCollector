@@ -1,204 +1,60 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-10-30T20:55:36Z
+# Generated: 2026-10-30T23:59:01Z
 # IP: 192.168.2.40
-# Total Working: 66
+# Total Working: 18
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 39.66 Mbps | Ping: 531ms
-vless://f27b6f65-6e59-4f89-b929-afa397ca587f@188.114.98.0:443?path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%22tlshello%22%2C+%22lengths%22%3A+%5B%220%22%2C+%22104%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%220%22%5D%2C+%22maxSplit%22%3A+%220%22%7D%7D%2C%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%22114%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%221%22%5D%2C+%22maxSplit%22%3A+%2211%22%7D%7D%5D%7D&insecure=0&host=n.bitpulse.me&fp=unsafe&type=ws&allowInsecure=0&sni=n.bitpulse.me#🆔soskeynet%20🔒%20VL-WS-N/A%20🇺🇸%20US%2010ms
-
-# Speed: 37.78 Mbps | Ping: 158ms
-vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMDNGRjNEIiwiYWRkIjoiMTcyLjY3LjIyMS43NyIsInBvcnQiOiI0NDMiLCJpZCI6IjgzYjA5YTY0LTFlYWYtNGM0ZC04OWVkLTg2NmQ0YjZiODExNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoid3d3LnVidW50dXVwZGF0ZXMuY29tIiwicGF0aCI6Ii90cnV0aCIsImhvc3QiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20ifQ==
-
-# Speed: 35.17 Mbps | Ping: 129ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0120
-
-# Speed: 34.79 Mbps | Ping: 4576ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.174-0183
-
-# Speed: 30.18 Mbps | Ping: 3210ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@FarazV2ray
-
-# Speed: 28.21 Mbps | Ping: 106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#@FarazV2ray
-
-# Speed: 26.09 Mbps | Ping: 301ms
-vmess://eyJ2IjpudWxsLCJwcyI6IktaIPCfh7Dwn4e/IHwgQFJheWRpa2FseCB8IDVCQTY5RCIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjM4LjEwNy4yMzQuNTciLCJhbHBuIjpudWxsLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiS1og8J+HsPCfh78gfCBAUmF5ZGlrYWx4IHwgNUJBNjlEIn0=
-
-# Speed: 24.62 Mbps | Ping: 92ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#Channel : @Daily_Configs
-
-# Speed: 22.53 Mbps | Ping: 569ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#@tootffarangi🍓
-
-# Speed: 21.76 Mbps | Ping: 92ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.iloverussia2026.com#@FarazV2ray
-
-# Speed: 20.77 Mbps | Ping: 4415ms
-vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6MCwiaG9zdCI6IjE2OS4xOTcuMTQyLjIyIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCBCNzlDMjgiLCJzbmkiOiIxNjkuMTk3LjE0Mi4yMiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-# Speed: 20.62 Mbps | Ping: 4580ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.174-0151
-
-# Speed: 19.56 Mbps | Ping: 169ms
+# Speed: 54.96 Mbps | Ping: 155ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 18.16 Mbps | Ping: 1185ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#@FarazV2ray
+# Speed: 41.25 Mbps | Ping: 131ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0120
 
-# Speed: 17.56 Mbps | Ping: 92ms
+# Speed: 30.86 Mbps | Ping: 240ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxQ25rSFNtZkdONDJVNzR2d0VqTEV6VUxpNVNienZ0Sw==@37.152.175.117:1043#🇮🇷IR-🚀@VPNine1
+
+# Speed: 27.85 Mbps | Ping: 206ms
+vmess://eyJ2IjoiMiIsInBzIjoiSVIg8J+HrvCfh7cgfCBAUmF5ZGlrYWx4IHwgQ0ZCRTQ3IiwiYWRkIjoiOTIuNDIuMjAzLjI0MCIsInBvcnQiOiIyMDUyIiwiaWQiOiI2YTlkNGMwYi05MzhhLTRiNTgtOTExZC1lM2NhNDVkMTdhYjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+
+# Speed: 18.95 Mbps | Ping: 89ms
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.iloverussia2026.com#11362@proxy_online_net
 
-# Speed: 17.22 Mbps | Ping: 228ms
-vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiODQuMTcuNDEuMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgRkMxNUNFIiwic25pIjoiODQuMTcuNDEuMiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-# Speed: 17.06 Mbps | Ping: 198ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#@i10VPN⁹
-
-# Speed: 16.63 Mbps | Ping: 116ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20226085
-
-# Speed: 16.08 Mbps | Ping: 1228ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7GB-94.156.250.148-0131
-
-# Speed: 15.82 Mbps | Ping: 101ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#Channel id: @ConfigV2RayNG 🇳🇱
-
-# Speed: 15.75 Mbps | Ping: 100ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#kurdconfig
-
-# Speed: 13.75 Mbps | Ping: 109ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️642🌐🆕
-
-# Speed: 13.71 Mbps | Ping: 3775ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#@V2raySaman
-
-# Speed: 13.67 Mbps | Ping: 173ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦203411 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 13.44 Mbps | Ping: 4160ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#@FarazV2ray
-
-# Speed: 13.41 Mbps | Ping: 249ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@irdusti(52)🇸🇬
-
-# Speed: 13.40 Mbps | Ping: 1244ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20292692
-
-# Speed: 13.21 Mbps | Ping: 298ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#@ConfigV2RayNG
-
-# Speed: 12.92 Mbps | Ping: 118ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.2-0179
-
-# Speed: 12.80 Mbps | Ping: 3346ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#@FarazV2ray
-
-# Speed: 12.41 Mbps | Ping: 264ms
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgMzJDNjVFIiwic25pIjoiMTQ5Ljg4LjIzLjIwMiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-# Speed: 12.17 Mbps | Ping: 701ms
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.200.165-0173
-
-# Speed: 11.84 Mbps | Ping: 3718ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#@vpnbaz🍂
-
-# Speed: 11.83 Mbps | Ping: 227ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.43.159:8080#🇺🇸203400 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 11.05 Mbps | Ping: 178ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#@VPsave
-
-# Speed: 10.74 Mbps | Ping: 107ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#@FarazV2ray
-
-# Speed: 10.67 Mbps | Ping: 93ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#@ConfigV2RayNG
-
-# Speed: 10.38 Mbps | Ping: 216ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#@Tarkshodeh 🇧🇲
-
-# Speed: 9.99 Mbps | Ping: 206ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-
-# Speed: 9.93 Mbps | Ping: 105ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.34-0135
-
-# Speed: 9.78 Mbps | Ping: 237ms
-vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMTg4MTFEIiwiYWRkIjoiMTI5LjE0Ni4xNDMuODAiLCJwb3J0IjoiNDgxMTEiLCJpZCI6ImQ0NjAzY2MyLWUwZWUtNDY1MS04M2Y1LTFkYjViNzE2ODE3NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiJodHRwLzEuMSJ9
-
-# Speed: 9.60 Mbps | Ping: 96ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@Rayan_Config-82.38.31.187-@beepassvpn_bot
-
-# Speed: 9.59 Mbps | Ping: 4435ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#@FarazV2ray
-
-# Speed: 9.33 Mbps | Ping: 3311ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#@FarazV2ray
-
-# Speed: 9.06 Mbps | Ping: 104ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#@filembad
-
-# Speed: 8.67 Mbps | Ping: 106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#@FarazV2ray
-
-# Speed: 8.30 Mbps | Ping: 94ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#@FarazV2ray
-
-# Speed: 8.30 Mbps | Ping: 4877ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0188
-
-# Speed: 7.80 Mbps | Ping: 184ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&headerType=none&type=tcp&sni=api.nextjobopportunityandclaimyouridealrole.com#🇺🇸203493 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 7.19 Mbps | Ping: 225ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#@ConfigV2RayNG
-
-# Speed: 7.03 Mbps | Ping: 102ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#@ConfigV2RayNG
-
-# Speed: 6.44 Mbps | Ping: 205ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0165
-
-# Speed: 6.34 Mbps | Ping: 101ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#@ICV2RAY
-
-# Speed: 6.09 Mbps | Ping: 239ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.unlockyourfuturefindyourperfectcareer.com#Channel id: @ConfigV2RayNG 🇺🇸
-
-# Speed: 5.79 Mbps | Ping: 247ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#@V2ray_confiig
-
-# Speed: 5.62 Mbps | Ping: 191ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#@tootffarangi🍓
-
-# Speed: 5.17 Mbps | Ping: 233ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com#@V2raySaman
-
-# Speed: 5.12 Mbps | Ping: 175ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#@ConfigV2RayNG
-
-# Speed: 4.81 Mbps | Ping: 191ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇨🇦203510 | ⚡️Telegram = t.me/SOSkeyNET
-
-# Speed: 4.39 Mbps | Ping: 210ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0159
-
-# Speed: 3.91 Mbps | Ping: 829ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#@filembad
-
-# Speed: 3.39 Mbps | Ping: 228ms
+# Speed: 15.63 Mbps | Ping: 239ms
 trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#@Nexus_Panell چنل تلگرام
 
-# Speed: 3.14 Mbps | Ping: 192ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#@VPsave
+# Speed: 13.66 Mbps | Ping: 182ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#@ConfigV2RayNG
 
-# Speed: 2.91 Mbps | Ping: 193ms
+# Speed: 11.94 Mbps | Ping: 233ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.43.159:8080#🇺🇸203400 | ⚡️Telegram = t.me/SOSkeyNET
+
+# Speed: 11.48 Mbps | Ping: 232ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#🤖100@ConfigV2RayNG
+
+# Speed: 10.18 Mbps | Ping: 246ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0125
+
+# Speed: 9.86 Mbps | Ping: 194ms
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸203413 | ⚡️Telegram = t.me/SOSkeyNET
 
-# Speed: 2.90 Mbps | Ping: 2371ms
-vmess://eyJhZGQiOiI2Ny4yMjAuODUuNDYiLCJhaWQiOjAsImhvc3QiOiI2Ny4yMjAuODUuNDYiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDQ2NzQxQyIsInNuaSI6IjY3LjIyMC44NS40NiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+# Speed: 9.01 Mbps | Ping: 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#@ConfigV2RayNG
 
-# Speed: 2.85 Mbps | Ping: 497ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#@FarazV2ray
+# Speed: 8.92 Mbps | Ping: 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#@FarazV2ray
+
+# Speed: 8.44 Mbps | Ping: 174ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#@VPsave
+
+# Speed: 8.07 Mbps | Ping: 200ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#@tootffarangi🍓
+
+# Speed: 6.99 Mbps | Ping: 172ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0167
+
+# Speed: 6.62 Mbps | Ping: 3505ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.200.165-0173
+
+# Speed: 4.29 Mbps | Ping: 196ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#@i10VPN⁹
 
