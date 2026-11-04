@@ -1,15 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-11-04T19:09:44Z
+# Generated: 2026-11-04T22:16:21Z
 # IP: 192.168.2.40
-# Total Working: 3
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 38.66 Mbps | Ping: 257ms
+# Speed: 47.94 Mbps | Ping: 152ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 11.01 Mbps | Ping: 239ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#🔰 @ConfigV2RayNG (تلگرام) - 145
+# Speed: 36.85 Mbps | Ping: 587ms
+vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28452/?type=ws&encryption=none&flow=&path=/lovelive&security=tls&sni=pl.sparxiecn.com&alpn=h2,http/1.1&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
 
-# Speed: 7.03 Mbps | Ping: 785ms
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#🇭🇰04 | ⚡Telegram = t.me/ex_proxies
+# Speed: 18.53 Mbps | Ping: 306ms
+ss://YWVzLTEyOC1nY206OTQ5YjIzNDg3NThlM2ZkMWVjNGE0ZjA1ODgyNzYyYjA=@38.54.64.62:17161#🇿🇦ZA-🚀@VPNine1
+
+# Speed: 7.93 Mbps | Ping: 114ms
+vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28448/?type=ws&encryption=none&flow=&path=/lovelive&security=tls&sni=pl.sparxiecn.com&alpn=h2,http/1.1&fp=chrome#تو کانال نتورلد نباشید قطع میشن@networld_vpn
+
+# Speed: 5.17 Mbps | Ping: 92ms
+vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@91.107.243.131:465?encryption=none&security=tls&sni=hw14.roghanmo.com&type=ws&host=hw14.roghanmo.com&path=/#🇩🇪03 | ⚡Telegram = t.me/ex_proxies
+
+# Speed: 2.81 Mbps | Ping: 256ms
+ss://YWVzLTEyOC1nY206YzU4OTM4YmJmNTQxMGY5OTZiMTM5ODMyNjRmYjIyMjk=@38.54.59.78:16676#🇪🇬EG-🚀@VPNine1
 
