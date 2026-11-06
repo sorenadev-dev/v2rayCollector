@@ -1,24 +1,45 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-11-06T20:35:19Z
+# Generated: 2026-11-06T23:38:56Z
 # IP: 192.168.2.40
-# Total Working: 6
+# Total Working: 13
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 14.78 Mbps | Ping: 275ms
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7457
+# Speed: 27.16 Mbps | Ping: 102ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?fp=chrome&sni=yourultimateprofessionalcareerhub.com#@FXxNET⚡️
 
-# Speed: 12.84 Mbps | Ping: 217ms
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7455
+# Speed: 20.60 Mbps | Ping: 125ms
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5286
 
-# Speed: 9.09 Mbps | Ping: 230ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com#12028@proxy_online_net
-
-# Speed: 9.09 Mbps | Ping: 230ms
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7454
-
-# Speed: 5.50 Mbps | Ping: 260ms
+# Speed: 20.60 Mbps | Ping: 134ms
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7456
 
-# Speed: 5.32 Mbps | Ping: 194ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0164
+# Speed: 20.55 Mbps | Ping: 136ms
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7455
+
+# Speed: 18.77 Mbps | Ping: 122ms
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7454
+
+# Speed: 14.17 Mbps | Ping: 161ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.40:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=cdn.discovergreatjobsandadvanceyourcareer.com#12028@proxy_online_net
+
+# Speed: 13.13 Mbps | Ping: 890ms
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?allowInsecure=1&alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=sync.v1&sni=a20uq2ozhd.j.cloudfront.hls.edgehls.net&type=grpc#🇷🇺RU-🚀@VPNine1
+
+# Speed: 11.34 Mbps | Ping: 129ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0208
+
+# Speed: 8.34 Mbps | Ping: 117ms
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7459
+
+# Speed: 7.28 Mbps | Ping: 122ms
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-7458
+
+# Speed: 6.60 Mbps | Ping: 183ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#12037@proxy_online_net
+
+# Speed: 5.18 Mbps | Ping: 287ms
+vmess://eyJ2IjpudWxsLCJwcyI6IkJSIPCfh6fwn4e3IHwgQFJheWRpa2FseCB8IDAyNDhERiIsImFkZCI6IjEwMy44OC4yMzIuNTUiLCJwb3J0IjoxMjcwLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjpudWxsLCJuYW1lIjoiQlIg8J+Hp/Cfh7cgfCBAUmF5ZGlrYWx4IHwgMDI0OERGIn0=
+
+# Speed: 3.26 Mbps | Ping: 248ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
