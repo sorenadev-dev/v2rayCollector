@@ -1,21 +1,27 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-05T22:19:53Z
+# Generated: 2026-11-06T01:24:57Z
 # IP: 192.168.2.45
-# Total Working: 5
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 42.09 Mbps | Ping: 103ms
+# Speed: 35.90 Mbps | Ping: 90ms
 vmess://eyJhZGQiOiIxODUuMTc3LjIyOS45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJERSDwn4ep8J+HqiB8IEBSYXlkaWthbHggfCBCOEU4NkEiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-# Speed: 28.21 Mbps | Ping: 179ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#🔰 @ConfigV2RayNG (تلگرام) - 145
+# Speed: 32.64 Mbps | Ping: 182ms
+vless://33751cb1-43ea-458c-8dc5-0b8993746bce@199.232.249.131:443?allowInsecure=1&encryption=none&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&path=/&security=tls&sni=community.fastly.steamstatic.com&type=ws#🇺🇸US-🚀@VPNine1
 
-# Speed: 20.34 Mbps | Ping: 281ms
+# Speed: 26.51 Mbps | Ping: 181ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#@FXxNET⚡️
+
+# Speed: 15.15 Mbps | Ping: 336ms
+trojan://i99Cef@45.32.57.242:27242?sni=download.windowsupdate.com&allowInsecure=1&type=tcp#🇯🇵04 | ⚡Telegram = t.me/ex_proxies
+
+# Speed: 12.63 Mbps | Ping: 254ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Speed: 11.44 Mbps | Ping: 280ms
 vmess://eyJ2IjpudWxsLCJwcyI6IkJSIPCfh6fwn4e3IHwgQFJheWRpa2FseCB8IDAyNDhERiIsImFkZCI6IjEwMy44OC4yMzIuNTUiLCJwb3J0IjoxMjcwLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsImZwIjpudWxsLCJuYW1lIjoiQlIg8J+Hp/Cfh7cgfCBAUmF5ZGlrYWx4IHwgMDI0OERGIn0=
 
-# Speed: 16.00 Mbps | Ping: 229ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸03 | ⚡Telegram = t.me/ex_proxies
-
-# Speed: 8.24 Mbps | Ping: 255ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+# Speed: 11.09 Mbps | Ping: 4374ms
+vmess://eyJhZGQiOiIxNTEuMjQxLjE5LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Ik5MIPCfh7Pwn4exIHwgQFJheWRpa2FseCB8IDRDODdGOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
