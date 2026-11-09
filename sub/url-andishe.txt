@@ -1,103 +1,94 @@
 # VPN Checker - URL Tested Configs (andishe)
-# Generated: 2026-11-09T15:37:31Z
-# Total Working: 33
+# Generated: 2026-11-09T18:42:15Z
+# Total Working: 30
 #
-# Ping: 122ms
-vmess://eyJhZGQiOiI1MS42OC4zNC43OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NDg1ZGRjZi01NjJiLTQ2MzgtYjkyZS01ZWFiZmU2MGFkODYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnAtdm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiMjAzMjciLCJwcyI6IkZSIPCfh6vwn4e3IHwgQFJheWRpa2FseCB8IEI4NDRBNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
-
-# Ping: 129ms
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0220
-
-# Ping: 130ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRWY4WDIxV0FMcUs3SDZOOEE3OGo1V1l0elo5OTlQUDhyRjhEYUxzYjVMTHlETFFwZjVkR1ZBamRBM21qMXd1ZGlnS1hUdDVoZVlVOWptYUJiZnhYQkpKQXFoUEhreGU=@194.87.233.93:46190#@filembad
-
-# Ping: 131ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0166
-
-# Ping: 145ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628#%F0%9F%87%A9%F0%9F%87%AADE-156.67.120.205-0474
-
-# Ping: 156ms
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5718
-
-# Ping: 161ms
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0222
-
-# Ping: 163ms
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🇮🇷02 | ⚡Telegram = t.me/ex_proxies
-
-# Ping: 163ms
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#🇮🇷03 | ⚡Telegram = t.me/ex_proxies
-
-# Ping: 176ms
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0218
-
-# Ping: 181ms
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0210
-
-# Ping: 182ms
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0217
-
-# Ping: 183ms
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0198
-
-# Ping: 183ms
-ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5713
-
-# Ping: 193ms
-vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#🇮🇷01 | ⚡Telegram = t.me/ex_proxies
-
-# Ping: 193ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchnationwidecareerchangehelperandguidancetoday.com#@ConfigV2RayNG
-
-# Ping: 194ms
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0221
-
-# Ping: 207ms
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5846
-
-# Ping: 230ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬09 | ⚡Telegram = t.me/ex_proxies
-
-# Ping: 246ms
-vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ik1YIPCfh7Lwn4e9IHwgQFJheWRpa2FseCB8IDhEODI5RiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-# Ping: 262ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbWJNc3REampCTnR4RmMw@20.164.217.73:443#12174@proxy_online_net
-
-# Ping: 269ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
-
-# Ping: 271ms
-vmess://eyJhZGQiOiIxMTYuODguMjI0LjIxNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZjRmMGViNS1mZTg2LTQxY2EtZWNjYi1hNmNhNjhmODhkOWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMzNzY4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-# Ping: 296ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZDRHOXhuN0FnVDg4bXNDWUM5TVpmYXZNVXFkM2RXRk5BdnN3aTZLZmFEOVljZXhwdE1iUG40Y1NFQ0VNekRndkFNb21BV0pIeXdlcUplcjk5c3NNVllHSDZUSzhrNGM=@216.172.144.199:40643#@VPsave
-
-# Ping: 308ms
-vless://33751cb1-43ea-458c-8dc5-0b8993746bce@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&insecure=1&allowInsecure=1#🆔v2ray_vpn_ir%20🔒%20VL-WS-N/A%20❔%20XX%2012ms
-
-# Ping: 316ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#%40V2ray_Alpha%F0%9F%AA%A9%2010
-
-# Ping: 384ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#12180@proxy_online_net
-
-# Ping: 405ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#@ConfigV2RayNG
-
-# Ping: 472ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0213
-
-# Ping: 507ms
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=firefox&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%209ms
-
-# Ping: 558ms
-vmess://eyJhZGQiOiI5NC4xODQuMTguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ1ZGM1MDg2LWYzMGQtNGIzNC1hYWM0LTYxMmMwNzQyNDNjOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ1ODAiLCJwcyI6IklSIPCfh67wn4e3IHwgQFJheWRpa2FseCB8IEM1NTc0NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-# Ping: 1126ms
+# Ping: 106ms
 trojan://5t6i121em5lkmsmk@45.77.54.204:51520?sni=45.77.54.204&allowInsecure=1&type=tcp&fp=chrome#🇩🇪04 | ⚡Telegram = t.me/ex_proxies
 
-# Ping: 3520ms
-ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080?#🇳🇱03 | ⚡Telegram = t.me/ex_proxies
+# Ping: 138ms
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5713
+
+# Ping: 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRWY4WDIxV0FMcUs3SDZOOEE3OGo1V1l0elo5OTlQUDhyRjhEYUxzYjVMTHlETFFwZjVkR1ZBamRBM21qMXd1ZGlnS1hUdDVoZVlVOWptYUJiZnhYQkpKQXFoUEhreGU=@194.87.233.93:46190#@filembad
+
+# Ping: 146ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628#%F0%9F%87%A9%F0%9F%87%AADE-156.67.120.205-0474
+
+# Ping: 166ms
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5718
+
+# Ping: 174ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0166
+
+# Ping: 181ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#%F0%9F%87%B3%F0%9F%87%B1NL-77.221.155.75-0475
+
+# Ping: 201ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
+
+# Ping: 207ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#@AZARBAYJAB1
+
+# Ping: 221ms
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0227
+
+# Ping: 222ms
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0210
+
+# Ping: 225ms
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0221
+
+# Ping: 228ms
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0198
+
+# Ping: 233ms
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#🇮🇷01 | ⚡Telegram = t.me/ex_proxies
+
+# Ping: 239ms
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0217
+
+# Ping: 243ms
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0218
+
+# Ping: 248ms
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🇮🇷02 | ⚡Telegram = t.me/ex_proxies
+
+# Ping: 249ms
+vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ik1YIPCfh7Lwn4e9IHwgQFJheWRpa2FseCB8IDhEODI5RiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+# Ping: 295ms
+vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#🇮🇷01 | ⚡Telegram = t.me/ex_proxies
+
+# Ping: 304ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbWJNc3REampCTnR4RmMw@20.164.217.73:443#12174@proxy_online_net
+
+# Ping: 313ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬09 | ⚡Telegram = t.me/ex_proxies
+
+# Ping: 318ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#12180@proxy_online_net
+
+# Ping: 321ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZDRHOXhuN0FnVDg4bXNDWUM5TVpmYXZNVXFkM2RXRk5BdnN3aTZLZmFEOVljZXhwdE1iUG40Y1NFQ0VNekRndkFNb21BV0pIeXdlcUplcjk5c3NNVllHSDZUSzhrNGM=@216.172.144.199:40643#@VPsave
+
+# Ping: 382ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#%40V2ray_Alpha%F0%9F%AA%A9%2010
+
+# Ping: 511ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0213
+
+# Ping: 959ms
+vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=firefox&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%209ms
+
+# Ping: 1029ms
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20086?security=tls&sni=hk.catxstar.com&type=tcp&fp=chrome&allowInsecure=0#@VPsave
+
+# Ping: 1230ms
+vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgOThGNURDIiwiYWRkIjoiMTYyLjE1OS4xMzAuMjM0IiwicG9ydCI6IjIwODMiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiY2RuLnNmYWNnLnVrIiwicGF0aCI6Ii9vcjMiLCJob3N0Ijoib3IzLnNmYWNnLnVrIn0=
+
+# Ping: 1855ms
+vmess://eyJhZGQiOiI5NC4xODQuMTguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ1ZGM1MDg2LWYzMGQtNGIzNC1hYWM0LTYxMmMwNzQyNDNjOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ1ODAiLCJwcyI6IklSIPCfh67wn4e3IHwgQFJheWRpa2FseCB8IEM1NTc0NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+# Ping: 3875ms
+vmess://eyJhZGQiOiIxMTYuODguMjI0LjIxNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZjRmMGViNS1mZTg2LTQxY2EtZWNjYi1hNmNhNjhmODhkOWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDMzNzY4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
