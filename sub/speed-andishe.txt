@@ -1,24 +1,33 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-09T06:22:07Z
+# Generated: 2026-11-09T09:26:59Z
 # IP: 192.168.2.45
-# Total Working: 6
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 18.08 Mbps | Ping: 153ms
-vless://ed2e4dd1-d19f-48dd-b613-3f855b1d0765@188.130.154.204:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#Telegram @mtmvpn
+# Speed: 21.71 Mbps | Ping: 227ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#12180@proxy_online_net
 
-# Speed: 11.61 Mbps | Ping: 97ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com#@ConfigV2RayNG
+# Speed: 19.72 Mbps | Ping: 119ms
+vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#🇮🇷01 | ⚡Telegram = t.me/ex_proxies
 
-# Speed: 8.94 Mbps | Ping: 249ms
+# Speed: 10.24 Mbps | Ping: 341ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#%40V2ray_Alpha%F0%9F%AA%A9%2010
+
+# Speed: 9.89 Mbps | Ping: 1507ms
 vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=firefox&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%209ms
 
-# Speed: 7.34 Mbps | Ping: 97ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#@AZARBAYJAB1
-
-# Speed: 4.86 Mbps | Ping: 248ms
+# Speed: 6.85 Mbps | Ping: 241ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_2613_@Surfboardv2ray
 
-# Speed: 4.43 Mbps | Ping: 168ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0270
+# Speed: 6.41 Mbps | Ping: 258ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com#@ConfigV2RayNG
+
+# Speed: 4.44 Mbps | Ping: 186ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#@AZARBAYJAB1
+
+# Speed: 3.22 Mbps | Ping: 187ms
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#@V2rayNGVPN > کانفیگ رایگان
+
+# Speed: 2.81 Mbps | Ping: 248ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬09 | ⚡Telegram = t.me/ex_proxies
 
