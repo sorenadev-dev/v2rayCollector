@@ -1,18 +1,33 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-10T19:25:25Z
+# Generated: 2026-11-10T22:30:03Z
 # IP: 192.168.2.45
-# Total Working: 4
+# Total Working: 9
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 29.40 Mbps | Ping: 112ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?fp=chrome&sni=api.iloverussia2026.com#🎍2@oneclickvpnkeys
+# Speed: 64.53 Mbps | Ping: 102ms
+vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#🇮🇷IR_396_@Surfboardv2ray
 
-# Speed: 27.51 Mbps | Ping: 188ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.245.215:443#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.245.215-3077
+# Speed: 31.40 Mbps | Ping: 118ms
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-7722
 
-# Speed: 22.49 Mbps | Ping: 142ms
+# Speed: 29.56 Mbps | Ping: 172ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.250.103:443#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.250.103-3076
+
+# Speed: 25.82 Mbps | Ping: 204ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.226.88.63:443#%F0%9F%87%BA%F0%9F%87%B8US-18.226.88.63-2603
+
+# Speed: 25.20 Mbps | Ping: 124ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-5492
+
+# Speed: 22.86 Mbps | Ping: 106ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-8707
 
-# Speed: 15.88 Mbps | Ping: 127ms
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-8198
+# Speed: 22.62 Mbps | Ping: 174ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.156.192.45:443#%F0%9F%87%A8%F0%9F%87%A6CA-15.156.192.45-0686
+
+# Speed: 8.72 Mbps | Ping: 4398ms
+vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDA4NiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgQjUzOTBFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# Speed: 3.30 Mbps | Ping: 244ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0263
 
