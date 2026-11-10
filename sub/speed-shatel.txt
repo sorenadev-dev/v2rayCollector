@@ -1,39 +1,27 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-11-10T11:06:29Z
+# Generated: 2026-11-10T14:12:38Z
 # IP: 192.168.2.40
-# Total Working: 11
+# Total Working: 7
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 38.14 Mbps | Ping: 385ms
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&fp=chrome&mode=multi&security=tls&serviceName=grpc&sni=edge-lt.lindenpixel.com&type=grpc#🇱🇹LT-🚀@VPNine1
+# Speed: 12.44 Mbps | Ping: 88ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&sni=api.iloverussia2026.com#@FXxNET⚡️
 
-# Speed: 30.60 Mbps | Ping: 151ms
+# Speed: 12.14 Mbps | Ping: 173ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.250.103:443#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.250.103-3076
+
+# Speed: 11.12 Mbps | Ping: 105ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044#@FXxNET⚡️
+
+# Speed: 11.06 Mbps | Ping: 467ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-5968
 
-# Speed: 23.10 Mbps | Ping: 177ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.245.215:443#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.245.215-3077
+# Speed: 7.90 Mbps | Ping: 356ms
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&fp=chrome&mode=multi&security=tls&serviceName=grpc&sni=edge-lt.lindenpixel.com&type=grpc#🇱🇹LT-🚀@VPNine1
 
-# Speed: 17.93 Mbps | Ping: 255ms
-vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiODQuMTcuNDEuMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgRkMxNUNFIiwic25pIjoiODQuMTcuNDEuMiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+# Speed: 6.29 Mbps | Ping: 199ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchnationwidecareerchangehelperandguidancetoday.com#@i10VPN¹⁰
 
-# Speed: 17.01 Mbps | Ping: 203ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&sni=blog.discovergreatjobsandadvanceyourcareer.com#🇪🇸07 | ⚡Telegram = t.me/ex_proxies
-
-# Speed: 12.76 Mbps | Ping: 239ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0263
-
-# Speed: 9.44 Mbps | Ping: 600ms
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.152:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=api.v1.FeedService&allowInsecure=0&sni=fetch.mediacorphub.org#🆔v2ray1_ng%20🔒%20VL-GRPC-N/A%20❔%20XX%2092ms
-
-# Speed: 9.20 Mbps | Ping: 1445ms
-vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.150:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=stats.v2.StreamService&allowInsecure=0&sni=images.mediacorphub.org#🆔v2ray1_ng%20🔒%20VL-GRPC-N/A%20❔%20XX%2093ms
-
-# Speed: 4.84 Mbps | Ping: 191ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#@AZARBAYJAB1
-
-# Speed: 4.17 Mbps | Ping: 131ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=yourultimateprofessionalcareerhub.com#@V2rayNGVPN > کانفیگ رایگان
-
-# Speed: 3.51 Mbps | Ping: 405ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0339
+# Speed: 3.93 Mbps | Ping: 319ms
+vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#🇮🇷IR_451_@Surfboardv2ray
 
