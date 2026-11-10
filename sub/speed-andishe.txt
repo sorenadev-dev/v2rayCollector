@@ -1,27 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-10T13:12:45Z
+# Generated: 2026-11-10T16:19:23Z
 # IP: 192.168.2.45
-# Total Working: 7
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 17.34 Mbps | Ping: 88ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&sni=api.iloverussia2026.com#@FXxNET⚡️
-
-# Speed: 12.25 Mbps | Ping: 271ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.245.215:443#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.245.215-3077
-
-# Speed: 10.04 Mbps | Ping: 135ms
+# Speed: 40.13 Mbps | Ping: 2825ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-5968
 
-# Speed: 9.15 Mbps | Ping: 173ms
+# Speed: 23.98 Mbps | Ping: 172ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.182.250.103:443#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.250.103-3076
 
-# Speed: 8.73 Mbps | Ping: 325ms
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&fp=chrome&mode=multi&security=tls&serviceName=grpc&sni=edge-lt.lindenpixel.com&type=grpc#🇱🇹LT-🚀@VPNine1
+# Speed: 22.32 Mbps | Ping: 106ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-8707
 
-# Speed: 5.00 Mbps | Ping: 882ms
-vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?security=tls&encryption=none&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#@V2rayNGVPN > کانفیگ رایگان
+# Speed: 8.36 Mbps | Ping: 255ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0263
 
-# Speed: 2.93 Mbps | Ping: 119ms
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#@AZARBAYJAB1
+# Speed: 3.15 Mbps | Ping: 273ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044#@FXxNET⚡️
+
+# Speed: 2.68 Mbps | Ping: 150ms
+vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#🇮🇷IR_451_@Surfboardv2ray
 
