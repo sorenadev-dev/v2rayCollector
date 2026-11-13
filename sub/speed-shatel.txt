@@ -1,33 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-11-13T15:26:22Z
+# Generated: 2026-11-13T18:32:55Z
 # IP: 192.168.2.40
-# Total Working: 9
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 32.82 Mbps | Ping: 114ms
-vless://55bf2ea7-4d16-42c2-a40e-51be2526e77a@185.42.214.39:23243?encryption=none&security=none&type=tcp#🇮🇷IR_1713_@Surfboardv2ray
+# Speed: 26.24 Mbps | Ping: 160ms
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#🇵🇱01 | ⚡Telegram = t.me/ex_proxies
 
-# Speed: 24.18 Mbps | Ping: 88ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.60.30.137:443#⚡01 | ⚡Telegram = t.me/ex_proxies
+# Speed: 15.21 Mbps | Ping: 274ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.156.192.45:443#🇨🇦06 | ⚡Telegram = t.me/ex_proxies
 
-# Speed: 22.65 Mbps | Ping: 215ms
-trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1&sni=#🇺🇸US-🚀@VPNine1
-
-# Speed: 19.15 Mbps | Ping: 469ms
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@157.254.38.210:20028?sni=hk.catxstar.com&allowInsecure=1#@tootffarangi🍓
-
-# Speed: 16.04 Mbps | Ping: 198ms
+# Speed: 11.25 Mbps | Ping: 805ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.117.92.138:443#⚡06 | ⚡Telegram = t.me/ex_proxies
 
-# Speed: 14.95 Mbps | Ping: 205ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.16.78.3:443#⚡07 | ⚡Telegram = t.me/ex_proxies
+# Speed: 10.73 Mbps | Ping: 182ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.50:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.nextjobopportunityandclaimyouridealrole.com#@VPsave
 
-# Speed: 8.88 Mbps | Ping: 236ms
-vmess://eyJhZGQiOiIxNzkuMjU0Ljk1LjU3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjgwNDMzNGUyLTA0Y2EtNDM0Yy04MzExLTNjY2VlODIxODE3NSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjYwMzIiLCJwcyI6Ik5MIPCfh7Pwn4exIHwgQFJheWRpa2FseCB8IENBNzEwMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+# Speed: 6.21 Mbps | Ping: 4727ms
+vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDA4NiIsInBzIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgQjUzOTBFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-# Speed: 7.02 Mbps | Ping: 290ms
+# Speed: 4.23 Mbps | Ping: 217ms
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#@AZARBAYJAB1
-
-# Speed: 6.08 Mbps | Ping: 4438ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#@VPsave
 
