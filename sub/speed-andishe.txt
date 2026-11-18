@@ -1,6 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-18T06:47:57Z
+# Generated: 2026-11-18T09:53:07Z
 # IP: 192.168.2.45
-# Total Working: 0
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
+# Speed: 34.12 Mbps | Ping: 309ms
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=/api/vless&security=tls&alpn=http&encryption=none&insecure=0&host=vpn-rating.space&fp=chrome&type=ws&allowInsecure=0&sni=daily-author.ru#12895@proxy_online_net
+
+# Speed: 18.43 Mbps | Ping: 124ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0134
+
+# Speed: 14.16 Mbps | Ping: 143ms
+vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+
+# Speed: 4.69 Mbps | Ping: 240ms
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@135.148.42.13:8388#🇺🇸 | تلگرام: @IRJetConfig #RK
+
