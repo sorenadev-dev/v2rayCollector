@@ -1,12 +1,18 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-11-18T19:05:55Z
+# Generated: 2026-11-18T22:13:00Z
 # IP: 192.168.2.40
-# Total Working: 2
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 22.13 Mbps | Ping: 103ms
+# Speed: 21.30 Mbps | Ping: 107ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0144
 
-# Speed: 5.63 Mbps | Ping: 434ms
+# Speed: 5.27 Mbps | Ping: 355ms
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNS4yMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImNzIjoiIiwiZGlhbG1vZGUiOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwY3MiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMTM3N0MzIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi5zZmFjZy51ayIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+
+# Speed: 5.22 Mbps | Ping: 453ms
+vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgOThGNURDIiwiYWRkIjoiMTYyLjE1OS4xMzAuMjM0IiwicG9ydCI6IjIwODMiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiY2RuLnNmYWNnLnVrIiwicGF0aCI6Ii9vcjMiLCJob3N0Ijoib3IzLnNmYWNnLnVrIn0=
+
+# Speed: 2.69 Mbps | Ping: 419ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0185
 
