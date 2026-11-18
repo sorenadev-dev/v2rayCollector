@@ -1,18 +1,24 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-11-17T21:30:04Z
+# Generated: 2026-11-18T00:34:21Z
 # IP: 192.168.2.40
-# Total Working: 4
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 25.63 Mbps | Ping: 112ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0163
+# Speed: 50.16 Mbps | Ping: 104ms
+vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 
-# Speed: 19.39 Mbps | Ping: 724ms
+# Speed: 23.94 Mbps | Ping: 163ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🇮🇷IR_3564_@Surfboardv2ray
+
+# Speed: 19.86 Mbps | Ping: 288ms
 vmess://eyJhZGQiOiIzOC4xMS42OS40OCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy44Mzc2MTgxNS54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE2OTg4NDM1NTU0MDAiLCJwb3J0IjoiMzAwMDQiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEI5NDM0MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-# Speed: 8.54 Mbps | Ping: 108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp+NEhULH1iQ0BoZWlSYWk=@67.159.56.79:8388#⚡01 | ⚡Telegram = t.me/ex_proxies
+# Speed: 9.57 Mbps | Ping: 113ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp+NEhULH1iQ0BoZWlSYWk=@67.159.56.79:8388#@V2rayNGVPN > کانفیگ رایگان
 
-# Speed: 7.99 Mbps | Ping: 456ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0223
+# Speed: 5.77 Mbps | Ping: 533ms
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&insecure=1&type=tcp&security=tls#🇰🇷KR-🚀@VPNine1
+
+# Speed: 3.68 Mbps | Ping: 107ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0134
 
