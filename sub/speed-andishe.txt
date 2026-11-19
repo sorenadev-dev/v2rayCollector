@@ -1,9 +1,15 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-19T11:39:23Z
+# Generated: 2026-11-19T14:44:55Z
 # IP: 192.168.2.45
-# Total Working: 1
+# Total Working: 3
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 21.19 Mbps | Ping: 109ms
+# Speed: 47.21 Mbps | Ping: 185ms
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@185.86.147.211:443/?type=ws&encryption=none&flow=&host=185.86.147.211&path=/assets/chunk/AFaAJmUwqcwd&security=tls&sni=185.86.147.211&allowInsecure=1&fp=chrome&packetEncoding=xudp#🇱🇹18@exclavevpn
+
+# Speed: 11.51 Mbps | Ping: 808ms
+vmess://eyJhZGQiOiIxNTEuMjQxLjE5LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Ik5MIPCfh7Pwn4exIHwgQFJheWRpa2FseCB8IDRDODdGOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# Speed: 10.05 Mbps | Ping: 107ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0133
 
