@@ -1,18 +1,21 @@
 # VPN Checker - Speed Tested Configs (shatel)
-# Generated: 2026-11-20T06:13:05Z
+# Generated: 2026-11-20T09:17:46Z
 # IP: 192.168.2.40
-# Total Working: 4
+# Total Working: 5
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.66 Mbps | Ping: 142ms
+# Speed: 32.40 Mbps | Ping: 214ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&type=tcp&sni=v3p.sabermusic.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇮🇷%20IR%20down
 
-# Speed: 13.82 Mbps | Ping: 116ms
+# Speed: 26.63 Mbps | Ping: 111ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0169
 
-# Speed: 11.48 Mbps | Ping: 1354ms
+# Speed: 11.60 Mbps | Ping: 3265ms
 vmess://eyJhZGQiOiIxNTEuMjQxLjE5LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Ik5MIPCfh7Pwn4exIHwgQFJheWRpa2FseCB8IDRDODdGOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-# Speed: 3.27 Mbps | Ping: 3560ms
+# Speed: 7.15 Mbps | Ping: 245ms
 vmess://ewogICAgImFkZCI6ICIxOTIuMjIwLjQ3Ljg1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkZTRlMDMzNS0yYTNiLTQwMDYtZDc0Ni1jOTM5ZmE4NWZkYzMiLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDQ0NDQxLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTkyLjIyMC40Ny44NS0xMTI1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+
+# Speed: 6.64 Mbps | Ping: 260ms
+vmess://eyJhZGQiOiI0My4yMjguMTI2LjE4NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZTVjNmViZi0zNWY5LTQ5YTMtOWYxMi1jYmEyYjdjZGJjY2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjQ3NjMwIiwicHMiOiJAbGV2aWNvbmZpZ3Pwn6qQLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 
