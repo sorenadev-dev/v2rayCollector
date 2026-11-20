@@ -1,12 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-20T12:23:01Z
+# Generated: 2026-11-20T18:32:59Z
 # IP: 192.168.2.45
-# Total Working: 2
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 33.75 Mbps | Ping: 144ms
+# Speed: 23.16 Mbps | Ping: 110ms
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0169
+
+# Speed: 18.87 Mbps | Ping: 164ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&security=tls&type=tcp&sni=v3p.sabermusic.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇮🇷%20IR%20down
 
-# Speed: 7.41 Mbps | Ping: 110ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0169
+# Speed: 12.96 Mbps | Ping: 449ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0235
+
+# Speed: 0.00 Mbps | Ping: 12ms
+trojan://DyxOlYWfEYVf@193.8.139.22:443?sni=sb24.ir&type=tcp#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🐷
 
