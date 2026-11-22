@@ -1,15 +1,18 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-22T04:30:10Z
+# Generated: 2026-11-22T07:35:28Z
 # IP: 192.168.2.45
-# Total Working: 3
+# Total Working: 4
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 44.44 Mbps | Ping: 171ms
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#⚡02 | ⚡Telegram = t.me/ex_proxies
-
-# Speed: 22.13 Mbps | Ping: 217ms
+# Speed: 27.15 Mbps | Ping: 183ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20down
 
-# Speed: 19.78 Mbps | Ping: 236ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#🇸🇬02 | ⚡Telegram = t.me/ex_proxies
+# Speed: 20.91 Mbps | Ping: 229ms
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#⚡02 | ⚡Telegram = t.me/ex_proxies
+
+# Speed: 18.89 Mbps | Ping: 239ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#@filembad
+
+# Speed: 3.72 Mbps | Ping: 138ms
+vless://020f7f86-a559-4366-8d2d-c6f81d6bbe5f@194.135.34.118:8443?path=/api/v4/media/session&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=web.hosttcp.fun#🇹🇷TR-🚀@VPNine1
 
