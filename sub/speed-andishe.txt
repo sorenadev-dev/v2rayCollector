@@ -1,18 +1,24 @@
 # VPN Checker - Speed Tested Configs (andishe)
-# Generated: 2026-11-21T22:19:25Z
+# Generated: 2026-11-22T01:25:34Z
 # IP: 192.168.2.45
-# Total Working: 4
+# Total Working: 6
 # Sorted by: Speed (desc), then Ping (asc)
 #
-# Speed: 34.14 Mbps | Ping: 110ms
+# Speed: 36.98 Mbps | Ping: 182ms
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@185.135.86.175:9033#⚡02 | ⚡Telegram = t.me/ex_proxies
+
+# Speed: 34.56 Mbps | Ping: 102ms
 vless://bfc6755a-0c89-4904-849a-e4cbc0f3a17c@109.248.162.218:11209?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20186ms
 
-# Speed: 32.07 Mbps | Ping: 413ms
+# Speed: 22.22 Mbps | Ping: 161ms
 vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20down
 
-# Speed: 11.88 Mbps | Ping: 403ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0245
-
-# Speed: 11.61 Mbps | Ping: 1978ms
+# Speed: 11.67 Mbps | Ping: 2012ms
 vmess://eyJhZGQiOiIxNTEuMjQxLjE5LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Ik5MIPCfh7Pwn4exIHwgQFJheWRpa2FseCB8IDRDODdGOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# Speed: 4.58 Mbps | Ping: 371ms
+vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoib3IzLnNmYWNnLnVrIiwiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb3IzIiwicG9ydCI6IjIwODMiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDVBQ0JGNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjZG4uc2ZhY2cudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+# Speed: 0.00 Mbps | Ping: 282ms
+vless://93fa8bdb-9cca-4a3e-8355-b7c12e4f595e@104.25.5.52:443?security=tls&type=ws&path=%2Fvl%2FyLWNcuUuw1jlJpkDhGy%3Fed%3D2560&host=fornewiran.ade-1000.workers.dev&packetEncoding=xudp&sni=fornewiran.ade-1000.workers.dev&fp=chrome#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 
